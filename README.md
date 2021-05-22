@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [webdevops/go-replace](https://github.com/webdevops/go-replace) - Replace in file console utility written in golang (for eg. usage in docker images)

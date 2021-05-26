@@ -55,12 +55,12 @@
 
 ## C 
 
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [EtchedPixels/FUZIX](https://github.com/EtchedPixels/FUZIX) - FuzixOS: Because Small Is Beautiful
 - [davidramiro/Marlin-Ai3M](https://github.com/davidramiro/Marlin-Ai3M) - 🖨 Marlin firmware optimized for the Anycubic i3 Mega 3D printer
 - [qhess34/arduino_trafficlight](https://github.com/qhess34/arduino_trafficlight) - 
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
-- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [kornelski/giflossy](https://github.com/kornelski/giflossy) - Merged into Gifsicle!
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes

@@ -320,6 +320,7 @@
 
 ## Python 
 
+- [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Khrisbie/blender-woodworking](https://github.com/Khrisbie/blender-woodworking) - Blender extensions for woodworking
 - [simsax/Voice_cloner](https://github.com/simsax/Voice_cloner) - A guide to clone anyone's voice and use it as a text-to-speech with android

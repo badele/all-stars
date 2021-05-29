@@ -320,6 +320,7 @@
 
 ## Python 
 
+- [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Khrisbie/blender-woodworking](https://github.com/Khrisbie/blender-woodworking) - Blender extensions for woodworking

@@ -320,6 +320,7 @@
 
 ## Python 
 
+- [kostajh/taskwarrior-time-tracking-hook](https://github.com/kostajh/taskwarrior-time-tracking-hook) - A simple Taskwarrior hook allowing one to track total time spent on a task.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!

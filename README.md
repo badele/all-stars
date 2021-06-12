@@ -55,6 +55,7 @@
 
 ## C 
 
+- [apoluekt/OpenRPNCalc](https://github.com/apoluekt/OpenRPNCalc) - Open-source and open-hardware scientific RPN calculator
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [EtchedPixels/FUZIX](https://github.com/EtchedPixels/FUZIX) - FuzixOS: Because Small Is Beautiful

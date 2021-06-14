@@ -364,7 +364,7 @@
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [mvexel/overpass-api-python-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) - Python bindings for the OpenStreetMap Overpass API
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
-- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [remisalmon/Strava-local-heatmap](https://github.com/remisalmon/Strava-local-heatmap) - Python script to generate a high resolution heatmap from Strava GPX files
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.

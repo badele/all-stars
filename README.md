@@ -457,6 +457,7 @@
 
 ## Shell 
 
+- [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [jluttine/rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Configurable power menu mode for Rofi and dmenu
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
 - [Dreamscapes/atlas-archlinux](https://github.com/Dreamscapes/atlas-archlinux) - The only Arch Linux box for Vagrant with support for VMWare, Parallels and VirtualBox & Guest Utils

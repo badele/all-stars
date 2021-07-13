@@ -11,7 +11,6 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CartoCSS](#cartocss)
-  - [CoffeeScript](#coffeescript)
   - [Dockerfile](#dockerfile)
   - [Erlang](#erlang)
   - [Gnuplot](#gnuplot)
@@ -113,10 +112,6 @@
 
 - [cyclosm/cyclosm-cartocss-style](https://github.com/cyclosm/cyclosm-cartocss-style) - Cycle oriented CartoCSS style.
 
-## CoffeeScript 
-
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-
 ## Dockerfile 
 
 - [onedr0p/home-operations](https://github.com/onedr0p/home-operations) - Highly opinionated Ansible playbooks, Ansible roles, and other things that are used to maintain my home-cluster
@@ -216,6 +211,7 @@
 - [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [blocktronics/moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries

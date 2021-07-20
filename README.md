@@ -120,7 +120,7 @@
 
 ## Erlang 
 
-- [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, distributed MQTT Message Broker for Large-scale IoT Applications.
+- [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
 
 ## Gnuplot 
 

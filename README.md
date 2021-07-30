@@ -344,7 +344,7 @@
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
-- [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time 2D object tracking to any detector.
+- [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time object tracking to any detector.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -422,7 +422,7 @@
 - [python-diamond/Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 - [crccheck/cloudwatch-to-graphite](https://github.com/crccheck/cloudwatch-to-graphite) - Helper for pushing AWS CloudWatch metrics to Graphite
 - [Danielhiversen/pyRFXtrx](https://github.com/Danielhiversen/pyRFXtrx) - A Python library to communicate with the RFXtrx family of devices from http://www.rfxcom.com/ . Included in http://www.home-assistant.io
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [roger-/pyrtlsdr](https://github.com/roger-/pyrtlsdr) - A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)
 - [yoannsculo/JobCatcher](https://github.com/yoannsculo/JobCatcher) - 
 - [samuel/python-munin](https://github.com/samuel/python-munin) - Python framework for building Munin plugins (also includes some plugins prebuilt).

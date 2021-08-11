@@ -181,6 +181,7 @@
 
 ## HTML 
 
+- [scrapehero/selectorlib](https://github.com/scrapehero/selectorlib) - A library to read a YML file with Xpath or CSS Selectors and extract data from HTML pages using them
 - [covidatlas/coronadatascraper](https://github.com/covidatlas/coronadatascraper) - COVID-19 Coronavirus data scraped from government and curated data sources.
 - [jesuisundesdeux/vigilo-ar](https://github.com/jesuisundesdeux/vigilo-ar) - 
 - [jingwen-z/jingwen-z.github.io](https://github.com/jingwen-z/jingwen-z.github.io) - 

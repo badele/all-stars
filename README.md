@@ -80,7 +80,7 @@
 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [aappleby/MetroBoy](https://github.com/aappleby/MetroBoy) - A repository of gate-level simulators and tools for the original Game Boy.
-- [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth
+- [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD

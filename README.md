@@ -334,6 +334,7 @@
 
 ## Python 
 
+- [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
@@ -471,6 +472,7 @@
 
 ## Shell 
 
+- [paulRbr/minimal-iptables](https://github.com/paulRbr/minimal-iptables) - A minimal set of iptables rules to accept only HTTPS and SSH as input
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [jluttine/rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Configurable power menu mode for Rofi and dmenu
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere

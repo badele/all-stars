@@ -334,6 +334,7 @@
 
 ## Python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments

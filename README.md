@@ -284,6 +284,7 @@
 
 ## Others 
 
+- [owid/owid-datasets](https://github.com/owid/owid-datasets) - OWID Dataset Collection
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
@@ -334,6 +335,8 @@
 
 ## Python 
 
+- [owid/importers](https://github.com/owid/importers) - Bulk import scripts for ingesting large external datasets into OWID's master dataset.
+- [owid/co2-data](https://github.com/owid/co2-data) - Data on CO2 and greenhouse gas emissions by Our World in Data
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
@@ -511,6 +514,7 @@
 
 ## TypeScript 
 
+- [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser

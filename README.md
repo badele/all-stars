@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [taskinen/dnsdiag](https://github.com/taskinen/dnsdiag) - DNS Diagnostics and Performance Measurement Tools
 - [owid/importers](https://github.com/owid/importers) - Bulk import scripts for ingesting large external datasets into OWID's master dataset.
 - [owid/co2-data](https://github.com/owid/co2-data) - Data on CO2 and greenhouse gas emissions by Our World in Data
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter

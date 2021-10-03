@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [taskinen/dnsdiag](https://github.com/taskinen/dnsdiag) - DNS Diagnostics and Performance Measurement Tools
 - [owid/importers](https://github.com/owid/importers) - Bulk import scripts for ingesting large external datasets into OWID's master dataset.
 - [owid/co2-data](https://github.com/owid/co2-data) - Data on CO2 and greenhouse gas emissions by Our World in Data
@@ -378,7 +379,7 @@
 - [ilanschnell/bitarray](https://github.com/ilanschnell/bitarray) - efficient arrays of booleans for Python
 - [waymarkedtrails/waymarked-trails-site](https://github.com/waymarkedtrails/waymarked-trails-site) - source code for the waymarkedtrails.org route websites
 - [Telraam/Telraam-RPi](https://github.com/Telraam/Telraam-RPi) - The scripts that run on the Telraam Raspberry Pi computers, responsible for connecting to the local wifi, traffic monitoring and communicating with the central Telraam servers.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
 - [mfa/staticmap](https://github.com/mfa/staticmap) - A small, python-based library for creating map images with lines, markers and polygons.
 - [komoot/staticmap](https://github.com/komoot/staticmap) - A small, python-based library for creating map images with lines, markers and polygons.
 - [delimitry/collage_maker](https://github.com/delimitry/collage_maker) - Picture collage maker in Python
@@ -455,6 +456,7 @@
 
 ## Rust 
 
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -515,6 +517,7 @@
 
 ## TypeScript 
 
+- [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams

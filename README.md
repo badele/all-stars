@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [techouse/mysql-to-sqlite3](https://github.com/techouse/mysql-to-sqlite3) - Transfer data from MySQL to SQLite
 - [kewlfft/ansible-aur](https://github.com/kewlfft/ansible-aur) - Ansible module to manage packages from the AUR
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [taskinen/dnsdiag](https://github.com/taskinen/dnsdiag) - DNS Diagnostics and Performance Measurement Tools

@@ -384,7 +384,7 @@
 - [ilanschnell/bitarray](https://github.com/ilanschnell/bitarray) - efficient arrays of booleans for Python
 - [waymarkedtrails/waymarked-trails-site](https://github.com/waymarkedtrails/waymarked-trails-site) - source code for the waymarkedtrails.org route websites
 - [Telraam/Telraam-RPi](https://github.com/Telraam/Telraam-RPi) - The scripts that run on the Telraam Raspberry Pi computers, responsible for connecting to the local wifi, traffic monitoring and communicating with the central Telraam servers.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [mfa/staticmap](https://github.com/mfa/staticmap) - A small, python-based library for creating map images with lines, markers and polygons.
 - [komoot/staticmap](https://github.com/komoot/staticmap) - A small, python-based library for creating map images with lines, markers and polygons.
 - [delimitry/collage_maker](https://github.com/delimitry/collage_maker) - Picture collage maker in Python

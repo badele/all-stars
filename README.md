@@ -486,6 +486,7 @@
 
 ## Shell 
 
+- [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [paulRbr/minimal-iptables](https://github.com/paulRbr/minimal-iptables) - A minimal set of iptables rules to accept only HTTPS and SSH as input
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [jluttine/rofi-power-menu](https://github.com/jluttine/rofi-power-menu) - Configurable power menu mode for Rofi and dmenu

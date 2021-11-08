@@ -34,6 +34,7 @@
   - [PostScript](#postscript)
   - [Processing](#processing)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -187,6 +188,7 @@
 
 ## HTML 
 
+- [themefisher/parsa-hugo](https://github.com/themefisher/parsa-hugo) - Parsa is a personal blog theme powered by Hugo. It has two homepages. Also can be used for portfolio template
 - [scrapehero/selectorlib](https://github.com/scrapehero/selectorlib) - A library to read a YML file with Xpath or CSS Selectors and extract data from HTML pages using them
 - [covidatlas/coronadatascraper](https://github.com/covidatlas/coronadatascraper) - COVID-19 Coronavirus data scraped from government and curated data sources.
 - [jingwen-z/jingwen-z.github.io](https://github.com/jingwen-z/jingwen-z.github.io) - 
@@ -455,6 +457,10 @@
 - [yoannsculo/JobCatcher](https://github.com/yoannsculo/JobCatcher) - 
 - [samuel/python-munin](https://github.com/samuel/python-munin) - Python framework for building Munin plugins (also includes some plugins prebuilt).
 - [fabtools/fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files
+
+## R 
+
+- [r-lib/hugodown](https://github.com/r-lib/hugodown) - Make websites with hugo and RMarkdown
 
 ## Ruby 
 

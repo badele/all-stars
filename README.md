@@ -461,6 +461,9 @@
 
 ## R 
 
+- [rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot) - A user-friendly, highly customizable R package for building horizon plots in ggplot2
+- [davidsjoberg/ggbump](https://github.com/davidsjoberg/ggbump) - A geom for ggplot to create bump plots
+- [hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components
 - [r-lib/hugodown](https://github.com/r-lib/hugodown) - Make websites with hugo and RMarkdown
 
 ## Ruby 

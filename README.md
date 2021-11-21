@@ -159,7 +159,7 @@
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
-- [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
+- [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [AcalephStorage/consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
@@ -461,6 +461,8 @@
 
 ## R 
 
+- [collectivemedia/tictoc](https://github.com/collectivemedia/tictoc) - R package with extended timing functions tic/toc, as well as stack and list structures.
+- [HenrikBengtsson/R.cache](https://github.com/HenrikBengtsson/R.cache) - :recycle: R package: R.cache - Fast and Light-weight Caching (Memoization) of Objects and Results to Speed Up Computations
 - [EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer) - 🎨🎨🎨 Collection of most color palettes in a single R package
 - [rivasiker/ggHoriPlot](https://github.com/rivasiker/ggHoriPlot) - A user-friendly, highly customizable R package for building horizon plots in ggplot2
 - [davidsjoberg/ggbump](https://github.com/davidsjoberg/ggbump) - A geom for ggplot to create bump plots

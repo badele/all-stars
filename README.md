@@ -462,6 +462,7 @@
 
 ## R 
 
+- [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other.
 - [collectivemedia/tictoc](https://github.com/collectivemedia/tictoc) - R package with extended timing functions tic/toc, as well as stack and list structures.
 - [HenrikBengtsson/R.cache](https://github.com/HenrikBengtsson/R.cache) - :recycle: R package: R.cache - Fast and Light-weight Caching (Memoization) of Objects and Results to Speed Up Computations
 - [EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer) - 🎨🎨🎨 Collection of most color palettes in a single R package

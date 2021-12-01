@@ -220,6 +220,7 @@
 
 ## JavaScript 
 
+- [laem/villes.plus](https://github.com/laem/villes.plus) - Classement des villes françaises les + piétonnes (et bientôt cyclables)
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [tilemill-project/tilemill](https://github.com/tilemill-project/tilemill) - TileMill is a modern map design studio
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -462,6 +463,7 @@
 
 ## R 
 
+- [duforetn/fr-mapper](https://github.com/duforetn/fr-mapper) - An R tool to nicely visualize a metric
 - [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other.
 - [collectivemedia/tictoc](https://github.com/collectivemedia/tictoc) - R package with extended timing functions tic/toc, as well as stack and list structures.
 - [HenrikBengtsson/R.cache](https://github.com/HenrikBengtsson/R.cache) - :recycle: R package: R.cache - Fast and Light-weight Caching (Memoization) of Objects and Results to Speed Up Computations
@@ -495,6 +497,7 @@
 
 ## SCSS 
 
+- [dreamRs/weather](https://github.com/dreamRs/weather) - Weather icons in ggplot2, shiny and rmarkdown
 - [devopsbookmarks/devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) - Website of devopsbookmarks.com
 
 ## Scheme 

@@ -463,6 +463,9 @@
 
 ## R 
 
+- [tidyverse/lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier
+- [dkahle/ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2
+- [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
 - [duforetn/fr-mapper](https://github.com/duforetn/fr-mapper) - An R tool to nicely visualize a metric
 - [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other.
 - [collectivemedia/tictoc](https://github.com/collectivemedia/tictoc) - R package with extended timing functions tic/toc, as well as stack and list structures.

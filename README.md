@@ -345,6 +345,7 @@
 
 ## Python 
 
+- [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
 - [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators from Amnesty International's investigations
 - [datapane/datapane](https://github.com/datapane/datapane) - Datapane is the easiest way to create data science reports from Python.
@@ -510,6 +511,7 @@
 
 ## Shell 
 
+- [pgrange/bash_unit](https://github.com/pgrange/bash_unit) - bash unit testing enterprise edition framework for professionals
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [paulRbr/minimal-iptables](https://github.com/paulRbr/minimal-iptables) - A minimal set of iptables rules to accept only HTTPS and SSH as input
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line

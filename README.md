@@ -465,6 +465,7 @@
 
 ## R 
 
+- [yutannihilation/gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R
 - [tidyverse/lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier
 - [dkahle/ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2

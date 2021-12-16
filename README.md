@@ -378,6 +378,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
+- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time object tracking to any detector.
@@ -529,7 +530,6 @@
 - [pad92/docker-ansible-alpine](https://github.com/pad92/docker-ansible-alpine) - docker ansible container based on Alpine Linux
 - [hypriot/flash](https://github.com/hypriot/flash) - Command line script to flash SD card images of any kind
 - [onedr0p/k3s-gitops-arm](https://github.com/onedr0p/k3s-gitops-arm) - k3s cluster backed by Flux (GitOps) up and running on a cluster of RPi4
-- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) - 
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator.
 - [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.

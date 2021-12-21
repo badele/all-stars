@@ -324,7 +324,7 @@
 
 ## POV-Ray SDL 
 
-- [bullet-physics-playground/bpp](https://github.com/bullet-physics-playground/bpp) - The Bullet Physics Playground
+- [bullet-physics-playground/bpp](https://github.com/bullet-physics-playground/bpp) - The Bullet Physics Playground.
 
 ## Perl 
 
@@ -345,6 +345,7 @@
 
 ## Python 
 
+- [koordinates/kart](https://github.com/koordinates/kart) - Distributed version-control for geospatial and tabular data
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
 - [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators from Amnesty International's investigations

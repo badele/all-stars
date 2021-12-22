@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [ropensci/osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [aappleby/MetroBoy](https://github.com/aappleby/MetroBoy) - A repository of gate-level simulators and tools for the original Game Boy.
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth

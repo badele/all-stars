@@ -468,6 +468,8 @@
 
 ## R 
 
+- [next-game-solutions/geckor](https://github.com/next-game-solutions/geckor) - An R client for the public CoinGecko API
+- [sstoeckl/crypto2](https://github.com/sstoeckl/crypto2) - Cryptocurrency Market Data
 - [DominikRafacz/deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages
 - [delabj/ggCyberPunk](https://github.com/delabj/ggCyberPunk) - A "Geom" for creating charts with a cyberpunk aesthetic
 - [AllanCameron/geomtextpath](https://github.com/AllanCameron/geomtextpath) - Create curved text paths in ggplot2

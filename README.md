@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [ropensci/osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [aappleby/MetroBoy](https://github.com/aappleby/MetroBoy) - A repository of gate-level simulators and tools for the original Game Boy.
@@ -391,7 +392,7 @@
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [ethankruse/kepler_orrery](https://github.com/ethankruse/kepler_orrery) - Make a Kepler orrery gif or movie of all the Kepler multi-planet systems
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
-- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [zimmermant/manim_tutorial](https://github.com/zimmermant/manim_tutorial) - Files to accompany postings at talkingphysics.wordpress.com on how to use manim
 - [malhotra5/Manim-Tutorial](https://github.com/malhotra5/Manim-Tutorial) - A tutorial for manim, a mathematical animation engine made by 3b1b

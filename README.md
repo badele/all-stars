@@ -417,7 +417,7 @@
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [g-oikonomou/sensniff](https://github.com/g-oikonomou/sensniff) - Live Traffic Capture and Sniffer for IEEE 802.15.4 networks
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Platform for Kubernetes (MLOps tools for experimentation and automation)
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Management & Orchestration Platform (Monorepo for Polyaxon's MLOps Tools)
 - [wavexx/screenkey](https://github.com/wavexx/screenkey) - A screencast tool to display your keys inspired by Screenflick
 - [pyauth/pyotp](https://github.com/pyauth/pyotp) - Python One-Time Password Library
 - [maaaaz/webscreenshot](https://github.com/maaaaz/webscreenshot) - A simple script to screenshot a list of websites

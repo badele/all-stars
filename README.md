@@ -413,7 +413,7 @@
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [remisalmon/Strava-local-heatmap](https://github.com/remisalmon/Strava-local-heatmap) - Python script to generate a high resolution heatmap from Strava GPX files
-- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [g-oikonomou/sensniff](https://github.com/g-oikonomou/sensniff) - Live Traffic Capture and Sniffer for IEEE 802.15.4 networks

@@ -472,6 +472,8 @@
 
 ## R 
 
+- [riatelab/cartography](https://github.com/riatelab/cartography) - Thematic Cartography for R
+- [ianmoran11/mmtable2](https://github.com/ianmoran11/mmtable2) - Create and combine tables with a ggplot2/patchwork syntax.
 - [next-game-solutions/geckor](https://github.com/next-game-solutions/geckor) - An R client for the public CoinGecko API
 - [sstoeckl/crypto2](https://github.com/sstoeckl/crypto2) - Cryptocurrency Market Data
 - [DominikRafacz/deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages

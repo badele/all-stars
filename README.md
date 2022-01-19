@@ -192,6 +192,9 @@
 
 ## HTML 
 
+- [gkaramanis/tidytuesday](https://github.com/gkaramanis/tidytuesday) - Code and plots for submissions to the #tidytuesday challenge
+- [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
+- [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [PMassicotte/paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery) - A list of color palettes provided by the paletteer R package
 - [themefisher/parsa-hugo](https://github.com/themefisher/parsa-hugo) - Parsa is a personal blog theme powered by Hugo. It has two homepages. Also can be used for portfolio template
 - [scrapehero/selectorlib](https://github.com/scrapehero/selectorlib) - A library to read a YML file with Xpath or CSS Selectors and extract data from HTML pages using them
@@ -472,6 +475,10 @@
 
 ## R 
 
+- [tashapiro/TidyTuesday](https://github.com/tashapiro/TidyTuesday) - TidyTuesday Plots
+- [cnicault/tidytuesday](https://github.com/cnicault/tidytuesday) - My contribution to the #TidyTuesday challenge, with the visualizations and code
+- [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - 📊 My contributions to the #TidyTuesday challenge
+- [LKremer/ggpointdensity](https://github.com/LKremer/ggpointdensity) - :chart_with_upwards_trend: :bar_chart: Introduces geom_pointdensity(): A Cross Between a Scatter Plot and a 2D Density Plot.
 - [marcosci/layer](https://github.com/marcosci/layer) - Create stacked tilted maps
 - [riatelab/cartography](https://github.com/riatelab/cartography) - Thematic Cartography for R
 - [ianmoran11/mmtable2](https://github.com/ianmoran11/mmtable2) - Create and combine tables with a ggplot2/patchwork syntax.

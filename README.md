@@ -80,6 +80,7 @@
 
 ## C++ 
 
+- [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [ropensci/osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data

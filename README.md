@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -236,7 +237,7 @@
 - [laem/villes.plus](https://github.com/laem/villes.plus) - Classement des villes françaises les + piétonnes (et bientôt cyclables)
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [tilemill-project/tilemill](https://github.com/tilemill-project/tilemill) - TileMill is a modern map design studio
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [laem/trainvelo](https://github.com/laem/trainvelo) - Est-ce que mon déplacement, weekend, voyage en France est possible en train + vélo ?
 - [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
@@ -542,6 +543,8 @@
 
 ## Shell 
 
+- [GideonWolfe/dots](https://github.com/GideonWolfe/dots) - 🌀 my linux configuration
+- [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥
 - [pgrange/bash_unit](https://github.com/pgrange/bash_unit) - bash unit testing enterprise edition framework for professionals
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [paulRbr/minimal-iptables](https://github.com/paulRbr/minimal-iptables) - A minimal set of iptables rules to accept only HTTPS and SSH as input

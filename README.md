@@ -232,6 +232,7 @@
 
 ## JavaScript 
 
+- [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [geodienst/lighthousemap](https://github.com/geodienst/lighthousemap) - OpenStreetMap's Blinking Beacons
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 - [laem/villes.plus](https://github.com/laem/villes.plus) - Classement des villes françaises les + piétonnes (et bientôt cyclables)

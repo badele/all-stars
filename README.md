@@ -604,7 +604,7 @@
 - [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave) - Visual Studio Code extension to run commands whenever a file is saved.
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [sshmaxime/GoGame](https://github.com/sshmaxime/GoGame) - Online 2D game engine. Open-Source. Real-Time. Participative :rocket:
-- [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform) - A Visual Studio Code extension for Hashicorp Terraform
+- [hashicorp/vscode-terraform](https://github.com/hashicorp/vscode-terraform) - HashiCorp Terraform VSCode extension
 - [bqplot/bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code

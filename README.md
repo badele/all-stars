@@ -56,6 +56,7 @@
 
 ## C 
 
+- [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) - Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [apoluekt/OpenRPNCalc](https://github.com/apoluekt/OpenRPNCalc) - Open-source and open-hardware scientific RPN calculator

@@ -203,6 +203,7 @@
 ## HTML 
 
 - [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap France 2 and TF1 Tv news to analyse humanity's biggest challenge : fossil energies and climate change.
+- [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - 📊 My contributions to the #TidyTuesday challenge
 - [gkaramanis/tidytuesday](https://github.com/gkaramanis/tidytuesday) - Code and plots for submissions to the #tidytuesday challenge
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
@@ -501,7 +502,6 @@
 - [Duvancho321/Tidyuesday](https://github.com/Duvancho321/Tidyuesday) - 
 - [tashapiro/TidyTuesday](https://github.com/tashapiro/TidyTuesday) - Data visualizations produced for  #TidyTuesdayChallenge, a challenge hosted by R for Data Science.
 - [cnicault/tidytuesday](https://github.com/cnicault/tidytuesday) - My contribution to the #TidyTuesday challenge, with the visualizations and code
-- [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - 📊 My contributions to the #TidyTuesday challenge
 - [LKremer/ggpointdensity](https://github.com/LKremer/ggpointdensity) - :chart_with_upwards_trend: :bar_chart: Introduces geom_pointdensity(): A Cross Between a Scatter Plot and a 2D Density Plot.
 - [marcosci/layer](https://github.com/marcosci/layer) - Create stacked tilted maps
 - [riatelab/cartography](https://github.com/riatelab/cartography) - Thematic Cartography for R

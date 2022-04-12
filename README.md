@@ -10,6 +10,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [CUE](#cue)
   - [CartoCSS](#cartocss)
   - [Dockerfile](#dockerfile)
   - [Erlang](#erlang)
@@ -124,6 +125,10 @@
 
 - [broncowdd/SnippetVamp](https://github.com/broncowdd/SnippetVamp) - Store, share & manage your snippets easily
 
+## CUE 
+
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
+
 ## CartoCSS 
 
 - [cyclosm/cyclosm-cartocss-style](https://github.com/cyclosm/cyclosm-cartocss-style) - Cycle oriented CartoCSS style.
@@ -160,7 +165,6 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
-- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [webdevops/go-replace](https://github.com/webdevops/go-replace) - Replace in file console utility written in golang (for eg. usage in docker images)
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go

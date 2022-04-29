@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [VCVRack/Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
 - [koolfy/Co2lfy](https://github.com/koolfy/Co2lfy) - 
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).

@@ -207,7 +207,7 @@
 
 ## HTML 
 
-- [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap France 2 and TF1 Tv news to analyse humanity's biggest challenge : fossil energies and climate change.
+- [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap France 2, France 3, and TF1 Tv news to analyse humanity's biggest challenge : fossil energies and climate change.
 - [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - 📊 My contributions to the #TidyTuesday challenge
 - [gkaramanis/tidytuesday](https://github.com/gkaramanis/tidytuesday) - Code and plots for submissions to the #tidytuesday challenge
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
@@ -642,7 +642,7 @@
 
 ## Vue 
 
-- [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A chrome extension for automating your browser by connecting blocks
 - [timoschwarzer/gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 
 

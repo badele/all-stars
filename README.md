@@ -379,6 +379,7 @@
 
 ## Python 
 
+- [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [nuitducode/DOCUMENTATION](https://github.com/nuitducode/DOCUMENTATION) - 🗂️ Documentation
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation

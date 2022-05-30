@@ -238,6 +238,7 @@
 
 ## Java 
 
+- [enioka/enioka_scan](https://github.com/enioka/enioka_scan) - 
 - [labexp/osmtracker-android](https://github.com/labexp/osmtracker-android) - GPS tracking tool for OpenStreetMap
 - [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) - Electronic Circuit Simulator in the Browser
 

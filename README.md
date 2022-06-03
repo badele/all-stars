@@ -90,7 +90,6 @@
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
-- [ropensci/osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [aappleby/MetroBoy](https://github.com/aappleby/MetroBoy) - A repository of gate-level simulators and tools for the original Game Boy.
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
@@ -520,6 +519,7 @@
 - [DominikRafacz/deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages
 - [delabj/ggCyberPunk](https://github.com/delabj/ggCyberPunk) - A "Geom" for creating charts with a cyberpunk aesthetic
 - [AllanCameron/geomtextpath](https://github.com/AllanCameron/geomtextpath) - Create curved text paths in ggplot2
+- [ropensci/osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data
 - [yutannihilation/gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R
 - [tidyverse/lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier

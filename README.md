@@ -358,7 +358,7 @@
 
 ## POV-Ray SDL 
 
-- [bullet-physics-playground/bpp](https://github.com/bullet-physics-playground/bpp) - The Bullet Physics Playground.
+- [bullet-physics-playground/bpp](https://github.com/bullet-physics-playground/bpp) - The Bullet Physics Playground – Bullet Real-Time Physics Simulation.
 
 ## Perl 
 

@@ -381,6 +381,7 @@
 
 ## Python 
 
+- [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [Peco602/findwall](https://github.com/Peco602/findwall) - Check if your provider is blocking you!
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python

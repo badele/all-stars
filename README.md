@@ -510,6 +510,7 @@
 
 ## R 
 
+- [pialdama/Covid](https://github.com/pialdama/Covid) - 
 - [Duvancho321/Tidyuesday](https://github.com/Duvancho321/Tidyuesday) - 
 - [tashapiro/TidyTuesday](https://github.com/tashapiro/TidyTuesday) - Data visualizations produced for  #TidyTuesdayChallenge, a challenge hosted by R for Data Science.
 - [cnicault/tidytuesday](https://github.com/cnicault/tidytuesday) - My contribution to the #TidyTuesday challenge, with the visualizations and code

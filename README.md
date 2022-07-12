@@ -250,6 +250,7 @@
 ## JavaScript 
 
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [geodienst/lighthousemap](https://github.com/geodienst/lighthousemap) - OpenStreetMap's Blinking Beacons
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 - [laem/villes.plus](https://github.com/laem/villes.plus) - Classement des villes françaises les + piétonnes (et bientôt cyclables)
@@ -655,7 +656,6 @@
 
 ## Vue 
 
-- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [timoschwarzer/gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 
 

@@ -214,7 +214,7 @@
 ## HTML 
 
 - [N0NameN0/WAB_Ansi_Logo_Maker](https://github.com/N0NameN0/WAB_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
-- [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap France 2, France 3, and TF1 Tv news to analyse humanity's biggest challenge : fossil energies and climate change.
+- [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap french TV news to analyse humanity's biggest challenge : fossil energies and climate change.
 - [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - 📊 My contributions to the #TidyTuesday challenge
 - [gkaramanis/tidytuesday](https://github.com/gkaramanis/tidytuesday) - Code and plots for submissions to the #tidytuesday challenge
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions

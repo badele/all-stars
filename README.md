@@ -510,7 +510,7 @@
 - [crccheck/cloudwatch-to-graphite](https://github.com/crccheck/cloudwatch-to-graphite) - Helper for pushing AWS CloudWatch metrics to Graphite
 - [Danielhiversen/pyRFXtrx](https://github.com/Danielhiversen/pyRFXtrx) - A Python library to communicate with the RFXtrx family of devices from http://www.rfxcom.com/ . Included in http://www.home-assistant.io
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [roger-/pyrtlsdr](https://github.com/roger-/pyrtlsdr) - A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)
+- [pyrtlsdr/pyrtlsdr](https://github.com/pyrtlsdr/pyrtlsdr) - A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)
 - [yoannsculo/JobCatcher](https://github.com/yoannsculo/JobCatcher) - 
 - [samuel/python-munin](https://github.com/samuel/python-munin) - Python framework for building Munin plugins (also includes some plugins prebuilt).
 - [fabtools/fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files

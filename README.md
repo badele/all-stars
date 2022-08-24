@@ -213,7 +213,7 @@
 ## HTML 
 
 - [N0NameN0/WAB_Ansi_Logo_Maker](https://github.com/N0NameN0/WAB_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
-- [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - 📊 My contributions to the #TidyTuesday challenge
+- [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - My contributions to the #TidyTuesday challenge, a weekly data visualization challenge. All plots are 💯 created in R with ggplot2.
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [PMassicotte/paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery) - A list of color palettes provided by the paletteer R package

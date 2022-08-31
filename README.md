@@ -297,6 +297,7 @@
 
 ## Jupyter Notebook 
 
+- [lakshmanok/lakblogs](https://github.com/lakshmanok/lakblogs) - Code and notebooks associated with my blogposts
 - [sedthh/pyxelate](https://github.com/sedthh/pyxelate) - Python class that generates pixel art from images
 - [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap french TV news to analyse humanity's biggest challenge : fossil energies and climate change.
 - [bcharlier/HMMA238](https://github.com/bcharlier/HMMA238) - This is the public repo for the course HMMA238 'Software Development'

@@ -437,7 +437,7 @@
 - [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time object tracking to any detector.
+- [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [ethankruse/kepler_orrery](https://github.com/ethankruse/kepler_orrery) - Make a Kepler orrery gif or movie of all the Kepler multi-planet systems

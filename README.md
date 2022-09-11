@@ -558,6 +558,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.

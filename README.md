@@ -214,7 +214,6 @@
 ## HTML 
 
 - [N0NameN0/WAB_Ansi_Logo_Maker](https://github.com/N0NameN0/WAB_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
-- [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - My contributions to the #TidyTuesday challenge, a weekly data visualization challenge. All plots are 💯 created in R with ggplot2.
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [PMassicotte/paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery) - A list of color palettes provided by the paletteer R package
@@ -523,6 +522,7 @@
 - [Duvancho321/Tidyuesday](https://github.com/Duvancho321/Tidyuesday) - 
 - [tashapiro/TidyTuesday](https://github.com/tashapiro/TidyTuesday) - Data visualizations produced for  #TidyTuesdayChallenge, a challenge hosted by R for Data Science.
 - [cnicault/tidytuesday](https://github.com/cnicault/tidytuesday) - My contribution to the #TidyTuesday challenge, with the visualizations and code
+- [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - My contributions to the #TidyTuesday challenge, a weekly data visualization challenge. All plots are 💯 created in R with ggplot2.
 - [gkaramanis/tidytuesday](https://github.com/gkaramanis/tidytuesday) - Code and plots for submissions to the #tidytuesday challenge
 - [LKremer/ggpointdensity](https://github.com/LKremer/ggpointdensity) - :chart_with_upwards_trend: :bar_chart: Introduces geom_pointdensity(): A Cross Between a Scatter Plot and a 2D Density Plot.
 - [marcosci/layer](https://github.com/marcosci/layer) - Create stacked tilted maps

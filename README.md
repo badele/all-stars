@@ -390,6 +390,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [blark/aiodnsbrute](https://github.com/blark/aiodnsbrute) - Python 3.5+ DNS asynchronous brute force utility
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
@@ -559,6 +560,8 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -590,6 +593,7 @@
 
 ## Shell 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [GideonWolfe/dots](https://github.com/GideonWolfe/dots) - 🌀 my linux configuration
 - [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥

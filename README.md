@@ -342,6 +342,7 @@
 - [owid/owid-datasets](https://github.com/owid/owid-datasets) - OWID Dataset Collection
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [Gnuplotting/gnuplot-palettes](https://github.com/Gnuplotting/gnuplot-palettes) - Color palettes for gnuplot
@@ -563,6 +564,7 @@
 
 ## Rust 
 
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [Canop/lfs](https://github.com/Canop/lfs) - A linux utility to get information on filesystems, like df but better
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -608,7 +610,6 @@
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
 - [Dreamscapes/atlas-archlinux](https://github.com/Dreamscapes/atlas-archlinux) - The only Arch Linux box for Vagrant with support for VMWare, Parallels and VirtualBox & Guest Utils
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
-- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes

@@ -576,6 +576,7 @@
 
 ## Rust 
 
+- [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [Canop/lfs](https://github.com/Canop/lfs) - A linux utility to get information on filesystems, like df but better
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust

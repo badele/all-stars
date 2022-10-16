@@ -28,6 +28,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Mustache](#mustache)
+- [Nix](#nix)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -217,6 +218,7 @@
 
 ## HCL 
 
+- [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
 - [flatcar/flatcar-terraform](https://github.com/flatcar/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
 - [terraform-google-modules/terraform-google-vault](https://github.com/terraform-google-modules/terraform-google-vault) - Modular deployment of Vault on Google Compute Engine with Terraform
 
@@ -338,6 +340,10 @@
 ## Mustache 
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
+
+## Nix 
+
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 
 ## OpenSCAD 
 
@@ -576,6 +582,7 @@
 
 ## Ruby 
 
+- [nix-community/vagrant-nixos-plugin](https://github.com/nix-community/vagrant-nixos-plugin) - Vagrant plugin to add nixos guest capabilities and nix provisioning [maintainer=@zimbatm]
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [hypriot/image-builder-rpi](https://github.com/hypriot/image-builder-rpi) - SD card image for Raspberry Pi with Docker: HypriotOS
 - [luiscript/SonicPi-Music](https://github.com/luiscript/SonicPi-Music) - Music & experiments with SonicPi

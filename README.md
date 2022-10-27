@@ -346,6 +346,7 @@
 
 ## Nix 
 
+- [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -605,6 +606,7 @@
 
 ## Rust 
 
+- [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust

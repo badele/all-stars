@@ -152,6 +152,7 @@
 
 ## Go 
 
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -647,6 +648,7 @@
 
 ## Shell 
 
+- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [csdvrx/sixel-testsuite](https://github.com/csdvrx/sixel-testsuite) - Test suite for ANSI (color, attributes) and sixel support
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.

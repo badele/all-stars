@@ -61,6 +61,7 @@
 
 ## C 
 
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) - Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
@@ -153,6 +154,7 @@
 
 ## Go 
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy

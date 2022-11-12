@@ -352,6 +352,7 @@
 
 ## Nix 
 
+- [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
 - [Mic92/nix-index-database](https://github.com/Mic92/nix-index-database) - Weekly updated nix-index database
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions
@@ -373,6 +374,7 @@
 
 ## Others 
 
+- [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [pafnow/vrt-graphml-for-yed](https://github.com/pafnow/vrt-graphml-for-yed) - VRT GraphML palettes for yEd. Based On VRT Extension For LibreOffice Draw.
@@ -435,6 +437,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [bliseng/aws-tag-a-day](https://github.com/bliseng/aws-tag-a-day) - A tool for simplifying swarming of fixing tags
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
 - [brian-dawn/nix-flake-poetry-example](https://github.com/brian-dawn/nix-flake-poetry-example) - Python + Poetry + Nix Flakes

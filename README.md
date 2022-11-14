@@ -89,6 +89,7 @@
 
 ## C++ 
 
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [briandorey/Home-Assistant-eink-remote-display](https://github.com/briandorey/Home-Assistant-eink-remote-display) - A remote display showing Home Assistant data  on a 2.9 inch e-ink epaper display
 - [VCVRack/Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
@@ -437,6 +438,7 @@
 
 ## Python 
 
+- [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [bliseng/aws-tag-a-day](https://github.com/bliseng/aws-tag-a-day) - A tool for simplifying swarming of fixing tags
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]

@@ -253,6 +253,7 @@
 
 ## Haskell 
 
+- [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -352,6 +353,8 @@
 
 ## Nix 
 
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
 - [Mic92/nix-index-database](https://github.com/Mic92/nix-index-database) - Weekly updated nix-index database
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates

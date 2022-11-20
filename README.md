@@ -318,6 +318,7 @@
 
 ## Jinja 
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s) - Ansible role for installing k3s as either a standalone server or HA cluster.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
@@ -353,6 +354,7 @@
 
 ## Nix 
 
+- [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
@@ -387,6 +389,7 @@
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [owid/owid-datasets](https://github.com/owid/owid-datasets) - OWID Dataset Collection
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -480,7 +483,6 @@
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [hirsch-lab/spiderplot](https://github.com/hirsch-lab/spiderplot) - Utility to create spider charts
 - [kostajh/taskwarrior-time-tracking-hook](https://github.com/kostajh/taskwarrior-time-tracking-hook) - A simple Taskwarrior hook allowing one to track total time spent on a task.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
@@ -626,6 +628,7 @@
 
 ## Rust 
 
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
@@ -665,6 +668,7 @@
 
 ## Shell 
 
+- [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [lgaboury/Sway-Waybar-Install-Script](https://github.com/lgaboury/Sway-Waybar-Install-Script) - This script installs sway window manager and waybar on an Arch-Linux base system.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)

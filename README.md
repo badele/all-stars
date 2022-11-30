@@ -447,6 +447,7 @@
 
 ## Python 
 
+- [washingtonpost/aws-tagger](https://github.com/washingtonpost/aws-tagger) - AWS bulk tagging tool
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [bliseng/aws-tag-a-day](https://github.com/bliseng/aws-tag-a-day) - A tool for simplifying swarming of fixing tags
@@ -631,6 +632,7 @@
 
 ## Rust 
 
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!

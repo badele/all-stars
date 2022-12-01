@@ -89,6 +89,7 @@
 
 ## C++ 
 
+- [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [briandorey/Home-Assistant-eink-remote-display](https://github.com/briandorey/Home-Assistant-eink-remote-display) - A remote display showing Home Assistant data  on a 2.9 inch e-ink epaper display

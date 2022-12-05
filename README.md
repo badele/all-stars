@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀

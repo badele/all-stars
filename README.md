@@ -356,6 +356,7 @@
 
 ## Nix 
 
+- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [TUM-DSE/doctor-cluster-config](https://github.com/TUM-DSE/doctor-cluster-config) - NixOS configuration for TUM cluster
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles

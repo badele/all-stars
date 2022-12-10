@@ -256,6 +256,7 @@
 
 ## Haskell 
 
+- [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts

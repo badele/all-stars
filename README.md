@@ -61,6 +61,7 @@
 
 ## C 
 
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
@@ -230,7 +231,7 @@
 
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
 - [flatcar/flatcar-terraform](https://github.com/flatcar/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
-- [terraform-google-modules/terraform-google-vault](https://github.com/terraform-google-modules/terraform-google-vault) - Modular deployment of Vault on Google Compute Engine with Terraform
+- [terraform-google-modules/terraform-google-vault](https://github.com/terraform-google-modules/terraform-google-vault) - Deploys Vault on Compute Engine
 
 ## HTML 
 
@@ -359,6 +360,7 @@
 
 ## Nix 
 
+- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@Mic92]
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
@@ -718,7 +720,7 @@
 - [kartoza/docker-qgis-desktop](https://github.com/kartoza/docker-qgis-desktop) - A docker project that will run your QGIS desktop app inside a docker container
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD

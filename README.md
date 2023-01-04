@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -363,6 +364,7 @@
 
 ## Nix 
 
+- [DevInsideYou/scala-seed](https://github.com/DevInsideYou/scala-seed) - A Nix flake for getting started with Scala.
 - [kirelagin/dns.nix](https://github.com/kirelagin/dns.nix) - A Nix DSL for DNS zone files
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]

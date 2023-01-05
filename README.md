@@ -365,7 +365,6 @@
 ## Nix 
 
 - [DevInsideYou/scala-seed](https://github.com/DevInsideYou/scala-seed) - A Nix flake for getting started with Scala.
-- [kirelagin/dns.nix](https://github.com/kirelagin/dns.nix) - A Nix DSL for DNS zone files
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs

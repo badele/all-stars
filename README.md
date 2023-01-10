@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [nshttpd/mikrotik-exporter](https://github.com/nshttpd/mikrotik-exporter) - prometheus mikrotik device(s) exporter
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting

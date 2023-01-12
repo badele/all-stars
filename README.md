@@ -81,7 +81,7 @@
 - [kornelski/giflossy](https://github.com/kornelski/giflossy) - Merged into Gifsicle!
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
 - [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
@@ -163,6 +163,7 @@
 
 ## Go 
 
+- [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -410,7 +411,6 @@
 
 ## Others 
 
-- [Kerwood/snmp-exporter-mikrotik](https://github.com/Kerwood/snmp-exporter-mikrotik) - A snmp-exporter configuration for Mikrotik devices
 - [akpw/mktxp-stack](https://github.com/akpw/mktxp-stack) - MKTXP Exporter monitoring stack
 - [samdroid-apps/nix-articles](https://github.com/samdroid-apps/nix-articles) - Some articles about getting started with Nix programming & configuration
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages

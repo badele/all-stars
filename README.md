@@ -287,6 +287,7 @@
 
 ## JavaScript 
 
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [joedski/musings](https://github.com/joedski/musings) - Coalesced Musings across Many Things

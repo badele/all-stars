@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [SuperQ/smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping
 - [czerwonk/ping_exporter](https://github.com/czerwonk/ping_exporter) - Prometheus exporter for ICMP echo requests using https://github.com/digineo/go-ping
 - [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus

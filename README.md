@@ -364,6 +364,7 @@
 
 ## Lua 
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [Thoof/aseprite-custombrushoptions](https://github.com/Thoof/aseprite-custombrushoptions) - A script for aseprite that adds some additional functions to custom brushes
 
 ## Makefile 

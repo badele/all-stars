@@ -347,6 +347,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lakshmanok/lakblogs](https://github.com/lakshmanok/lakblogs) - Code and notebooks associated with my blogposts
 - [sedthh/pyxelate](https://github.com/sedthh/pyxelate) - Python class that generates pixel art from images
 - [polomarcus/television-news-analyser](https://github.com/polomarcus/television-news-analyser) - Scrap french TV news to analyse humanity's biggest challenge : fossil energies and climate change.
@@ -487,7 +488,6 @@
 
 ## Python 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [NixOS/nixpart](https://github.com/NixOS/nixpart) - NixOS storage manager/partitioner
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs

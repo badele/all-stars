@@ -240,6 +240,7 @@
 
 ## HCL 
 
+- [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module which creates VPC resources on AWS 🇺🇦
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
 - [flatcar/flatcar-terraform](https://github.com/flatcar/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
 - [terraform-google-modules/terraform-google-vault](https://github.com/terraform-google-modules/terraform-google-vault) - Deploys Vault on Compute Engine

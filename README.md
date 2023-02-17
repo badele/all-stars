@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [SuperQ/smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping
 - [czerwonk/ping_exporter](https://github.com/czerwonk/ping_exporter) - Prometheus exporter for ICMP echo requests using https://github.com/digineo/go-ping
@@ -488,6 +489,7 @@
 
 ## Python 
 
+- [DingyShark/nuclei-scan-sort](https://github.com/DingyShark/nuclei-scan-sort) - Simple Python script to sort nuclei scans by severity and URL
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [NixOS/nixpart](https://github.com/NixOS/nixpart) - NixOS storage manager/partitioner
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs

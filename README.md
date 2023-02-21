@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [SuperQ/smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping
@@ -252,6 +253,7 @@
 - [pialdama/Covid](https://github.com/pialdama/Covid) - 
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
+- [DominikRafacz/deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages
 - [PMassicotte/paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery) - A list of color palettes provided by the paletteer R package
 - [themefisher/parsa-hugo](https://github.com/themefisher/parsa-hugo) - Parsa is a personal blog theme powered by Hugo. It also can be used for portfolio website.
 - [scrapehero/selectorlib](https://github.com/scrapehero/selectorlib) - A library to read a YML file with Xpath or CSS Selectors and extract data from HTML pages using them
@@ -489,6 +491,7 @@
 
 ## Python 
 
+- [LoicGombeaud/radars](https://github.com/LoicGombeaud/radars) - Dataviz project: speed radars in Bordeaux
 - [DingyShark/nuclei-scan-sort](https://github.com/DingyShark/nuclei-scan-sort) - Simple Python script to sort nuclei scans by severity and URL
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [NixOS/nixpart](https://github.com/NixOS/nixpart) - NixOS storage manager/partitioner
@@ -647,7 +650,6 @@
 - [ianmoran11/mmtable2](https://github.com/ianmoran11/mmtable2) - Create and combine tables with a ggplot2/patchwork syntax.
 - [next-game-solutions/geckor](https://github.com/next-game-solutions/geckor) - An R client for the public CoinGecko API
 - [sstoeckl/crypto2](https://github.com/sstoeckl/crypto2) - Cryptocurrency Market Data
-- [DominikRafacz/deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages
 - [delabj/ggCyberPunk](https://github.com/delabj/ggCyberPunk) - A "Geom" for creating charts with a cyberpunk aesthetic
 - [AllanCameron/geomtextpath](https://github.com/AllanCameron/geomtextpath) - Create curved text paths in ggplot2
 - [ropensci/osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data

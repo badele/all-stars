@@ -491,7 +491,6 @@
 
 ## Python 
 
-- [LoicGombeaud/radars](https://github.com/LoicGombeaud/radars) - Dataviz project: speed radars in Bordeaux
 - [DingyShark/nuclei-scan-sort](https://github.com/DingyShark/nuclei-scan-sort) - Simple Python script to sort nuclei scans by severity and URL
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [NixOS/nixpart](https://github.com/NixOS/nixpart) - NixOS storage manager/partitioner
@@ -816,6 +815,7 @@
 
 ## Vue 
 
+- [LoicGombeaud/radars](https://github.com/LoicGombeaud/radars) - Dataviz project: speed radars in Bordeaux
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!

@@ -63,6 +63,8 @@
 
 ## C 
 
+- [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -491,6 +493,7 @@
 
 ## Python 
 
+- [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [DingyShark/nuclei-scan-sort](https://github.com/DingyShark/nuclei-scan-sort) - Simple Python script to sort nuclei scans by severity and URL
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.

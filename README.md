@@ -63,6 +63,7 @@
 
 ## C 
 
+- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
@@ -784,6 +785,7 @@
 
 ## TypeScript 
 
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
@@ -812,7 +814,7 @@
 
 ## Vim Script 
 
-- [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
+- [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [lifepillar/vim-mucomplete](https://github.com/lifepillar/vim-mucomplete) - Chained completion that works the way you want!
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.

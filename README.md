@@ -501,6 +501,7 @@
 
 ## Python 
 
+- [merbanan/rtl_433_tests](https://github.com/merbanan/rtl_433_tests) - This repository contains the regressions test suite for rtl_433
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [DingyShark/nuclei-scan-sort](https://github.com/DingyShark/nuclei-scan-sort) - Simple Python script to sort nuclei scans by severity and URL

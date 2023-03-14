@@ -392,6 +392,7 @@
 
 ## Nix 
 
+- [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) - 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [DevInsideYou/scala-seed](https://github.com/DevInsideYou/scala-seed) - A Nix flake for getting started with Scala.

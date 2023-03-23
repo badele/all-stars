@@ -393,6 +393,7 @@
 
 ## Nix 
 
+- [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
 - [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) - 

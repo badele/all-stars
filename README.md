@@ -45,6 +45,7 @@
 - [SCSS](#scss)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -787,6 +788,10 @@
 - [danhper/fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) - 
 - [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) - Fish shell tool for managing Python virtual environments
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
+
+## Smarty 
+
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 
 ## Swift 
 

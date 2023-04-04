@@ -512,6 +512,8 @@
 
 ## Python 
 
+- [ultrabug/py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python
+- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [merbanan/rtl_433_tests](https://github.com/merbanan/rtl_433_tests) - This repository contains the regressions test suite for rtl_433

@@ -64,6 +64,7 @@
 
 ## C 
 
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices

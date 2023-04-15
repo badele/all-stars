@@ -256,6 +256,7 @@
 
 ## HCL 
 
+- [datarootsio/terraform-aws-ecs-airflow](https://github.com/datarootsio/terraform-aws-ecs-airflow) - A terraform module that creates an airflow instance in AWS ECS.
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module which creates VPC resources on AWS 🇺🇦
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@zimbatm]
 - [flatcar/flatcar-terraform](https://github.com/flatcar/flatcar-terraform) - Examples of deploying Flatcar instances with Terraform
@@ -513,6 +514,7 @@
 
 ## Python 
 
+- [kbressem/medAlpaca](https://github.com/kbressem/medAlpaca) - LLM finetuned for medical question answering
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [ultrabug/py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python

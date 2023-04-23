@@ -403,6 +403,8 @@
 
 ## Nix 
 
+- [jmgilman/nix-pre-commit](https://github.com/jmgilman/nix-pre-commit) - Generate pre-commit configurations with your flake.nix
+- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)
@@ -497,6 +499,7 @@
 
 ## Perl 
 
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [edolstra/nix-serve](https://github.com/edolstra/nix-serve) - A standalone Nix binary cache server
 - [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers
@@ -517,6 +520,7 @@
 
 ## Python 
 
+- [ARCEP-dev/historiquePannes](https://github.com/ARCEP-dev/historiquePannes) - 
 - [kbressem/medAlpaca](https://github.com/kbressem/medAlpaca) - LLM finetuned for medical question answering
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
@@ -650,7 +654,7 @@
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [olgabot/prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
 - [ellisonbg/altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [jboone/tpms](https://github.com/jboone/tpms) - Tire Pressure Monitoring System decoding tools.
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.

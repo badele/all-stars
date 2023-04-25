@@ -66,7 +66,7 @@
 
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
+- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
@@ -101,6 +101,7 @@
 
 ## C++ 
 
+- [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
@@ -273,6 +274,7 @@
 - [warrigal24/igors-quest](https://github.com/warrigal24/igors-quest) - Text adventure written using Adventuron
 - [warrigal24/charlie-the-chimp](https://github.com/warrigal24/charlie-the-chimp) - Text adventure written using Adventuron
 - [warrigal24/santas-trainee-elf](https://github.com/warrigal24/santas-trainee-elf) - Text adventure written using Adventuron
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [N0NameN0/WAB_Ansi_Logo_Maker](https://github.com/N0NameN0/WAB_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
 - [pialdama/Covid](https://github.com/pialdama/Covid) - 
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
@@ -826,7 +828,6 @@
 
 ## TypeScript 
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.

@@ -64,6 +64,7 @@
 
 ## C 
 
+- [aeburriel/tetrapol-kit](https://github.com/aeburriel/tetrapol-kit) - Fork of http://brmlab.cz/git/tetrapol-kit.git
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -102,6 +103,7 @@
 
 ## C++ 
 
+- [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+, HackRF, SDRplay and SoapySDR
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - qt-dab  (+dabMini) is a software dab decoder for use with sdrplay, dabstick, airspy, limeSDR  or hackrf for RPI and PC
 - [charlie-foxtrot/RTLSDR-Airband](https://github.com/charlie-foxtrot/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)

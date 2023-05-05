@@ -64,7 +64,6 @@
 
 ## C 
 
-- [aeburriel/tetrapol-kit](https://github.com/aeburriel/tetrapol-kit) - Fork of http://brmlab.cz/git/tetrapol-kit.git
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -328,6 +327,7 @@
 
 ## JavaScript 
 
+- [pagermon/pagermon](https://github.com/pagermon/pagermon) - Multimon-ng pager message parser and viewer
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view

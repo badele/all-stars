@@ -102,6 +102,7 @@
 
 ## C++ 
 
+- [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) - 
 - [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+, HackRF, SDRplay and SoapySDR
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - qt-dab  (+dabMini) is a software dab decoder for use with sdrplay, dabstick, airspy, limeSDR  or hackrf for RPI and PC
 - [charlie-foxtrot/RTLSDR-Airband](https://github.com/charlie-foxtrot/RTLSDR-Airband) - Multichannel AM/NFM demodulator

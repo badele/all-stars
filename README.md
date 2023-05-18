@@ -64,6 +64,7 @@
 
 ## C 
 
+- [lwvmobile/dsd-fme](https://github.com/lwvmobile/dsd-fme) - Digital Speech Decoder - Florida Man Edition
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.

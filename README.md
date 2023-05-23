@@ -70,6 +70,7 @@
 
 ## C 
 
+- [sq5bpf/telive](https://github.com/sq5bpf/telive) - Tetra live monitor
 - [lwvmobile/dsd-fme](https://github.com/lwvmobile/dsd-fme) - Digital Speech Decoder - Florida Man Edition
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0
@@ -466,7 +467,7 @@
 ## OpenSCAD 
 
 - [jsphpl/standesk](https://github.com/jsphpl/standesk) - Design files for a parametric, wooden, CNC-millable desk.
-- [revarbat/BOSL2](https://github.com/revarbat/BOSL2) - The Belfry OpenScad Library, v2.0.  An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier.  BETA
+- [BelfrySCAD/BOSL2](https://github.com/BelfrySCAD/BOSL2) - The Belfry OpenScad Library, v2.0.  An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier.  BETA
 - [hugokernel/OpenSCAD_Dovetail](https://github.com/hugokernel/OpenSCAD_Dovetail) - Create dovetail and cut piece with OpenScad
 - [revarbat/BOSL](https://github.com/revarbat/BOSL) - The Belfry OpenScad Library - A library of tools, shapes, and helpers to make OpenScad easier to use.
 - [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib) - Library of parts modelled in OpenSCAD and a framework for making projects
@@ -490,6 +491,7 @@
 - [owid/owid-datasets](https://github.com/owid/owid-datasets) - OWID Dataset Collection
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - ⚠️ Deprecated: Awesome projects involving running Kubernetes at home
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
@@ -612,6 +614,7 @@
 - [kostajh/taskwarrior-time-tracking-hook](https://github.com/kostajh/taskwarrior-time-tracking-hook) - A simple Taskwarrior hook allowing one to track total time spent on a task.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Khrisbie/blender-woodworking](https://github.com/Khrisbie/blender-woodworking) - Blender extensions for woodworking
 - [simsax/Voice_cloner](https://github.com/simsax/Voice_cloner) - A guide to clone anyone's voice and use it as a text-to-speech with android
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line

@@ -195,6 +195,8 @@
 
 ## Go 
 
+- [ianlopshire/go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) - Encoding and decoding for fixed-width formatted data
+- [noborus/guesswidth](https://github.com/noborus/guesswidth) - Guess the width (fwf)  output without delimiters in commands that output to the terminal.
 - [o1egl/fwencoder](https://github.com/o1egl/fwencoder) - Fixed width file parser (encoder/decoder) in GO (golang)
 - [davidbyttow/govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
@@ -399,6 +401,7 @@
 
 ## Jupyter Notebook 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lakshmanok/lakblogs](https://github.com/lakshmanok/lakblogs) - Code and notebooks associated with my blogposts

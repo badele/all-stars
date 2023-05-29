@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [ianlopshire/go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) - Encoding and decoding for fixed-width formatted data

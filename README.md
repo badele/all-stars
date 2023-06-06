@@ -196,6 +196,8 @@
 
 ## Go 
 
+- [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -442,6 +444,7 @@
 
 ## Nix 
 
+- [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) - A template for NUR repositories: [maintainer=@fgaz]
 - [jmgilman/nix-pre-commit](https://github.com/jmgilman/nix-pre-commit) - Generate pre-commit configurations with your flake.nix
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]

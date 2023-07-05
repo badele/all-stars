@@ -82,7 +82,6 @@
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
-- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -113,6 +112,7 @@
 
 ## C++ 
 
+- [ponceto/rpn-calculator-with-jit](https://github.com/ponceto/rpn-calculator-with-jit) - An RPN calculator with a simple “Just In Time” (JIT) compiler [this repository is a mirror]
 - [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) - 
 - [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+, HackRF, SDRplay and SoapySDR
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - qt-dab  (+dabMini) is a software dab decoder for use with sdrplay, dabstick, airspy, limeSDR  or hackrf for RPI and PC
@@ -501,6 +501,8 @@
 
 ## Others 
 
+- [V0lk3n/WirelessPentesting-CheatSheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) - This repository contain a CheatSheet for OSWP & WiFi Cracking.
+- [Demonslay335/CryptoTester](https://github.com/Demonslay335/CryptoTester) - A utility for playing with cryptography, geared towards ransomware analysis.
 - [klohner/klohner.github.io](https://github.com/klohner/klohner.github.io) - 
 - [guiguiabloc/spamtel](https://github.com/guiguiabloc/spamtel) - Préfixes des spammeurs téléphoniques
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -799,7 +801,7 @@
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [Canop/lfs](https://github.com/Canop/lfs) - A linux utility to get information on filesystems, like df but better
+- [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
@@ -886,6 +888,7 @@
 
 ## Swift 
 
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [AurelTyson/spotify-menubar](https://github.com/AurelTyson/spotify-menubar) - A macOS menu bar application with Spotify's current track informations
 
 ## TeX 

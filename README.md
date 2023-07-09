@@ -197,6 +197,11 @@
 
 ## Go 
 
+- [go-gota/gota](https://github.com/go-gota/gota) - Gota: DataFrames and data wrangling in Go (Golang)
+- [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
+- [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
+- [Arafatk/glot](https://github.com/Arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot.
+- [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗

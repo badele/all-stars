@@ -197,6 +197,9 @@
 
 ## Go 
 
+- [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
+- [peterhellberg/pixel-experiments](https://github.com/peterhellberg/pixel-experiments) - Various experiments using the pixel library
+- [peterhellberg/gfx](https://github.com/peterhellberg/gfx) - Convenience package for dealing with graphics in my pixel drawing experiments.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go

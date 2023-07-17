@@ -800,6 +800,7 @@
 
 ## Rust 
 
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [xzfc/cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker

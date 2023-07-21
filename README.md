@@ -514,6 +514,7 @@
 
 ## Others 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [V0lk3n/WirelessPentesting-CheatSheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) - This repository contain a CheatSheet for OSWP & WiFi Cracking.
 - [Demonslay335/CryptoTester](https://github.com/Demonslay335/CryptoTester) - A utility for playing with cryptography, geared towards ransomware analysis.
 - [klohner/klohner.github.io](https://github.com/klohner/klohner.github.io) - 
@@ -593,7 +594,7 @@
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile Unicode, ANSI & ASCII Art editor for the Linux/Unix/macOS terminal, with animation, 256 color support and custom themes
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
-- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [t4d/StalkPhish](https://github.com/t4d/StalkPhish) - StalkPhish - The Phishing kits stalker, harvesting phishing kits for investigations.
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [pinout-xyz/picopins](https://github.com/pinout-xyz/picopins) - Command-line pinout diagram for the Raspberry Pi Pico

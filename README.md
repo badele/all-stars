@@ -515,6 +515,7 @@
 
 ## Others 
 
+- [cqcore/WiFi-OSINT](https://github.com/cqcore/WiFi-OSINT) - 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [V0lk3n/WirelessPentesting-CheatSheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) - This repository contain a CheatSheet for OSWP & WiFi Cracking.
 - [Demonslay335/CryptoTester](https://github.com/Demonslay335/CryptoTester) - A utility for playing with cryptography, geared towards ransomware analysis.

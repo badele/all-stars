@@ -332,7 +332,7 @@
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [DominikRafacz/deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages
 - [PMassicotte/paletteer_gallery](https://github.com/PMassicotte/paletteer_gallery) - A list of color palettes provided by the paletteer R package
-- [themefisher/parsa-hugo](https://github.com/themefisher/parsa-hugo) - Parsa is a personal blog theme powered by Hugo. It also can be used for portfolio website.
+- [gethugothemes/parsa-hugo](https://github.com/gethugothemes/parsa-hugo) - Parsa is a personal blog theme powered by Hugo. It also can be used for portfolio website.
 - [scrapehero/selectorlib](https://github.com/scrapehero/selectorlib) - A library to read a YML file with Xpath or CSS Selectors and extract data from HTML pages using them
 - [covidatlas/coronadatascraper](https://github.com/covidatlas/coronadatascraper) - COVID-19 Coronavirus data scraped from government and curated data sources.
 - [jingwen-z/jingwen-z.github.io](https://github.com/jingwen-z/jingwen-z.github.io) - 
@@ -448,6 +448,7 @@
 
 ## Lua 
 
+- [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [Thoof/aseprite-custombrushoptions](https://github.com/Thoof/aseprite-custombrushoptions) - A script for aseprite that adds some additional functions to custom brushes
@@ -956,7 +957,6 @@
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
-- [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [masaakif/nerdtree-useful-plugins](https://github.com/masaakif/nerdtree-useful-plugins) - Based on https://gist.github.com/masaakif/414375 but installable by Vundle
 - [MarSoft/nerdtree-grep-plugin](https://github.com/MarSoft/nerdtree-grep-plugin) - Based on https://gist.github.com/masaakif/414375 but installable by Vundle

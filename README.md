@@ -519,6 +519,7 @@
 
 ## Others 
 
+- [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [cqcore/WiFi-OSINT](https://github.com/cqcore/WiFi-OSINT) - 
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [V0lk3n/WirelessPentesting-CheatSheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) - This repository contain a CheatSheet for OSWP & WiFi Cracking.

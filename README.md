@@ -867,6 +867,7 @@
 
 ## Scheme 
 
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [ffzg/ganeti-salt](https://github.com/ffzg/ganeti-salt) - Salt manifests for managing ganeti nodes
 
 ## Shell 
@@ -965,6 +966,7 @@
 
 ## Vim Script 
 
+- [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [lifepillar/vim-mucomplete](https://github.com/lifepillar/vim-mucomplete) - Chained completion that works the way you want!

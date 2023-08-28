@@ -351,7 +351,6 @@
 - [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo) - Theme for the Hugo static website generator
 - [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 
 ## Haskell 
 
@@ -790,6 +789,7 @@
 - [Danielhiversen/pyRFXtrx](https://github.com/Danielhiversen/pyRFXtrx) - A Python library to communicate with the RFXtrx family of devices from http://www.rfxcom.com/ . Included in http://www.home-assistant.io
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [pyrtlsdr/pyrtlsdr](https://github.com/pyrtlsdr/pyrtlsdr) - A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [yoannsculo/JobCatcher](https://github.com/yoannsculo/JobCatcher) - 
 - [samuel/python-munin](https://github.com/samuel/python-munin) - Python framework for building Munin plugins (also includes some plugins prebuilt).
 - [fabtools/fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files

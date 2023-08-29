@@ -71,6 +71,7 @@
 
 ## C 
 
+- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
 - [ok1hra/esp32-e-ink](https://github.com/ok1hra/esp32-e-ink) - 
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [sq5bpf/telive](https://github.com/sq5bpf/telive) - Tetra live monitor

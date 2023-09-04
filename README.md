@@ -506,6 +506,7 @@
 
 ## Nix 
 
+- [vlktomas/nix-examples](https://github.com/vlktomas/nix-examples) - Showcase of Nix usage for various technologies
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [gaelreyrol/udev-nix](https://github.com/gaelreyrol/udev-nix) - A small utility library to create udev rules with Nix!
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
@@ -903,6 +904,7 @@
 
 ## Shell 
 
+- [paralin/docker-nixos](https://github.com/paralin/docker-nixos) - Docker multi-stage build for compiling nixos.
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [ncruces/go-coverage-report](https://github.com/ncruces/go-coverage-report) - GitHub Action to add a coverage badge to your Go repo
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin

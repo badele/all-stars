@@ -1022,7 +1022,6 @@
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [masaakif/nerdtree-useful-plugins](https://github.com/masaakif/nerdtree-useful-plugins) - Based on https://gist.github.com/masaakif/414375 but installable by Vundle
 - [MarSoft/nerdtree-grep-plugin](https://github.com/MarSoft/nerdtree-grep-plugin) - Based on https://gist.github.com/masaakif/414375 but installable by Vundle
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 
 ## Vue 
 

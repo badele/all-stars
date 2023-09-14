@@ -14,6 +14,7 @@
 - [CartoCSS](#cartocss)
 - [Dockerfile](#dockerfile)
 - [Erlang](#erlang)
+- [F#](#f#)
 - [Gnuplot](#gnuplot)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -191,6 +192,10 @@
 ## Erlang 
 
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
+
+## F# # 
+
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 
 ## Gnuplot 
 
@@ -461,6 +466,7 @@
 
 ## Lua 
 
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
@@ -534,7 +540,7 @@
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
-- [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
@@ -703,7 +709,6 @@
 - [techouse/mysql-to-sqlite3](https://github.com/techouse/mysql-to-sqlite3) - Transfer data from MySQL to SQLite
 - [kewlfft/ansible-aur](https://github.com/kewlfft/ansible-aur) - Ansible module to manage packages from the AUR
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
-- [taskinen/dnsdiag](https://github.com/taskinen/dnsdiag) - DNS Diagnostics and Performance Measurement Tools
 - [owid/importers](https://github.com/owid/importers) - Bulk import scripts for ingesting large external datasets into OWID's master dataset.
 - [owid/co2-data](https://github.com/owid/co2-data) - Data on CO2 and greenhouse gas emissions by Our World in Data
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -855,6 +860,7 @@
 
 ## Rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -910,6 +916,8 @@
 
 ## Shell 
 
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+- [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [paralin/docker-nixos](https://github.com/paralin/docker-nixos) - Docker multi-stage build for compiling nixos.
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [ncruces/go-coverage-report](https://github.com/ncruces/go-coverage-report) - GitHub Action to add a coverage badge to your Go repo

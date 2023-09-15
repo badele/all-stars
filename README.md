@@ -466,6 +466,7 @@
 
 ## Lua 
 
+- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph/Cody plugin for Neovim
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 

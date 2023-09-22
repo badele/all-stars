@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [CartoCSS](#cartocss)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Erlang](#erlang)
 - [F#](#f#)
 - [Gnuplot](#gnuplot)
@@ -189,6 +190,10 @@
 - [onedr0p/home-operations](https://github.com/onedr0p/home-operations) - Highly opinionated Ansible playbooks, Ansible roles, and other things that are used to maintain my home-cluster
 - [Unibeautify/docker-beautifiers](https://github.com/Unibeautify/docker-beautifiers) - Docker images for code beautifiers/formatters
 - [heichblatt/dockerfiles](https://github.com/heichblatt/dockerfiles) - Various Dockerfiles
+
+## Elixir 
+
+- [cbh123/emoji](https://github.com/cbh123/emoji) - Make emojis for slack using AI
 
 ## Erlang 
 

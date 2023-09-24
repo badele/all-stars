@@ -875,6 +875,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls

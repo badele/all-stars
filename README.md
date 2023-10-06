@@ -148,7 +148,7 @@
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [aappleby/MetroBoy](https://github.com/aappleby/MetroBoy) - A repository of gate-level simulators and tools for the original Game Boy.
+- [aappleby/metroboy](https://github.com/aappleby/metroboy) - A repository of gate-level simulators and tools for the original Game Boy.
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor

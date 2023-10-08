@@ -59,6 +59,7 @@
 
 ## Assembly 
 
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
 - [bluewaysw/pcgeos](https://github.com/bluewaysw/pcgeos) - #FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!
 - [viler-int10h/Fontraption](https://github.com/viler-int10h/Fontraption) - A tiny but powerful VGA text mode font editor for DOS
@@ -1025,7 +1026,6 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [grumpydev/pico8vscodeeditor](https://github.com/grumpydev/pico8vscodeeditor) - A plugin for VSCode for Pico8 development, with basic Lua language and Pico8 API support.
-- [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad + calculator
 - [aprilandjan/vscode-ascii-tree-generator](https://github.com/aprilandjan/vscode-ascii-tree-generator) - Generate ASCII tree of directories or format selected text into its corresponding "tree string" representation.
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [owid/owid-grapher](https://github.com/owid/owid-grapher) - A platform for creating interactive data visualizations

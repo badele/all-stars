@@ -216,6 +216,7 @@
 
 ## Go 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
@@ -484,6 +485,7 @@
 
 ## Lua 
 
+- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - Use your favorite machine translation engines without having to leave your favorite editor.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph/Cody plugin for Neovim

@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CartoCSS](#cartocss)
+- [CoffeeScript](#coffeescript)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
@@ -188,6 +189,10 @@
 ## CartoCSS 
 
 - [cyclosm/cyclosm-cartocss-style](https://github.com/cyclosm/cyclosm-cartocss-style) - Cycle oriented CartoCSS style.
+
+## CoffeeScript 
+
+- [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 
 ## Dockerfile 
 

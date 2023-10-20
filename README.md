@@ -403,6 +403,7 @@
 
 ## JavaScript 
 
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
 - [Aschen/codingame-solver](https://github.com/Aschen/codingame-solver) - A Chrome extension using LLM and DevTools to automatically solve Codingame exercises by manipulating directly the browser
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.

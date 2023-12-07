@@ -723,7 +723,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
-- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile Unicode, ANSI & ASCII Art editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 color support and custom themes
+- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile Unicode, ANSI & ASCII Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 color ANSI support and custom themes
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
@@ -933,6 +933,7 @@
 
 ## Rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner

@@ -184,6 +184,7 @@
 
 ## CSS 
 
+- [data-forge-notebook/data-forge-notebook](https://github.com/data-forge-notebook/data-forge-notebook) - Data-Forge Notebook is a cross-platform notebook application for JavaScript
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [broncowdd/SnippetVamp](https://github.com/broncowdd/SnippetVamp) - Store, share & manage your snippets easily
 
@@ -362,6 +363,7 @@
 
 ## HTML 
 
+- [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [martinshkreli/models](https://github.com/martinshkreli/models) - stock market models - have fun
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -697,6 +699,7 @@
 
 ## Python 
 
+- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data.
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [PAPAMICA/home-config](https://github.com/PAPAMICA/home-config) - All configs files of my house configuration !
@@ -1072,7 +1075,6 @@
 
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [data-forge-notebook/data-forge-notebook](https://github.com/data-forge-notebook/data-forge-notebook) - Data-Forge Notebook is a cross-platform notebook application for JavaScript
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - IndicatorTS - Stock technical indicators and strategies in TypeScript for browser and server programs.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.

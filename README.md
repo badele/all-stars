@@ -408,6 +408,7 @@
 
 ## Java 
 
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 - [enioka-Haute-Couture/enioka_scan](https://github.com/enioka-Haute-Couture/enioka_scan) - Integration library for all your Android hardware barcode scanner integration needs
 - [labexp/osmtracker-android](https://github.com/labexp/osmtracker-android) - GPS tracking tool for OpenStreetMap
@@ -419,7 +420,6 @@
 - [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games
 - [jeff-hykin/nix_version_search_cli](https://github.com/jeff-hykin/nix_version_search_cli) - 
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [dundalek/GrammKit](https://github.com/dundalek/GrammKit) - Generate diagrams for parser grammars
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -700,6 +700,7 @@
 
 ## Python 
 
+- [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.

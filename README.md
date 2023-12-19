@@ -408,9 +408,9 @@
 
 ## Java 
 
+- [enioka-Haute-Couture/enioka_scan](https://github.com/enioka-Haute-Couture/enioka_scan) - Integration library for all your Android hardware barcode scanner integration needs
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
-- [enioka-Haute-Couture/enioka_scan](https://github.com/enioka-Haute-Couture/enioka_scan) - Integration library for all your Android hardware barcode scanner integration needs
 - [labexp/osmtracker-android](https://github.com/labexp/osmtracker-android) - GPS tracking tool for OpenStreetMap
 - [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) - Electronic Circuit Simulator in the Browser
 
@@ -566,6 +566,7 @@
 
 ## Nix 
 
+- [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [vlktomas/nix-examples](https://github.com/vlktomas/nix-examples) - Showcase of Nix usage for various technologies
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [gaelreyrol/udev-nix](https://github.com/gaelreyrol/udev-nix) - A small utility library to create udev rules with Nix!
@@ -727,7 +728,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
-- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 color ANSI support, Unicode and CP437, and customizable themes
+- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 16 and 256 color ANSI support, Unicode and CP437, and customizable themes
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
@@ -937,6 +938,7 @@
 
 ## Rust 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [subalterngames/cacophony](https://github.com/subalterngames/cacophony) - Minimalist MIDI Sequencer
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust

@@ -1141,6 +1141,7 @@
 
 ## Vim Script 
 
+- [dpezto/gnuplot.vim](https://github.com/dpezto/gnuplot.vim) - gnuplot syntax highlighting for vim
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [ledger/vim-ledger](https://github.com/ledger/vim-ledger) - Vim plugin for Ledger
 - [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.

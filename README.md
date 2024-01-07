@@ -76,6 +76,7 @@
 
 ## C 
 
+- [attractivechaos/plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
 - [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [blunderbuss-wctf/wacker](https://github.com/blunderbuss-wctf/wacker) - A WPA3 dictionary cracker

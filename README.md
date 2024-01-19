@@ -423,6 +423,7 @@
 
 ## JavaScript 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -499,6 +500,7 @@
 
 ## Jupyter Notebook 
 
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
@@ -621,6 +623,7 @@
 
 ## OpenSCAD 
 
+- [beerriot/woodworking-plans](https://github.com/beerriot/woodworking-plans) - Plans for Woodworking Projects
 - [jsphpl/standesk](https://github.com/jsphpl/standesk) - Design files for a parametric, wooden, CNC-millable desk.
 - [BelfrySCAD/BOSL2](https://github.com/BelfrySCAD/BOSL2) - The Belfry OpenScad Library, v2.0.  An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier.  BETA
 - [hugokernel/OpenSCAD_Dovetail](https://github.com/hugokernel/OpenSCAD_Dovetail) - Create dovetail and cut piece with OpenScad
@@ -629,6 +632,7 @@
 
 ## Others 
 
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [JeffSackmann/tennis_atp](https://github.com/JeffSackmann/tennis_atp) - ATP Tennis Rankings, Results, and Stats
@@ -714,6 +718,7 @@
 
 ## Python 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl

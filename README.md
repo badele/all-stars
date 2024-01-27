@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [fougue/mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE, SMS/GG) for Windows, Linux and macOS
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.

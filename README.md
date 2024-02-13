@@ -293,7 +293,6 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -621,6 +620,7 @@
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
@@ -731,13 +731,17 @@
 
 ## Python 
 
+- [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
+- [Mic92/buildbot-nix](https://github.com/Mic92/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI.
+- [danialhalo/SqliSniper](https://github.com/danialhalo/SqliSniper) - Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers
+- [catsploit/catsploit](https://github.com/catsploit/catsploit) - 
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Software has worked out incredibly potent ways to reuse, configure, validate and share work. We want that for hardware too! Starting with electronics
+- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
@@ -791,7 +795,6 @@
 - [NixOS/nixpart](https://github.com/NixOS/nixpart) - NixOS storage manager/partitioner
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [numtide/deploykit](https://github.com/numtide/deploykit) - Execute commands remote via ssh and locally in parallel with python
-- [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [washingtonpost/aws-tagger](https://github.com/washingtonpost/aws-tagger) - AWS bulk tagging tool

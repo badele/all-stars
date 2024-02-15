@@ -733,6 +733,7 @@
 
 ## Python 
 
+- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [Mic92/buildbot-nix](https://github.com/Mic92/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI.
 - [danialhalo/SqliSniper](https://github.com/danialhalo/SqliSniper) - Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers

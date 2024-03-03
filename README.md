@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [VCVRack/Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
 - [fougue/mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
@@ -637,6 +638,7 @@
 
 ## OpenSCAD 
 
+- [larsch/lasercut-box-openscad](https://github.com/larsch/lasercut-box-openscad) - OpenSCAD module for generating cutting plans for boxes
 - [Irev-Dev/Round-Anything](https://github.com/Irev-Dev/Round-Anything) - A set of OpenSCAD utilities for adding radii and fillets, that embodies a robust approach to developing OpenSCAD parts.
 - [kennetek/gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad) - A ground-up rebuild of the stock gridfinity bins in OpenSCAD
 - [beerriot/woodworking-plans](https://github.com/beerriot/woodworking-plans) - Plans for Woodworking Projects
@@ -822,7 +824,7 @@
 - [Peco602/findwall](https://github.com/Peco602/findwall) - Check if your provider is blocking you!
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [magwyz/mediaLexicometer](https://github.com/magwyz/mediaLexicometer) - Tools to do lexicometry on media

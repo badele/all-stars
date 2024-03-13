@@ -648,9 +648,9 @@
 
 ## Others 
 
+- [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - These are the IP addresses of the most active C2/Botnets/Zombies/Scanners in European Cyber Space
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [elasticdotventures/awesome-openscad](https://github.com/elasticdotventures/awesome-openscad) - A collection of awesome OpenSCAD projects
-- [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - These are the IP addresses of the most active C2/Botnets/Zombies/Scanners in European Cyber Space
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -739,6 +739,8 @@
 
 ## Python 
 
+- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [Irev-Dev/curated-code-cad](https://github.com/Irev-Dev/curated-code-cad) - A list of the various code-cad projects out there.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
@@ -750,7 +752,6 @@
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
-- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.

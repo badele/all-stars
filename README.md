@@ -382,6 +382,7 @@
 - [warrigal24/charlie-the-chimp](https://github.com/warrigal24/charlie-the-chimp) - Text adventure written using Adventuron
 - [warrigal24/santas-trainee-elf](https://github.com/warrigal24/santas-trainee-elf) - Text adventure written using Adventuron
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [N0NameN0/CODEF_Ansi_Logo_Maker](https://github.com/N0NameN0/CODEF_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
 - [pialdama/Covid](https://github.com/pialdama/Covid) - 
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
@@ -592,6 +593,7 @@
 
 ## Nix 
 
+- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
@@ -611,7 +613,6 @@
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [DevInsideYou/scala-seed](https://github.com/DevInsideYou/scala-seed) - A Nix flake for getting started with Scala.
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
-- [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@zowoq]
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [TUM-DSE/doctor-cluster-config](https://github.com/TUM-DSE/doctor-cluster-config) - NixOS configuration for TUM cluster
@@ -621,7 +622,6 @@
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
@@ -826,7 +826,6 @@
 - [Peco602/findwall](https://github.com/Peco602/findwall) - Check if your provider is blocking you!
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [magwyz/mediaLexicometer](https://github.com/magwyz/mediaLexicometer) - Tools to do lexicometry on media
@@ -1040,6 +1039,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.

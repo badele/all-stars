@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters
 - [hashicorp/terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
@@ -740,6 +741,8 @@
 
 ## Python 
 
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
+- [autogluon/autogluon](https://github.com/autogluon/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife

@@ -741,6 +741,7 @@
 
 ## Python 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models

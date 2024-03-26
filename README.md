@@ -595,6 +595,7 @@
 
 ## Nix 
 
+- [hmajid2301/dotfiles](https://github.com/hmajid2301/dotfiles) - My dotfiles always changing 🙈
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
@@ -617,7 +618,6 @@
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@zowoq]
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
-- [TUM-DSE/doctor-cluster-config](https://github.com/TUM-DSE/doctor-cluster-config) - NixOS configuration for TUM cluster
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
@@ -741,6 +741,7 @@
 
 ## Python 
 
+- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
@@ -995,10 +996,11 @@
 
 ## Rust 
 
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [AgathaSorceress/url-eater](https://github.com/AgathaSorceress/url-eater) - Clean unnecessary parameters from URLs copied to clipboard
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell

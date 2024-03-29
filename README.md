@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CartoCSS](#cartocss)
+- [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -202,6 +203,10 @@
 ## CartoCSS 
 
 - [cyclosm/cyclosm-cartocss-style](https://github.com/cyclosm/cyclosm-cartocss-style) - Cycle oriented CartoCSS style.
+
+## Clojure 
+
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
 ## CoffeeScript 
 

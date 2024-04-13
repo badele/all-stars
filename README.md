@@ -279,7 +279,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
-- [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
+- [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [ianlopshire/go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) - Encoding and decoding for fixed-width formatted data
@@ -884,7 +884,7 @@
 - [ethankruse/kepler_orrery](https://github.com/ethankruse/kepler_orrery) - Make a Kepler orrery gif or movie of all the Kepler multi-planet systems
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
+- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
 - [zimmermant/manim_tutorial](https://github.com/zimmermant/manim_tutorial) - Files to accompany postings at talkingphysics.wordpress.com on how to use manim
 - [malhotra5/Manim-Tutorial](https://github.com/malhotra5/Manim-Tutorial) - A tutorial for manim, a mathematical animation engine made by 3b1b
 - [Elteoremadebeethoven/MyAnimations](https://github.com/Elteoremadebeethoven/MyAnimations) - In this repository you will find the code and files of my own animations of manim

@@ -658,6 +658,7 @@
 
 ## Others 
 
+- [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [pre-commit/action](https://github.com/pre-commit/action) - a GitHub action to run `pre-commit`
 - [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - These are the IP addresses of the most active C2/Botnets/Zombies/Scanners in European Cyber Space
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -1004,6 +1005,7 @@
 
 ## Rust 
 
+- [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool

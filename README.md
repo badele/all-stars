@@ -383,6 +383,7 @@
 
 ## HTML 
 
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [martinshkreli/models](https://github.com/martinshkreli/models) - stock market models - have fun
@@ -429,6 +430,7 @@
 
 ## Java 
 
+- [bardsoftware/ganttproject](https://github.com/bardsoftware/ganttproject) - Official GanttProject repository
 - [enioka-Haute-Couture/enioka_scan](https://github.com/enioka-Haute-Couture/enioka_scan) - Integration library for all your Android hardware barcode scanner integration needs
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:

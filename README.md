@@ -97,7 +97,7 @@
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
-- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring and tuning software designed for 64-bit processors.
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
@@ -240,6 +240,8 @@
 
 ## Go 
 
+- [referefref/honeydet](https://github.com/referefref/honeydet) - Signature based honeypot detector tool written in Golang
+- [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats

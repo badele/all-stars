@@ -664,10 +664,10 @@
 
 ## Others 
 
+- [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - These are the IP addresses of the most active C2/Botnets/Zombies/Scanners in European Cyber Space
 - [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome testing tools 🚀
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [pre-commit/action](https://github.com/pre-commit/action) - a GitHub action to run `pre-commit`
-- [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - These are the IP addresses of the most active C2/Botnets/Zombies/Scanners in European Cyber Space
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [elasticdotventures/awesome-openscad](https://github.com/elasticdotventures/awesome-openscad) - A collection of awesome OpenSCAD projects
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.

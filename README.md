@@ -1190,7 +1190,7 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [technote-space/toc-generator](https://github.com/technote-space/toc-generator) - GitHub Actions to generate TOC (Table of Contents)
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - IndicatorTS - Stock technical indicators and strategies in TypeScript for browser and server programs.

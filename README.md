@@ -341,6 +341,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [webdevops/go-replace](https://github.com/webdevops/go-replace) - Replace in file console utility written in golang (for eg. usage in docker images)
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -597,7 +598,6 @@
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 
 ## Makefile 
 
@@ -615,6 +615,7 @@
 
 ## Nix 
 
+- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
 - [hmajid2301/dotfiles](https://github.com/hmajid2301/dotfiles) - My dotfiles always changing 🙈
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
@@ -964,7 +965,7 @@
 - [hamish2014/FreeCAD_drawing_dimensioning](https://github.com/hamish2014/FreeCAD_drawing_dimensioning) - Drawing dimensioning workbench for FreeCAD v0.16
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [thearn/game-of-life](https://github.com/thearn/game-of-life) - Simple Python implementation of Conway's game of life and other cellular automata, computed using numpy.fft
-- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
+- [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [jpmens/mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server
 - [python-diamond/Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it feat

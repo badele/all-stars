@@ -189,7 +189,7 @@
 - [indilib/indi](https://github.com/indilib/indi) - INDI Core Library Repository
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [windytan/redsea](https://github.com/windytan/redsea) - Command-line RDS decoder.
+- [windytan/redsea](https://github.com/windytan/redsea) - Command-line FM-RDS decoder.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [biometrics/openbr](https://github.com/biometrics/openbr) - Open Source Biometrics, Face Recognition
@@ -766,6 +766,8 @@
 
 ## Python 
 
+- [RevoltSecurities/ShodanX](https://github.com/RevoltSecurities/ShodanX) - ShodanX is a tool to gather information of targets using shodan dorks⚡.
+- [casterbyte/Above](https://github.com/casterbyte/Above) - Invisible network protocol sniffer
 - [PAST2212/domainthreat](https://github.com/PAST2212/domainthreat) - Newly registered Domain Monitoring to detect phishing and brand impersonation with subdomain enumeration and source code scraping
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
@@ -1026,7 +1028,7 @@
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [AgathaSorceress/url-eater](https://github.com/AgathaSorceress/url-eater) - Clean unnecessary parameters from URLs copied to clipboard
@@ -1185,6 +1187,7 @@
 
 ## TypeScript 
 
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024

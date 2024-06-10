@@ -44,6 +44,7 @@
 - [POV-Ray SDL](#pov-ray-sdl)
 - [Perl](#perl)
 - [PostScript](#postscript)
+- [PowerShell](#powershell)
 - [Processing](#processing)
 - [Python](#python)
 - [R](#r)
@@ -744,6 +745,7 @@
 
 ## PHP 
 
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [mcguirepr89/BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 4B, 3B+, and 0W2 built on the TFLite version of BirdNET.
@@ -771,6 +773,10 @@
 ## PostScript 
 
 - [pmjdebruijn/stltools](https://github.com/pmjdebruijn/stltools) - Python modules and scripts for handling stereolithography (STL) files.
+
+## PowerShell 
+
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## Processing 
 

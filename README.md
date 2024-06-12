@@ -803,7 +803,7 @@
 - [Irev-Dev/curated-code-cad](https://github.com/Irev-Dev/curated-code-cad) - A list of the various code-cad projects out there.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
-- [Mic92/buildbot-nix](https://github.com/Mic92/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI.
+- [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92]
 - [danialhalo/SqliSniper](https://github.com/danialhalo/SqliSniper) - Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers
 - [catsploit/catsploit](https://github.com/catsploit/catsploit) - 
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data

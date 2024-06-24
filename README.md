@@ -131,6 +131,7 @@
 
 ## C++ 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [VCVRack/Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio

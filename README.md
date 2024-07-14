@@ -458,6 +458,7 @@
 
 ## Java 
 
+- [bennofs/wdumper](https://github.com/bennofs/wdumper) - Tool for generating filtered Wikidata RDF exports
 - [bardsoftware/ganttproject](https://github.com/bardsoftware/ganttproject) - Official GanttProject repository.
 - [enioka-Haute-Couture/enioka_scan](https://github.com/enioka-Haute-Couture/enioka_scan) - Integration library for all your Android hardware barcode scanner integration needs
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client

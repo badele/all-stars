@@ -87,7 +87,6 @@
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
 - [attractivechaos/plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
-- [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [blunderbuss-wctf/wacker](https://github.com/blunderbuss-wctf/wacker) - A WPA3 dictionary cracker
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -1073,6 +1072,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
+- [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [subalterngames/cacophony](https://github.com/subalterngames/cacophony) - Minimalist MIDI Sequencer

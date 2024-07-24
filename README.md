@@ -46,6 +46,7 @@
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Processing](#processing)
+- [Pug](#pug)
 - [Python](#python)
 - [R](#r)
 - [Roff](#roff)
@@ -469,7 +470,6 @@
 ## JavaScript 
 
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
-- [noraj/rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) - An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -794,6 +794,10 @@
 ## Processing 
 
 - [greerviau/SnakeAI](https://github.com/greerviau/SnakeAI) - Train a Neural Network to play Snake using a Genetic Algorithm
+
+## Pug 
+
+- [noraj/rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) - An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
 
 ## Python 
 

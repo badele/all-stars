@@ -148,7 +148,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [ponceto/rpn-calculator-with-jit](https://github.com/ponceto/rpn-calculator-with-jit) - An RPN calculator with a simple “Just In Time” (JIT) compiler [this repository is a mirror]
 - [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) - 

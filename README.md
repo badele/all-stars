@@ -256,6 +256,7 @@
 
 ## Go 
 
+- [joakim-ribier/gmocky-v2](https://github.com/joakim-ribier/gmocky-v2) - The easiest way to test your web services securely and privately using a Docker container in Golang.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -496,7 +497,6 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [joedski/musings](https://github.com/joedski/musings) - Coalesced Musings across Many Things
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [babyman/quick-tabs-chrome-extension](https://github.com/babyman/quick-tabs-chrome-extension) - A quick tab list and switch plugin inspired by the intelliJ IDEA java IDE
 - [yoannmoinet/isitbig.org](https://github.com/yoannmoinet/isitbig.org) - Helps you find if a brand is from a big group.
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
@@ -1276,6 +1276,7 @@
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [grumpydev/pico8vscodeeditor](https://github.com/grumpydev/pico8vscodeeditor) - A plugin for VSCode for Pico8 development, with basic Lua language and Pico8 API support.
 - [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad + calculator
 - [laem/villes.plus](https://github.com/laem/villes.plus) - Classement des villes et territoires français les plus cyclables et piétons

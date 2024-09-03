@@ -110,7 +110,6 @@
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) - Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [apoluekt/OpenRPNCalc](https://github.com/apoluekt/OpenRPNCalc) - Open-source and open-hardware scientific RPN calculator
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -351,6 +350,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -550,6 +550,7 @@
 
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
@@ -697,6 +698,8 @@
 
 ## Others 
 
+- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror.
+- [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Related resources for incident failure diagnosis research.
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - Lists of addresses of the most active C2, Botnets, Zombies, Scanners in European Cyber Space
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
@@ -837,7 +840,6 @@
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [PAPAMICA/home-config](https://github.com/PAPAMICA/home-config) - All configs files of my house configuration !
@@ -1241,7 +1243,7 @@
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku / Netlify / Vercel alternative for Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io

@@ -1239,6 +1239,7 @@
 
 ## TypeScript 
 
+- [flacombe/cuivre](https://github.com/flacombe/cuivre) - Web map to observe copper-to-fibre switch in France
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform

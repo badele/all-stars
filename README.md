@@ -1003,7 +1003,7 @@
 - [abesto/yed-aws-palettes](https://github.com/abesto/yed-aws-palettes) - This project is now being maintained by JustDerb at JustDerb/yed-aws-palettes.
 - [olgabot/prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
 - [ellisonbg/altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [jboone/tpms](https://github.com/jboone/tpms) - Tire Pressure Monitoring System decoding tools.
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
@@ -1072,6 +1072,7 @@
 
 ## Rust 
 
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX

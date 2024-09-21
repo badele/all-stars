@@ -811,6 +811,7 @@
 
 ## Python 
 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pbeyssac/lidarpaint](https://github.com/pbeyssac/lidarpaint) - Add color to IGN LIDAR .laz files from corresponding aerial photography
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -965,7 +966,7 @@
 - [ilanschnell/bitarray](https://github.com/ilanschnell/bitarray) - efficient arrays of booleans for Python
 - [waymarkedtrails/waymarked-trails-site](https://github.com/waymarkedtrails/waymarked-trails-site) - Main repository for issue tracking and discussions for waymarkedetrails
 - [Telraam/Telraam-RPi](https://github.com/Telraam/Telraam-RPi) - The scripts that run on the Telraam Raspberry Pi computers, responsible for connecting to the local wifi, traffic monitoring and communicating with the central Telraam servers.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [mfa/staticmap](https://github.com/mfa/staticmap) - A small, python-based library for creating map images with lines, markers and polygons.
 - [komoot/staticmap](https://github.com/komoot/staticmap) - A small, python-based library for creating map images with lines, markers and polygons.
 - [delimitry/collage_maker](https://github.com/delimitry/collage_maker) - Picture collage maker in Python

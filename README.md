@@ -236,7 +236,6 @@
 
 - [Lukas0025/maltrail-mikrotik-docker](https://github.com/Lukas0025/maltrail-mikrotik-docker) - Maltrail IDS with support for mikrotik packet sniffer stream in docker
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [jeanralphaviles/dump1090-docker](https://github.com/jeanralphaviles/dump1090-docker) - Run dump1090-fa (Flightaware fork) quickly and easily with Docker!
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.16, 2.15, 2.14, 2.13, 2.12, 2.11, 2.10 and 2.9 + Mitogen
 - [onedr0p/home-operations](https://github.com/onedr0p/home-operations) - Highly opinionated Ansible playbooks, Ansible roles, and other things that are used to maintain my home-cluster
@@ -728,6 +727,7 @@
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Related resources for incident failure diagnosis research.
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [duggytuxy/malicious_ip_addresses](https://github.com/duggytuxy/malicious_ip_addresses) - Lists of addresses of the most active C2, Botnets, Zombies, Scanners in European Cyber Space
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome testing tools 🚀
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
@@ -845,7 +845,7 @@
 - [RevoltSecurities/ShodanX](https://github.com/RevoltSecurities/ShodanX) - ShodanX is a tool to gather information of targets using shodan dorks⚡.
 - [casterbyte/Above](https://github.com/casterbyte/Above) - Invisible network protocol sniffer
 - [PAST2212/domainthreat](https://github.com/PAST2212/domainthreat) - Newly registered Domain Monitoring to detect phishing and brand impersonation with subdomain enumeration and source code scraping
-- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources

@@ -428,7 +428,7 @@
 
 ## HTML 
 
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
@@ -887,7 +887,7 @@
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - Official codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
+- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - [ECCV 2024] codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -977,7 +977,7 @@
 - [ethankruse/kepler_orrery](https://github.com/ethankruse/kepler_orrery) - Make a Kepler orrery gif or movie of all the Kepler multi-planet systems
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
+- [vega/altair](https://github.com/vega/altair) - Declarative visualization library for Python
 - [zimmermant/manim_tutorial](https://github.com/zimmermant/manim_tutorial) - Files to accompany postings at talkingphysics.wordpress.com on how to use manim
 - [malhotra5/Manim-Tutorial](https://github.com/malhotra5/Manim-Tutorial) - A tutorial for manim, a mathematical animation engine made by 3b1b
 - [Elteoremadebeethoven/MyAnimations](https://github.com/Elteoremadebeethoven/MyAnimations) - In this repository you will find the code and files of my own animations of manim
@@ -1289,7 +1289,7 @@
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Coolify / Vercel / Dokku / Portainer alternative for Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io

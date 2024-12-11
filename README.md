@@ -298,7 +298,7 @@
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
@@ -666,6 +666,7 @@
 
 ## Nix 
 
+- [kampka/nix-flake-crowdsec](https://github.com/kampka/nix-flake-crowdsec) - A nix flake for running Crowdsec on NixOS
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
@@ -941,7 +942,7 @@
 - [koordinates/kart](https://github.com/koordinates/kart) - Distributed version-control for geospatial and tabular data
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
-- [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators from Amnesty International's investigations
+- [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators of Compromise from Amnesty International's cyber investigations
 - [datapane/datapane](https://github.com/datapane/datapane) - Build and share data reports in 100% Python
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [techouse/mysql-to-sqlite3](https://github.com/techouse/mysql-to-sqlite3) - Transfer data from MySQL to SQLite

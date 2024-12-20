@@ -324,7 +324,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [zmwangx/ets](https://github.com/zmwangx/ets) - Command output timestamper
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
@@ -991,7 +991,7 @@
 - [ilanschnell/bitarray](https://github.com/ilanschnell/bitarray) - efficient arrays of booleans for Python
 - [waymarkedtrails/waymarked-trails-site](https://github.com/waymarkedtrails/waymarked-trails-site) - Main repository for issue tracking and discussions for waymarkedetrails
 - [Telraam/Telraam-RPi](https://github.com/Telraam/Telraam-RPi) - The scripts that run on the Telraam Raspberry Pi computers, responsible for connecting to the local wifi, traffic monitoring and communicating with the central Telraam servers.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source AI/ML Platform
 - [mfa/staticmap](https://github.com/mfa/staticmap) - A small, python-based library for creating map images with lines, markers and polygons.
 - [komoot/staticmap](https://github.com/komoot/staticmap) - A small, python-based library for creating map images with lines, markers and polygons.
 - [delimitry/collage_maker](https://github.com/delimitry/collage_maker) - Picture collage maker in Python

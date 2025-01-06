@@ -59,7 +59,6 @@
 - [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [TSQL](#tsql)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -789,6 +788,7 @@
 
 ## PHP 
 
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [mcguirepr89/BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 4B, 3B+, and 0W2 built on the TFLite version of BirdNET.
@@ -1020,7 +1020,7 @@
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
 - [flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster) - Create a visually appealing poster from your GPX tracks
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
+- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [hamish2014/FreeCAD_assembly2](https://github.com/hamish2014/FreeCAD_assembly2) - Assembly workbench for FreeCAD v0.16+
 - [tancredi/python-console-snake](https://github.com/tancredi/python-console-snake) - Lightweight snake game running in the console
@@ -1266,10 +1266,6 @@
 
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [AurelTyson/spotify-menubar](https://github.com/AurelTyson/spotify-menubar) - A macOS menu bar application with Spotify's current track informations
-
-## TSQL 
-
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 
 ## TeX 
 

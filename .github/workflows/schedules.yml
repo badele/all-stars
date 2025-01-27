@@ -7,12 +7,6 @@ jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      REPOSITORY: ${{ env.REPOSITORY_NAME }}
-      USERNAME: ${{ github.repository_owner }}
-      MIN_STARGAZER_COUNT: 100
-
     steps:
     - uses: actions/checkout@v3
     
@@ -32,13 +26,21 @@ jobs:
     - name: show rate limit
       run: |
         curl -H "Authorization: Bearer ${GITHUB_TOKEN}" https://api.github.com/rate_limit
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
     - name: update repo category by topic
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit ${MIN_STARGAZER_COUNT} --filename README.md
       env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
-    
+        USERNAME: ${{ github.repository_owner }}
+        MIN_STARGAZER_COUNT: 100
+
     - name: update repo category by language
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred' --filename languages.md
       env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}

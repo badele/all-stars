@@ -679,6 +679,7 @@
 - [kampka/nix-flake-crowdsec](https://github.com/kampka/nix-flake-crowdsec) - A nix flake for running Crowdsec on NixOS
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
+- [katexochen/govulncheck-nixpkgs](https://github.com/katexochen/govulncheck-nixpkgs) - Scanning nixpkgs for vulnerabilities in Go packages
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
@@ -840,6 +841,7 @@
 
 ## Python 
 
+- [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
@@ -1205,7 +1207,6 @@
 
 - [nazarewk-iac/talos-configs](https://github.com/nazarewk-iac/talos-configs) - Repository containing my personal Talos Kubernetes configurations
 - [chumaky/docker-images](https://github.com/chumaky/docker-images) - Postgres database with different foreign data wrapper extensions installed. Datero data platform engine image.
-- [katexochen/govulncheck-nixpkgs](https://github.com/katexochen/govulncheck-nixpkgs) - Scanning nixpkgs for vulnerabilities in Go packages
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.

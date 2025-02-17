@@ -154,7 +154,7 @@
 - [fougue/mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface

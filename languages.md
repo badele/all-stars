@@ -714,7 +714,6 @@
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
-- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) - Modules and schemes to make theming with Nix awesome.
@@ -851,6 +850,7 @@
 
 ## Python 
 
+- [InseeFrLab/pynsee](https://github.com/InseeFrLab/pynsee) - pynsee package contains tools to easily search and download french data from INSEE and IGN APIs
 - [LeandroBarone/python-ascii_magic](https://github.com/LeandroBarone/python-ascii_magic) - Converts pictures into ASCII art
 - [nimaid/pixelgreat](https://github.com/nimaid/pixelgreat) - A highly realistic RGB pixel filter for Python.
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes

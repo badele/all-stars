@@ -4090,7 +4090,7 @@
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [adjust/parquet_fdw](https://github.com/adjust/parquet_fdw) - Parquet foreign data wrapper for PostgreSQL
 - [PromtEngineer/localGPT-Vision](https://github.com/PromtEngineer/localGPT-Vision) - Chat with your documents using Vision Language Models. This repo implements an End to End RAG pipeline with both local and proprietary VLMs
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
 - [flacombe/cuivre](https://github.com/flacombe/cuivre) - Web map to observe copper-to-fibre switch in France
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code.
 - [pbeyssac/lidarpaint](https://github.com/pbeyssac/lidarpaint) - Add color to IGN LIDAR .laz files from corresponding aerial photography
@@ -4124,7 +4124,7 @@
 - [catsploit/catsploit](https://github.com/catsploit/catsploit) - 
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
-- [riddlew/asciitree.nvim](https://github.com/riddlew/asciitree.nvim) - Convert selected text into an ASCII tree.
+- [dleprog/asciitree.nvim](https://github.com/dleprog/asciitree.nvim) - Convert selected text into an ASCII tree.
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
 - [kennetek/gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad) - A ground-up rebuild of the stock gridfinity bins in OpenSCAD

@@ -271,6 +271,7 @@
 
 ## Go 
 
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs
 - [joakim-ribier/pong](https://github.com/joakim-ribier/pong) - The Pong game in Go with ebitengine 2D game engine.
 - [StamusNetworks/stamusctl](https://github.com/StamusNetworks/stamusctl) - Command line tool designed to set up, start and maintain Clear NDR installation.
@@ -315,7 +316,7 @@
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
@@ -508,7 +509,7 @@
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code.
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -613,6 +614,7 @@
 
 ## Lua 
 
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [jonahgoldwastaken/copilot-status.nvim](https://github.com/jonahgoldwastaken/copilot-status.nvim) - Simple Copilot status indicator for Neovim
@@ -688,13 +690,13 @@
 
 ## Mustache 
 
-- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, and nix-darwin
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 
 ## Nix 
 
 - [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@zowoq]
 - [kampka/nix-flake-crowdsec](https://github.com/kampka/nix-flake-crowdsec) - A nix flake for running Crowdsec on NixOS
+- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [katexochen/govulncheck-nixpkgs](https://github.com/katexochen/govulncheck-nixpkgs) - Scanning nixpkgs for vulnerabilities in Go packages
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
@@ -859,6 +861,7 @@
 
 ## Python 
 
+- [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything
 - [hellt/vrnetlab](https://github.com/hellt/vrnetlab) - Make VM-based Network OSes run in Containerlab
 - [vrnetlab/vrnetlab](https://github.com/vrnetlab/vrnetlab) - Run virtual routers with docker
 - [ipspace/netlab](https://github.com/ipspace/netlab) - Making virtual networking labs suck less
@@ -1141,6 +1144,7 @@
 
 ## Rust 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [timelens/timelens](https://github.com/timelens/timelens) - Timelens command-line client
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.

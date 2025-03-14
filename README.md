@@ -243,6 +243,7 @@
 - [github-api](#github-api)
 - [github-pages](#github-pages)
 - [github-profile](#github-profile)
+- [gitlab](#gitlab)
 - [gitops](#gitops)
 - [go](#go)
 - [golang](#golang)
@@ -325,6 +326,7 @@
 - [languages](#languages)
 - [large-language-models](#large-language-models)
 - [latex](#latex)
+- [launcher](#launcher)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -488,6 +490,7 @@
 - [rest](#rest)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
+- [ricing](#ricing)
 - [rpc](#rpc)
 - [rss](#rss)
 - [rss-reader](#rss-reader)
@@ -1237,6 +1240,7 @@
 
 ## cli 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -2476,6 +2480,12 @@
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
+## gitlab 
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+- [timoschwarzer/gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
+
 ## gitops 
 
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -2500,7 +2510,7 @@
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -2565,7 +2575,7 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
@@ -3260,6 +3270,10 @@
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 
+## launcher 
+
+- [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
+
 ## learning 
 
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -3350,7 +3364,7 @@
 ## llama 
 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## llm 
@@ -3360,14 +3374,14 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Deploy and Manage AI/ML Systems
 
 ## llms 
 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
 ## logging 
 
@@ -3478,6 +3492,7 @@
 
 ## markdown 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -3699,6 +3714,7 @@
 
 ## neovim-plugin 
 
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [jonahgoldwastaken/copilot-status.nvim](https://github.com/jonahgoldwastaken/copilot-status.nvim) - Simple Copilot status indicator for Neovim
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
@@ -3977,7 +3993,7 @@
 ## ollama 
 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
 ## open-data 
 
@@ -4082,6 +4098,7 @@
 
 ## others 
 
+- [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything
 - [hellt/vrnetlab](https://github.com/hellt/vrnetlab) - Make VM-based Network OSes run in Containerlab
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [microsoft/Magma](https://github.com/microsoft/Magma) - [CVPR 2025] Magma: A Foundation Model for Multimodal AI Agents
@@ -5066,6 +5083,10 @@
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 
+## ricing 
+
+- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
+
 ## rpc 
 
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -5086,6 +5107,7 @@
 
 ## rust 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [timelens/timelens](https://github.com/timelens/timelens) - Timelens command-line client
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -5601,6 +5623,7 @@
 
 ## terminal 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.

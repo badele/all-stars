@@ -572,6 +572,7 @@
 - [statistics](#statistics)
 - [steganography](#steganography)
 - [stock-market](#stock-market)
+- [stocks](#stocks)
 - [storage](#storage)
 - [storybook](#storybook)
 - [streaming](#streaming)
@@ -5857,6 +5858,10 @@
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [JerBouma/ThePassiveInvestor](https://github.com/JerBouma/ThePassiveInvestor) - Passive Investing for the Average Joe
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+
+## stocks 
+
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 
 ## storage 
 

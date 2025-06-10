@@ -111,6 +111,7 @@
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [config](#config)
+- [configuration-management](#configuration-management)
 - [console](#console)
 - [containers](#containers)
 - [content-management-system](#content-management-system)
@@ -1605,6 +1606,10 @@
 ## config 
 
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+
+## configuration-management 
+
+- [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.18, 2.17, 2.16, 2.15, 2.14, 2.13 + Mitogen
 
 ## console 
 

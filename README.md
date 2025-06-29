@@ -415,6 +415,7 @@
 - [neovim-colorscheme](#neovim-colorscheme)
 - [neovim-plugin](#neovim-plugin)
 - [neovim-theme](#neovim-theme)
+- [netbox-plugin](#netbox-plugin)
 - [network](#network)
 - [network-security](#network-security)
 - [networking](#networking)
@@ -1543,6 +1544,7 @@
 
 ## cloud-native 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
@@ -1562,6 +1564,7 @@
 
 ## cncf 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -2216,6 +2219,7 @@
 
 ## docker 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -3626,6 +3630,7 @@
 
 ## kubernetes 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) - Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
@@ -4245,6 +4250,10 @@
 ## neovim-theme 
 
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+
+## netbox-plugin 
+
+- [netbox-community/netbox-topology-views](https://github.com/netbox-community/netbox-topology-views) - A netbox plugin that draws topology views
 
 ## network 
 
@@ -5445,6 +5454,7 @@
 
 ## python 
 
+- [eremit4/Akamaru](https://github.com/eremit4/Akamaru) - Sniffing out well-known threat groups
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
@@ -6334,6 +6344,7 @@
 
 ## storage 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
@@ -6559,6 +6570,7 @@
 
 ## threat-hunting 
 
+- [eremit4/Akamaru](https://github.com/eremit4/Akamaru) - Sniffing out well-known threat groups
 - [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
 - [PAST2212/domainthreat](https://github.com/PAST2212/domainthreat) - Newly registered Domain Monitoring to detect phishing and brand impersonation with subdomain enumeration and source code scraping
 - [t4d/StalkPhish](https://github.com/t4d/StalkPhish) - StalkPhish - The Phishing kits stalker, harvesting phishing kits for investigations.
@@ -6566,6 +6578,7 @@
 
 ## threat-intelligence 
 
+- [eremit4/Akamaru](https://github.com/eremit4/Akamaru) - Sniffing out well-known threat groups
 - [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [PAST2212/domainthreat](https://github.com/PAST2212/domainthreat) - Newly registered Domain Monitoring to detect phishing and brand impersonation with subdomain enumeration and source code scraping

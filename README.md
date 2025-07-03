@@ -30,7 +30,6 @@
 - [ansible](#ansible)
 - [api](#api)
 - [api-gateway](#api-gateway)
-- [apk](#apk)
 - [app](#app)
 - [application](#application)
 - [apps](#apps)
@@ -76,7 +75,6 @@
 - [bruteforce](#bruteforce)
 - [bug-bounty](#bug-bounty)
 - [bugbounty](#bugbounty)
-- [bun](#bun)
 - [business-intelligence](#business-intelligence)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -728,7 +726,6 @@
 - [youtube](#youtube)
 - [youtube-dl](#youtube-dl)
 - [zettelkasten](#zettelkasten)
-- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -922,10 +919,6 @@
 
 - [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 
-## apk 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
-
 ## app 
 
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -945,7 +938,6 @@
 
 ## archlinux 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [lgaboury/Sway-Waybar-Install-Script](https://github.com/lgaboury/Sway-Waybar-Install-Script) - This script installs sway window manager and waybar on an Arch-Linux base system.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [kewlfft/ansible-aur](https://github.com/kewlfft/ansible-aur) - Ansible module to manage packages from the AUR
@@ -1288,7 +1280,7 @@
 
 ## bug-bounty 
 
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
@@ -1301,10 +1293,6 @@
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
-
-## bun 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## business-intelligence 
 
@@ -2077,7 +2065,6 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## deployment 
 
@@ -2186,7 +2173,7 @@
 
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 
@@ -2263,7 +2250,6 @@
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [jeanralphaviles/dump1090-docker](https://github.com/jeanralphaviles/dump1090-docker) - Run dump1090-fa (Flightaware fork) quickly and easily with Docker!
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -2892,7 +2878,6 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [ncruces/go-coverage-report](https://github.com/ncruces/go-coverage-report) - GitHub Action to add a coverage badge to your Go repo
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -2964,7 +2949,6 @@
 - [ncruces/go-coverage-report](https://github.com/ncruces/go-coverage-report) - GitHub Action to add a coverage badge to your Go repo
 - [zmwangx/ets](https://github.com/zmwangx/ets) - Command output timestamper
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -3096,7 +3080,6 @@
 
 ## hacking 
 
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
@@ -3127,7 +3110,7 @@
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
@@ -3292,7 +3275,6 @@
 
 ## homebrew 
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 
 ## homelab 
@@ -3413,7 +3395,7 @@
 
 ## infosec 
 
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [noraj/rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) - An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
@@ -4397,7 +4379,6 @@
 - [xzfc/cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [gaelreyrol/udev-nix](https://github.com/gaelreyrol/udev-nix) - A small utility library to create udev rules with Nix!
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [jmgilman/nix-pre-commit](https://github.com/jmgilman/nix-pre-commit) - Generate pre-commit configurations with your flake.nix
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
@@ -4445,7 +4426,6 @@
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [vlktomas/nix-examples](https://github.com/vlktomas/nix-examples) - Showcase of Nix usage for various technologies
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
@@ -5221,7 +5201,7 @@
 
 ## penetration-testing 
 
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
@@ -5244,7 +5224,7 @@
 
 ## pentesting 
 
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -5932,7 +5912,6 @@
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -6055,7 +6034,7 @@
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -6109,7 +6088,7 @@
 
 ## security-automation 
 
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
@@ -7082,7 +7061,7 @@
 
 ## vulnerability 
 
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Vulnerability assessment and penetration testing automation and reporting platform for teams.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
@@ -7320,10 +7299,6 @@
 ## zettelkasten 
 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-
-## zig 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## zsh 
 

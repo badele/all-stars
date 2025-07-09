@@ -4734,6 +4734,7 @@
 
 ## others 
 
+- [SiriusScan/Sirius](https://github.com/SiriusScan/Sirius) - 
 - [clan-lol/clan-core](https://github.com/clan-lol/clan-core) - Build your own darkent [read-only mirror of https://git.clan.lol/clan/clan-core]
 - [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
 - [Covivo/mobicoop](https://github.com/Covivo/mobicoop) - Mirror from https://gitlab.com/mobicoop/mobicoop

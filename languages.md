@@ -804,7 +804,7 @@
 - [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror.
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
-- [duggytuxy/Intelligence_IPv4_Blocklist](https://github.com/duggytuxy/Intelligence_IPv4_Blocklist) - Intelligence Blocklist (IPv4). DST = France & Belgium
+- [duggytuxy/Intelligence_IPv4_Blocklist](https://github.com/duggytuxy/Intelligence_IPv4_Blocklist) - Intelligence IPv4 Blocklist. DST = Europa
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome testing tools 🚀
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
@@ -874,7 +874,7 @@
 
 ## POV-Ray SDL 
 
-- [bullet-physics-playground/bpp](https://github.com/bullet-physics-playground/bpp) - The Bullet Physics Playground – Bullet Real-Time Physics Simulation.
+- [bullet-physics-playground/bpp](https://github.com/bullet-physics-playground/bpp) - The bullet physics playground - Physics simulation experiments
 
 ## Perl 
 

@@ -491,6 +491,7 @@
 - [php](#php)
 - [pico-8](#pico-8)
 - [pip](#pip)
+- [pipeline](#pipeline)
 - [pixel-art](#pixel-art)
 - [playwright](#playwright)
 - [plex](#plex)
@@ -5384,6 +5385,10 @@
 
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
+
+## pipeline 
+
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 
 ## pixel-art 
 

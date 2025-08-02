@@ -281,7 +281,6 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [google-cloud](#google-cloud)
-- [gpt](#gpt)
 - [gpt-3](#gpt-3)
 - [gpt-4](#gpt-4)
 - [gpu](#gpu)
@@ -419,6 +418,7 @@
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neovim-colorscheme](#neovim-colorscheme)
+- [neovim-configuration](#neovim-configuration)
 - [neovim-plugin](#neovim-plugin)
 - [neovim-theme](#neovim-theme)
 - [netbox-plugin](#netbox-plugin)
@@ -1399,7 +1399,6 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
@@ -3051,10 +3050,6 @@
 
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 
-## gpt 
-
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-
 ## gpt-3 
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -4326,6 +4321,10 @@
 
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 
+## neovim-configuration 
+
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
+
 ## neovim-plugin 
 
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -4834,7 +4833,7 @@
 - [jivy26/infiltra](https://github.com/jivy26/infiltra) - Open-Source CLI Penetration Testing Tool To Automate Various Processes
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [Defendstack/DefendStack-Suite](https://github.com/Defendstack/DefendStack-Suite) - Open source defense for your entire stack
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
@@ -4842,7 +4841,7 @@
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
-- [shane-mason/FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
+- [shane-mason/FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast & Cable TV simulator
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist enga
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port

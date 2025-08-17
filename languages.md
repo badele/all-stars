@@ -970,7 +970,7 @@
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything [ICCV 2025]
-- [hellt/vrnetlab](https://github.com/hellt/vrnetlab) - Make VM-based Network OSes run in Containerlab
+- [srl-labs/vrnetlab](https://github.com/srl-labs/vrnetlab) - Make VM-based Network OSes run in Containerlab
 - [vrnetlab/vrnetlab](https://github.com/vrnetlab/vrnetlab) - Run virtual routers with docker
 - [ipspace/netlab](https://github.com/ipspace/netlab) - Making virtual networking labs suck less
 - [microsoft/Magma](https://github.com/microsoft/Magma) - [CVPR 2025] Magma: A Foundation Model for Multimodal AI Agents
@@ -1379,6 +1379,7 @@
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
@@ -1483,7 +1484,7 @@
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) - A free, open source, online digital circuit/logic designer.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kiloc
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
@@ -1532,7 +1533,6 @@
 - [bennycode/trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [ashleydavis/data-forge-notebook](https://github.com/ashleydavis/data-forge-notebook) - Data-Forge Notebook is a cross-platform notebook application for JavaScript
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.

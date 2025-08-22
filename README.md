@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [3d-graphics](#3d-graphics)
 - [3d-printing](#3d-printing)
+- [accounting](#accounting)
 - [actions](#actions)
 - [activitypub](#activitypub)
 - [agent](#agent)
@@ -96,6 +97,7 @@
 - [chromium](#chromium)
 - [ci](#ci)
 - [cicd](#cicd)
+- [claude](#claude)
 - [cli](#cli)
 - [climate-change](#climate-change)
 - [clojure](#clojure)
@@ -766,6 +768,11 @@
 
 - [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib) - Library of parts modelled in OpenSCAD and a framework for making projects
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+
+## accounting 
+
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 
 ## actions 
 
@@ -1484,6 +1491,14 @@
 ## cicd 
 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+## claude 
+
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kiloc
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 
 ## cli 
 
@@ -4906,6 +4921,7 @@
 
 ## others 
 
+- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.

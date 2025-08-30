@@ -16,6 +16,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ai-art](#ai-art)
+- [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
 - [algotrading](#algotrading)
 - [amazon](#amazon)
@@ -368,9 +369,11 @@
 - [language](#language)
 - [language-model](#language-model)
 - [languages](#languages)
+- [laravel](#laravel)
 - [large-language-models](#large-language-models)
 - [latex](#latex)
 - [launcher](#launcher)
+- [learn](#learn)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -835,6 +838,10 @@
 - [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
+## algorithm 
+
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+
 ## algorithmic-trading 
 
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
@@ -937,7 +944,7 @@
 
 ## api 
 
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [InseeFrLab/pynsee](https://github.com/InseeFrLab/pynsee) - pynsee package contains tools to easily search and download French data from INSEE and IGN APIs
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -1476,7 +1483,7 @@
 
 ## chrome-extension 
 
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [Aschen/coding-challenge-ia-solver](https://github.com/Aschen/coding-challenge-ia-solver) - A Chrome extension using LLM and DevTools to automatically solve coding challenge by manipulating directly the browser
@@ -1856,6 +1863,7 @@
 
 ## cross-platform 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -2386,6 +2394,7 @@
 
 ## documentation 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -2473,6 +2482,7 @@
 
 ## education 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) - A free, open source, online digital circuit/logic designer.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 
@@ -2705,7 +2715,7 @@
 
 ## firefox-extension 
 
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -2892,6 +2902,7 @@
 
 ## git 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -3251,6 +3262,7 @@
 
 ## hacktoberfest 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
@@ -3269,7 +3281,7 @@
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [vrnetlab/vrnetlab](https://github.com/vrnetlab/vrnetlab) - Run virtual routers with docker
@@ -3583,6 +3595,7 @@
 
 ## interview 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -3870,6 +3883,10 @@
 
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 
+## laravel 
+
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
+
 ## large-language-models 
 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -3888,6 +3905,10 @@
 ## launcher 
 
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
+
+## learn 
+
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 ## learning 
 
@@ -4163,6 +4184,7 @@
 
 ## markdown 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -4381,6 +4403,7 @@
 
 ## neovim 
 
+- [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
@@ -4444,6 +4467,7 @@
 
 ## neovim-plugin 
 
+- [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
@@ -4666,6 +4690,7 @@
 
 ## nodejs 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
@@ -4811,6 +4836,7 @@
 
 ## open-source 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
@@ -4820,7 +4846,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
@@ -4952,6 +4978,7 @@
 
 ## others 
 
+- [ponceto/another-world-interpreter](https://github.com/ponceto/another-world-interpreter) - Yet Another World Bytecode Interpreter [this repository is a mirror]
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [roboflow/trackers](https://github.com/roboflow/trackers) - A unified library for object tracking featuring clean room re-implementations of leading multi-object tracking algorithms
 - [zombieCraig/ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator
@@ -5764,6 +5791,7 @@
 
 ## python 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -6425,6 +6453,7 @@
 
 ## self-hosted 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -7087,6 +7116,8 @@
 
 ## tui 
 
+- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
+- [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
@@ -7397,6 +7428,7 @@
 
 ## vue 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
@@ -7571,6 +7603,7 @@
 
 ## wiki 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)

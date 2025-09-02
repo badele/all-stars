@@ -944,10 +944,10 @@
 
 ## api 
 
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [InseeFrLab/pynsee](https://github.com/InseeFrLab/pynsee) - pynsee package contains tools to easily search and download French data from INSEE and IGN APIs
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -1963,7 +1963,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [noraj/rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) - An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist. DST = Europa
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes.
 - [PAST2212/domainthreat](https://github.com/PAST2212/domainthreat) - Newly registered Domain Monitoring to detect phishing and brand impersonation with subdomain enumeration and source code scraping
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -2107,7 +2107,7 @@
 
 - [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist. DST = Europa
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes.
 
 ## ddos-attack-tools 
 
@@ -3262,6 +3262,7 @@
 
 ## hacktoberfest 
 
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -3295,7 +3296,6 @@
 - [fr-ser/grafana-sqlite-datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana Plugin to enable SQLite as a Datasource
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome testing tools 🚀
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
@@ -4156,7 +4156,7 @@
 - [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
 - [owasp-dep-scan/blint](https://github.com/owasp-dep-scan/blint) - BLint is a Binary Linter to check the security properties, and capabilities in your executables. Since v2, blint is also an SBOM generator for binaries.
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist. DST = Europa
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 
@@ -4516,7 +4516,7 @@
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist. DST = Europa
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes.
 - [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -4530,7 +4530,7 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist. DST = Europa
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes.
 - [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 
@@ -4978,6 +4978,7 @@
 
 ## others 
 
+- [doxx/doxx.net](https://github.com/doxx/doxx.net) - Advanced VPN, Parallel Internet, and De-Location Platform
 - [ponceto/another-world-interpreter](https://github.com/ponceto/another-world-interpreter) - Yet Another World Bytecode Interpreter [this repository is a mirror]
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [roboflow/trackers](https://github.com/roboflow/trackers) - A unified library for object tracking featuring clean room re-implementations of leading multi-object tracking algorithms
@@ -6349,6 +6350,7 @@
 
 ## security 
 
+- [shaialon/express-csp-generator](https://github.com/shaialon/express-csp-generator) - Content Security Policy Generator, Powered by RapidSec
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Pentesting automation platform that combines hacking tools to complete assessments
 - [utmstack/UTMStack](https://github.com/utmstack/UTMStack) - Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation and threat intelligence.
 - [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
@@ -7495,7 +7497,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist. DST = Europa
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox

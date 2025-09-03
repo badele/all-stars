@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [3d-graphics](#3d-graphics)
 - [3d-printing](#3d-printing)
+- [accessibility](#accessibility)
 - [accounting](#accounting)
 - [actions](#actions)
 - [activitypub](#activitypub)
@@ -645,6 +646,7 @@
 - [svg](#svg)
 - [svg-icons](#svg-icons)
 - [swift](#swift)
+- [sysadmin](#sysadmin)
 - [system](#system)
 - [system-design](#system-design)
 - [tailwindcss](#tailwindcss)
@@ -776,6 +778,10 @@
 
 - [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib) - Library of parts modelled in OpenSCAD and a framework for making projects
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+
+## accessibility 
+
+- [ZugBahnHof/color-contrast](https://github.com/ZugBahnHof/color-contrast) - Python library to calculate and modulate color contrasts according to WCAG2.1
 
 ## accounting 
 
@@ -6802,6 +6808,13 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [AurelTyson/spotify-menubar](https://github.com/AurelTyson/spotify-menubar) - A macOS menu bar application with Spotify's current track informations
+
+## sysadmin 
+
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 
 ## system 
 

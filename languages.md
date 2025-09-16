@@ -264,7 +264,6 @@
 ## Dockerfile 
 
 - [Lukas0025/maltrail-mikrotik-docker](https://github.com/Lukas0025/maltrail-mikrotik-docker) - Maltrail IDS with support for mikrotik packet sniffer stream in docker
-- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [jeanralphaviles/dump1090-docker](https://github.com/jeanralphaviles/dump1090-docker) - Run dump1090-fa (Flightaware fork) quickly and easily with Docker!
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.18, 2.17, 2.16, 2.15, 2.14, 2.13 + Mitogen
 - [onedr0p/home-operations](https://github.com/onedr0p/home-operations) - Highly opinionated Ansible playbooks, Ansible roles, and other things that are used to maintain my home-cluster
@@ -295,6 +294,9 @@
 
 ## Go 
 
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [pinpox/radio](https://github.com/pinpox/radio) - Radio stream
+- [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [doxx/doxx.net](https://github.com/doxx/doxx.net) - Advanced VPN, Parallel Internet, and De-Location Platform
@@ -564,6 +566,11 @@
 
 ## JavaScript 
 
+- [hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer) - High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.
+- [eshaz/icecast-metadata-js](https://github.com/eshaz/icecast-metadata-js) - Browser and NodeJS packages for playing and reading Icecast compatible streaming audio with realtime metadata updates.
+- [orhun/CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly 🎶
+- [joeyboli/RadioPlayer](https://github.com/joeyboli/RadioPlayer) - HTML5 Internet Radio Web Player.
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [dlegeay/Mot-de-passe](https://github.com/dlegeay/Mot-de-passe) - Code Source du site Internet - https://mot-de-passe.xyz
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
@@ -821,6 +828,7 @@
 
 ## Others 
 
+- [mikepierce/internet-radio-streams](https://github.com/mikepierce/internet-radio-streams) - Curated List of Internet Radio Streams
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [cipher387/awesome-overpass-turbo](https://github.com/cipher387/awesome-overpass-turbo) - Learning materials and tools for using Overpass turbo (web based data mining tool for OpenStreetMap that runs Overpass API query and shows the results on map)
@@ -889,6 +897,9 @@
 
 ## PHP 
 
+- [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
+- [Jackysi/PawTunes](https://github.com/Jackysi/PawTunes) - Discover PawTunes, The Ultimate HTML5 Internet Radio Player with Purrfect Visuals, Customizable Templates, and Clean Code. Built for Pros, Loved by Cats!
+- [DoliCloud/SellYourSaas](https://github.com/DoliCloud/SellYourSaas) - Sell-Your-Saas is an Open Source solution to automate and sell any Web application as a SaaS service
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [Covivo/mobicoop](https://github.com/Covivo/mobicoop) - Mirror from https://gitlab.com/mobicoop/mobicoop
@@ -936,6 +947,11 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [LanikSJ/dfimage](https://github.com/LanikSJ/dfimage) - Reverse-engineer a Dockerfile from a Docker image.
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
+- [TheAuditorTool/Auditor](https://github.com/TheAuditorTool/Auditor) - Antidote to VibeCoding
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
 - [weaviate/elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -1022,6 +1038,7 @@
 - [hackertarget/nmap-did-what](https://github.com/hackertarget/nmap-did-what) - Nmap Dashboard Mini Project
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [Kiteretsu77/APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
+- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [RevoltSecurities/ShodanX](https://github.com/RevoltSecurities/ShodanX) - ShodanX is a tool to gather information of targets using shodan dorks⚡.
@@ -1268,6 +1285,7 @@
 
 ## Ruby 
 
+- [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [ninoseki/miteru](https://github.com/ninoseki/miteru) - A phishing kit collector for scavengers
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [licensee/licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
@@ -1282,6 +1300,7 @@
 
 ## Rust 
 
+- [h4x0r/npmls](https://github.com/h4x0r/npmls) - Scan entire file system for malicious npm packages and modules
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -1293,6 +1312,7 @@
 - [insight-platform/Similari](https://github.com/insight-platform/Similari) - A framework for building high-performance real-time multiple object trackers
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2.0 and PAM
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) - OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
@@ -1331,7 +1351,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [subalterngames/cacophony](https://github.com/subalterngames/cacophony) - Minimalist MIDI Sequencer
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
@@ -1489,6 +1509,8 @@
 
 ## TypeScript 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
@@ -1514,7 +1536,6 @@
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing

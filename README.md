@@ -3379,6 +3379,7 @@
 - [vrnetlab/vrnetlab](https://github.com/vrnetlab/vrnetlab) - Run virtual routers with docker
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
+- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) - Incus provider for Terraform/OpenTofu
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
@@ -3920,6 +3921,7 @@
 
 ## kubernetes 
 
+- [sebagarayco/helm-charts](https://github.com/sebagarayco/helm-charts) - 
 - [cisagov/thorium](https://github.com/cisagov/thorium) - A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
@@ -5247,7 +5249,7 @@
 - [dundalek/GrammKit](https://github.com/dundalek/GrammKit) - Generate diagrams for parser grammars
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+- [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [0liverFlow/HookPhish](https://github.com/0liverFlow/HookPhish) - HookPhish is a Python script designed to aid in the detection of phishing websites

@@ -164,6 +164,7 @@
 - [databases](#databases)
 - [datascience](#datascience)
 - [dataset](#dataset)
+- [daw](#daw)
 - [ddos](#ddos)
 - [ddos-attack-tools](#ddos-attack-tools)
 - [ddos-attacks](#ddos-attacks)
@@ -2157,6 +2158,12 @@
 
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## daw 
+
+- [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
+- [subalterngames/cacophony](https://github.com/subalterngames/cacophony) - Minimalist MIDI Sequencer
+- [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 
 ## ddos 
 

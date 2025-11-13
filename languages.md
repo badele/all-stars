@@ -61,6 +61,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -263,6 +264,7 @@
 
 ## Dart 
 
+- [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 
@@ -300,6 +302,8 @@
 
 ## Go 
 
+- [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [inguardians/peirates](https://github.com/inguardians/peirates) - Peirates - Kubernetes Penetration Testing tool
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
@@ -594,7 +598,7 @@
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.
+- [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [hvianna/audioMotion-analyzer](https://github.com/hvianna/audioMotion-analyzer) - High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.
 - [eshaz/icecast-metadata-js](https://github.com/eshaz/icecast-metadata-js) - Browser and NodeJS packages for playing and reading Icecast compatible streaming audio with realtime metadata updates.
@@ -859,6 +863,7 @@
 
 ## Others 
 
+- [malware-traffic/indicators](https://github.com/malware-traffic/indicators) - Indicators of Compromise (IOCs) from malware or suspicious network traffic
 - [huseyinstif/Nuclei-AI-Prompts](https://github.com/huseyinstif/Nuclei-AI-Prompts) - 
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
@@ -937,7 +942,7 @@
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [Covivo/mobicoop](https://github.com/Covivo/mobicoop) - Mirror from https://gitlab.com/mobicoop/mobicoop
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [mcguirepr89/BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 4B, 3B+, and 0W2 built on the TFLite version of BirdNET.
 - [ciccionamente/WeExpire](https://github.com/ciccionamente/WeExpire) - WeExpire is the first opensource tool for creating emergency notes that can be read by your trusted contacts only after your death or if you are seriously injured.
@@ -980,6 +985,8 @@
 
 ## Python 
 
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [dynatrace-oss/honeyquest](https://github.com/dynatrace-oss/honeyquest) - Honeyquest is a cyber security game that asks humans to distinguish neutral, risky, and deceptive payloads. Honeyquest presents participants with realistic web application vignettes ("queries"). Parti
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
@@ -995,7 +1002,7 @@
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [HalilDeniz/BackDoorSim](https://github.com/HalilDeniz/BackDoorSim) - BackdoorSim: An Educational into Remote Administration Tools
 - [flozz/yoga-image-optimizer](https://github.com/flozz/yoga-image-optimizer) - A graphical tool to convert and optimize JPEG, PNG and WebP images (based on YOGA)
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 - [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai) - This script automates SQL injection testing using SQLMap with AI-powered decision making.
 - [cycurity/wister](https://github.com/cycurity/wister) - A wordlist generator tool, that allows you to supply a set of words, giving you the possibility to craft multiple variations from the given words, creating a unique and ideal wordlist to use regarding
@@ -1041,7 +1048,7 @@
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [Defendstack/DefendStack-Suite](https://github.com/Defendstack/DefendStack-Suite) - Open source defense for your entire stack
 - [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
+- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
 - [owasp-dep-scan/blint](https://github.com/owasp-dep-scan/blint) - blint is a Binary Linter that checks the security properties and capabilities of your executables. It can also generate a Software Bill-of-Materials (SBOM) for supported binaries.
 - [blakeblackshear/frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration) - Frigate integration for Home Assistant
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -1056,7 +1063,7 @@
 - [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist enga
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
@@ -1168,7 +1175,7 @@
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [numtide/deploykit](https://github.com/numtide/deploykit) - Execute commands remote via ssh and locally in parallel with python
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
 - [washingtonpost/aws-tagger](https://github.com/washingtonpost/aws-tagger) - AWS bulk tagging tool
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [bliseng/aws-tag-a-day](https://github.com/bliseng/aws-tag-a-day) - A tool for simplifying swarming of fixing tags
@@ -1350,6 +1357,8 @@
 
 ## Rust 
 
+- [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer
 - [desbma/shh](https://github.com/desbma/shh) - Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
@@ -1401,7 +1410,6 @@
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [AgathaSorceress/url-eater](https://github.com/AgathaSorceress/url-eater) - Clean unnecessary parameters from URLs copied to clipboard
@@ -1488,7 +1496,7 @@
 - [chumaky/docker-images](https://github.com/chumaky/docker-images) - Postgres database with different foreign data wrapper extensions installed. Datero data platform engine image.
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist provides an additional layer of security to reduce the number and attack surface of your exposed assets (web applications, websites, DMZs, public IPs, etc.), reducing the re
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist is an additional layer of protection containing a list of IP addresses (version 4) whose activities have been detected as malicious.
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
@@ -1569,12 +1577,17 @@
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## Tree-sitter Query 
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [Ademking/FlashFuzz](https://github.com/Ademking/FlashFuzz) - Quickly fuzz URLs and scan for secrets directly in your browser tabs
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -1588,7 +1601,6 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [shaialon/express-csp-generator](https://github.com/shaialon/express-csp-generator) - Content Security Policy Generator, Powered by RapidSec
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.

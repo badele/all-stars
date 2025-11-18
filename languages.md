@@ -985,6 +985,7 @@
 
 ## Python 
 
+- [RavinduRathnayaka/LiveThreatMap-dashboard](https://github.com/RavinduRathnayaka/LiveThreatMap-dashboard) - GitHub Action that generates and commits a live SVG world map of cyber threats using Shodan data.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [dynatrace-oss/honeyquest](https://github.com/dynatrace-oss/honeyquest) - Honeyquest is a cyber security game that asks humans to distinguish neutral, risky, and deceptive payloads. Honeyquest presents participants with realistic web application vignettes ("queries"). Parti

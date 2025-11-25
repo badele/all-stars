@@ -595,6 +595,7 @@
 
 ## JavaScript 
 
+- [apinanaivot/IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1744,7 +1745,6 @@
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
 - [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
-- [sotte/presenting.vim](https://github.com/sotte/presenting.vim) - A simple tool for presenting slides in vim based on text files.
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [lifepillar/vim-mucomplete](https://github.com/lifepillar/vim-mucomplete) - Chained completion that works the way you want!

@@ -39,6 +39,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [Nim](#nim)
 - [Nix](#nix)
 - [OpenSCAD](#openscad)
 - [Others](#others)
@@ -85,6 +86,7 @@
 
 ## C 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [zombieCraig/ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator
@@ -302,6 +304,12 @@
 
 ## Go 
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [chushuai/wscan](https://github.com/chushuai/wscan) - Wscan is a web security scanner that focuses on web security, dedicated to making web security accessible to everyone.
+- [ashish0kumar/gostty](https://github.com/ashish0kumar/gostty) - ghostty animation in the terminal
+- [Zebbeni/ansizalizer](https://github.com/Zebbeni/ansizalizer) - A TUI to convert Images to ANSI strings using bubbletea
+- [mondoohq/cnspec](https://github.com/mondoohq/cnspec) - An open source, cloud-native security to protect everything from build to runtime
 - [dtouzeau/motd-skin](https://github.com/dtouzeau/motd-skin) - motd-skin - A customizable SSH login splash screen for Linux servers. Displays hostname, network, DNS, and VMware/Proxmox virtualization information with skinnable themes
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
@@ -523,6 +531,7 @@
 
 ## HTML 
 
+- [cslarsen/jp2a](https://github.com/cslarsen/jp2a) - Converts jpg images to ASCII
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [AUX-441/SecuSploitX](https://github.com/AUX-441/SecuSploitX) - Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.
@@ -595,6 +604,8 @@
 
 ## JavaScript 
 
+- [xero/text0wnz](https://github.com/xero/text0wnz) - 𝙔𝙤𝙪𝙧 𝙗𝙧𝙤𝙬𝙨𝙚𝙧 𝙞𝙨 𝙩𝙝𝙚 𝙘𝙖𝙣𝙫𝙖𝙨. Draw, edit, and collaborate on ANSI, ASCII, NFO, and XBIN art in a retro text art editor rebooted for the modern web. Offline-first or connect for real-time sessions. Craft
+- [bradysheridan/ascii-animator](https://github.com/bradysheridan/ascii-animator) - An open-source tool for creating plain text animations in the style of ASCII art
 - [apinanaivot/IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -804,6 +815,10 @@
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 
+## Nim 
+
+- [ansiwave/ansiwave](https://github.com/ansiwave/ansiwave) - A modern BBS
+
 ## Nix 
 
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
@@ -988,6 +1003,7 @@
 
 ## Python 
 
+- [rvalles/pybbsterm](https://github.com/rvalles/pybbsterm) - Terminal compatible with ansi-bbs. Meant to be a prototype, but published because why not.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [RavinduRathnayaka/LiveThreatMap-dashboard](https://github.com/RavinduRathnayaka/LiveThreatMap-dashboard) - GitHub Action that generates and commits a live SVG world map of cyber threats using Shodan data.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -1011,7 +1027,7 @@
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 - [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai) - This script automates SQL injection testing using SQLMap with AI-powered decision making.
 - [cycurity/wister](https://github.com/cycurity/wister) - A wordlist generator tool, that allows you to supply a set of words, giving you the possibility to craft multiple variations from the given words, creating a unique and ideal wordlist to use regarding
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [dwillowtree/diana](https://github.com/dwillowtree/diana) - Save toil in security operations with: Detection & Intelligence Analysis for New Alerts (D.I.A.N.A. )
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [LanikSJ/dfimage](https://github.com/LanikSJ/dfimage) - Reverse-engineer a Dockerfile from a Docker image.

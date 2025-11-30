@@ -258,7 +258,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
 ## CoffeeScript 
@@ -626,7 +626,6 @@
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [drendog/Logic-Circuit-Simulator](https://github.com/drendog/Logic-Circuit-Simulator) - A logic circuit simulator made with p5.js library.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [beaugunderson/v6decode.com](https://github.com/beaugunderson/v6decode.com) - 6⃣ the v6decode.com website (for looking up information about IPv6 addresses)
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -1361,6 +1360,7 @@
 
 ## Roff 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [cytopia/docker-mypy](https://github.com/cytopia/docker-mypy) - Alpine-based multistage-build version of Python mypy for reproducible usage in CI
 
 ## Ruby 
@@ -1521,7 +1521,7 @@
 - [chumaky/docker-images](https://github.com/chumaky/docker-images) - Postgres database with different foreign data wrapper extensions installed. Datero data platform engine image.
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the most recent data (IPv4 addresses) to provide an additional layer of security for your firewall and WAF instances.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]

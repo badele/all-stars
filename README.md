@@ -617,6 +617,7 @@
 - [reverse-proxy](#reverse-proxy)
 - [rice](#rice)
 - [ricing](#ricing)
+- [robotics](#robotics)
 - [rpc](#rpc)
 - [rss](#rss)
 - [rss-reader](#rss-reader)
@@ -6875,6 +6876,10 @@
 ## ricing 
 
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
+
+## robotics 
+
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 
 ## rpc 
 

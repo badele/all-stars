@@ -306,6 +306,8 @@
 
 ## Go 
 
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
+- [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [xyproto/vt100](https://github.com/xyproto/vt100) - :computer: VT100 Terminal Package
@@ -316,7 +318,7 @@
 - [Zebbeni/ansizalizer](https://github.com/Zebbeni/ansizalizer) - A TUI to convert Images to ANSI strings using bubbletea
 - [mondoohq/cnspec](https://github.com/mondoohq/cnspec) - An open source, cloud-native security to protect everything from build to runtime
 - [dtouzeau/motd-skin](https://github.com/dtouzeau/motd-skin) - motd-skin - A customizable SSH login splash screen for Linux servers. Displays hostname, network, DNS, and VMware/Proxmox virtualization information with skinnable themes
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -605,6 +607,7 @@
 
 ## JavaScript 
 
+- [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into web documents.
 - [xero/text0wnz](https://github.com/xero/text0wnz) - 𝙔𝙤𝙪𝙧 𝙗𝙧𝙤𝙬𝙨𝙚𝙧 𝙞𝙨 𝙩𝙝𝙚 𝙘𝙖𝙣𝙫𝙖𝙨. Draw, edit, and collaborate on ANSI, ASCII, NFO, and XBIN art in a retro text art editor rebooted for the modern web. Offline-first or connect for real-time sessions. Craft
 - [bradysheridan/ascii-animator](https://github.com/bradysheridan/ascii-animator) - An open-source tool for creating plain text animations in the style of ASCII art
 - [apinanaivot/IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
@@ -882,6 +885,7 @@
 
 ## Others 
 
+- [CyberFlooD/SwitchToOpen](https://github.com/CyberFlooD/SwitchToOpen) - SwitchToOpen - The open source shift
 - [malware-traffic/indicators](https://github.com/malware-traffic/indicators) - Indicators of Compromise (IOCs) from malware or suspicious network traffic
 - [huseyinstif/Nuclei-AI-Prompts](https://github.com/huseyinstif/Nuclei-AI-Prompts) - 
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
@@ -974,6 +978,7 @@
 
 ## Perl 
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
@@ -1004,6 +1009,10 @@
 
 ## Python 
 
+- [lgandx/PCredz](https://github.com/lgandx/PCredz) - This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
+- [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
+- [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
+- [socfortress/CoPilot](https://github.com/socfortress/CoPilot) - SOCFortress CoPilot
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1049,7 +1058,7 @@
 - [roboflow/trackers](https://github.com/roboflow/trackers) - A unified library for object tracking featuring clean room re-implementations of leading multi-object tracking algorithms
 - [Tbruno25/can-explorer](https://github.com/Tbruno25/can-explorer) - Visualize CAN Bus messages in real time
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Pentesting automation platform that combines hacking tools to complete assessments
@@ -1385,6 +1394,14 @@
 
 ## Rust 
 
+- [roosta/oozz](https://github.com/roosta/oozz) - ANSI art font with added oozz
+- [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+- [izya4ka/yadb](https://github.com/izya4ka/yadb) - Yet another directory buster
+- [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions
+- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
+- [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
+- [AfaanBilal/NanoCore](https://github.com/AfaanBilal/NanoCore) - NanoCore 8-bit CPU emulator in Rust
 - [mkrueger/icy_tools](https://github.com/mkrueger/icy_tools) - A collection of ansi/bbs related applications.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy and service mesh built on top of Cloudflare's Pingora
@@ -1451,7 +1468,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [subalterngames/cacophony](https://github.com/subalterngames/cacophony) - Minimalist MIDI Sequencer
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
@@ -1617,6 +1634,8 @@
 
 ## TypeScript 
 
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [dom111/image-to-ansi](https://github.com/dom111/image-to-ansi) - Convert an image to ANSI colour codes using JavaScript.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
@@ -1663,7 +1682,7 @@
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits) - A free, open source, online digital circuit/logic designer.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.

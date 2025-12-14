@@ -306,6 +306,7 @@
 
 ## Go 
 
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -591,6 +592,7 @@
 
 ## Java 
 
+- [sblendorio/petscii-bbs](https://github.com/sblendorio/petscii-bbs) - A Java framework for building highly customizable PETSCII-enabled BBS, accessible from Commodore 64/128
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [timestored/qstudio](https://github.com/timestored/qstudio) - qStudio - Free SQL Analysis Tool
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.

@@ -784,6 +784,7 @@
 - [web-components](#web-components)
 - [web-crawler](#web-crawler)
 - [web-development](#web-development)
+- [web-scraper](#web-scraper)
 - [web-scraping](#web-scraping)
 - [webapp](#webapp)
 - [webassembly](#webassembly)
@@ -806,6 +807,7 @@
 - [wordlist](#wordlist)
 - [workflow](#workflow)
 - [workflow-automation](#workflow-automation)
+- [workflows](#workflows)
 - [wsl](#wsl)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -2252,7 +2254,7 @@
 
 ## data-mining 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 
 ## data-science 
@@ -2276,7 +2278,7 @@
 
 ## data-visualization 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -3997,7 +3999,7 @@
 
 ## information-gathering 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -5572,7 +5574,7 @@
 
 ## osint 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -5603,7 +5605,7 @@
 
 ## osint-python 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [eremit4/favihunter](https://github.com/eremit4/favihunter) - Discover and monitor internet assets using favicon hashes across search engines.
 - [C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) - Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
@@ -5623,6 +5625,7 @@
 
 ## others 
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [lgandx/PCredz](https://github.com/lgandx/PCredz) - This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
 - [socfortress/CoPilot](https://github.com/socfortress/CoPilot) - SOCFortress CoPilot
@@ -6676,7 +6679,7 @@
 
 ## python3 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [AUX-441/SecuSploitX](https://github.com/AUX-441/SecuSploitX) - Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.
@@ -6858,7 +6861,7 @@
 
 ## reconnaissance 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [ANG13T/satnow-scraper](https://github.com/ANG13T/satnow-scraper) - OSINT web scraper for SatNow to extract details about satellite components and subsystem specs for in-depth reconnaissance 🛸
@@ -7917,7 +7920,7 @@
 
 ## threat-intelligence 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [RavinduRathnayaka/LiveThreatMap-dashboard](https://github.com/RavinduRathnayaka/LiveThreatMap-dashboard) - GitHub Action that generates and commits a live SVG world map of cyber threats using Shodan data.
 - [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
@@ -8110,7 +8113,7 @@
 
 ## typescript 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -8489,6 +8492,10 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 
+## web-scraper 
+
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+
 ## web-scraping 
 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -8643,6 +8650,12 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+
+## workflows 
+
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
 ## wsl 
 

@@ -438,6 +438,7 @@
 - [material-design](#material-design)
 - [math](#math)
 - [mathematics](#mathematics)
+- [matlab](#matlab)
 - [matplotlib](#matplotlib)
 - [mcp](#mcp)
 - [mcp-server](#mcp-server)
@@ -556,6 +557,7 @@
 - [playwright](#playwright)
 - [plex](#plex)
 - [plugin](#plugin)
+- [plugins](#plugins)
 - [portfolio](#portfolio)
 - [portfolio-optimization](#portfolio-optimization)
 - [portfolio-template](#portfolio-template)
@@ -755,6 +757,7 @@
 - [verilog](#verilog)
 - [vibe-coding](#vibe-coding)
 - [video](#video)
+- [video-editing](#video-editing)
 - [video-editor](#video-editor)
 - [video-generation](#video-generation)
 - [video-processing](#video-processing)
@@ -872,6 +875,7 @@
 
 ## agents 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
@@ -1110,6 +1114,7 @@
 
 ## artificial-intelligence 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
@@ -1121,7 +1126,7 @@
 ## ascii-art 
 
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [xero/text0wnz](https://github.com/xero/text0wnz) - 𝙔𝙤𝙪𝙧 𝙗𝙧𝙤𝙬𝙨𝙚𝙧 𝙞𝙨 𝙩𝙝𝙚 𝙘𝙖𝙣𝙫𝙖𝙨. Draw, edit, and collaborate on ANSI, ASCII, NFO, and XBIN art in a retro text art editor rebooted for the modern web. Offline-first or connect for real-time sessions. Craft
 - [bradysheridan/ascii-animator](https://github.com/bradysheridan/ascii-animator) - An open-source tool for creating plain text animations in the style of ASCII art
 - [Zebbeni/ansizalizer](https://github.com/Zebbeni/ansizalizer) - A TUI to convert Images to ANSI strings using bubbletea
@@ -1203,7 +1208,7 @@
 
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [gmelodie/awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list of wordlists for bruteforcing and fuzzing
@@ -1239,7 +1244,7 @@
 - [CyberFlooD/SwitchToOpen](https://github.com/CyberFlooD/SwitchToOpen) - SwitchToOpen - The open source shift
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [mikepierce/internet-radio-streams](https://github.com/mikepierce/internet-radio-streams) - Curated List of Internet Radio Streams
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1271,7 +1276,7 @@
 ## awesome-lists 
 
 - [CyberFlooD/SwitchToOpen](https://github.com/CyberFlooD/SwitchToOpen) - SwitchToOpen - The open source shift
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
@@ -1346,7 +1351,7 @@
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1598,7 +1603,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 
 ## chatgpt-api 
 
@@ -1634,6 +1639,7 @@
 
 ## chrome-extension 
 
+- [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
 - [Ademking/FlashFuzz](https://github.com/Ademking/FlashFuzz) - Quickly fuzz URLs and scan for secrets directly in your browser tabs
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
@@ -1661,7 +1667,7 @@
 
 ## claude 
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -1670,7 +1676,7 @@
 ## claude-code 
 
 - [TheAuditorTool/Auditor](https://github.com/TheAuditorTool/Auditor) - Antidote to VibeCoding
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 
@@ -1678,7 +1684,7 @@
 
 - [roosta/oozz](https://github.com/roosta/oozz) - ANSI art font with added oozz
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1734,7 +1740,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
@@ -1879,7 +1885,7 @@
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -1927,9 +1933,10 @@
 
 ## compiler 
 
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 
@@ -1974,7 +1981,7 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 
@@ -2162,6 +2169,7 @@
 
 ## cybersecurity 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [CyberFlooD/SwitchToOpen](https://github.com/CyberFlooD/SwitchToOpen) - SwitchToOpen - The open source shift
 - [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
@@ -2250,11 +2258,11 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 
 ## data-mining 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 
 ## data-science 
@@ -2278,7 +2286,7 @@
 
 ## data-visualization 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -2299,6 +2307,7 @@
 
 ## database 
 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [timestored/qstudio](https://github.com/timestored/qstudio) - qStudio - Free SQL Analysis Tool
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -2425,7 +2434,7 @@
 
 ## design 
 
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
@@ -2506,7 +2515,7 @@
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
@@ -2541,7 +2550,7 @@
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 
 ## devtools 
 
@@ -2981,7 +2990,7 @@
 
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -2991,7 +3000,7 @@
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 
 ## filesystem 
@@ -3069,7 +3078,6 @@
 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -3106,7 +3114,7 @@
 ## font 
 
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [viler-int10h/Fontraption](https://github.com/viler-int10h/Fontraption) - A tiny but powerful VGA text mode font editor for DOS
 
@@ -3229,6 +3237,7 @@
 
 ## generative-ai 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -3277,7 +3286,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -3431,7 +3440,7 @@
 
 ## golang 
 
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
@@ -3552,6 +3561,7 @@
 
 ## gpu 
 
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
@@ -3999,7 +4009,7 @@
 
 ## information-gathering 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -4220,6 +4230,7 @@
 
 ## jupyter 
 
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
@@ -4303,7 +4314,7 @@
 ## knowledge-management 
 
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 
 ## kotlin 
@@ -4530,6 +4541,8 @@
 
 ## llm 
 
+- [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
@@ -4577,6 +4590,7 @@
 
 ## local-first 
 
+- [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 
@@ -4680,7 +4694,7 @@
 - [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+, HackRF, SDRplay and SoapySDR
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [qcad/qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
@@ -4738,7 +4752,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -4770,7 +4784,12 @@
 
 ## mathematics 
 
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
+
+## matlab 
+
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
 
 ## matplotlib 
 
@@ -4783,7 +4802,7 @@
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
@@ -5574,7 +5593,7 @@
 
 ## osint 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -5605,7 +5624,7 @@
 
 ## osint-python 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [eremit4/favihunter](https://github.com/eremit4/favihunter) - Discover and monitor internet assets using favicon hashes across search engines.
 - [C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) - Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
@@ -5625,6 +5644,7 @@
 
 ## others 
 
+- [AltraMayor/f3](https://github.com/AltraMayor/f3) - F3 - Fight Flash Fraud
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [lgandx/PCredz](https://github.com/lgandx/PCredz) - This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
@@ -6147,7 +6167,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
@@ -6162,6 +6182,7 @@
 
 ## penetration-testing 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [AUX-441/SecuSploitX](https://github.com/AUX-441/SecuSploitX) - Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.
@@ -6326,6 +6347,12 @@
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 
+## plugins 
+
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
 ## portfolio 
 
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
@@ -6389,6 +6416,7 @@
 
 ## privacy 
 
+- [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -6521,6 +6549,7 @@
 
 ## python 
 
+- [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -6600,7 +6629,7 @@
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [numtide/deploykit](https://github.com/numtide/deploykit) - Execute commands remote via ssh and locally in parallel with python
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -6679,7 +6708,7 @@
 
 ## python3 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [AUX-441/SecuSploitX](https://github.com/AUX-441/SecuSploitX) - Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.
@@ -6778,7 +6807,7 @@
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [jeanralphaviles/dump1090-docker](https://github.com/jeanralphaviles/dump1090-docker) - Run dump1090-fa (Flightaware fork) quickly and easily with Docker!
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [hypriot/image-builder-rpi](https://github.com/hypriot/image-builder-rpi) - SD card image for Raspberry Pi with Docker: HypriotOS
 - [hypriot/flash](https://github.com/hypriot/flash) - Command line script to flash SD card images of any kind
@@ -6861,7 +6890,7 @@
 
 ## reconnaissance 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [ANG13T/satnow-scraper](https://github.com/ANG13T/satnow-scraper) - OSINT web scraper for SatNow to extract details about satellite components and subsystem specs for in-depth reconnaissance 🛸
@@ -6906,10 +6935,12 @@
 
 ## remote-control 
 
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## remote-desktop 
 
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## research 
@@ -6988,6 +7019,7 @@
 
 ## rust 
 
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [AfaanBilal/NanoCore](https://github.com/AfaanBilal/NanoCore) - NanoCore 8-bit CPU emulator in Rust
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -7100,6 +7132,7 @@
 
 ## scientific-computing 
 
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 
 ## scikit-learn 
@@ -7178,6 +7211,7 @@
 
 ## security 
 
+- [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 - [mondoohq/cnspec](https://github.com/mondoohq/cnspec) - An open source, cloud-native security to protect everything from build to runtime
@@ -7269,7 +7303,7 @@
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 
 ## security-scanner 
 
@@ -7414,7 +7448,7 @@
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [GideonWolfe/dots](https://github.com/GideonWolfe/dots) - 🌀 my linux configuration
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
@@ -7513,6 +7547,7 @@
 
 ## sql 
 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [timestored/qstudio](https://github.com/timestored/qstudio) - qStudio - Free SQL Analysis Tool
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -7597,6 +7632,7 @@
 
 ## static-site-generator 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [gethugothemes/parsa-hugo](https://github.com/gethugothemes/parsa-hugo) - Parsa is a personal blog theme powered by Hugo. It also can be used for portfolio website.
@@ -7747,7 +7783,7 @@
 ## terminal 
 
 - [sblendorio/petscii-bbs](https://github.com/sblendorio/petscii-bbs) - A Java framework for building highly customizable PETSCII-enabled BBS, accessible from Commodore 64/128
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -7920,7 +7956,7 @@
 
 ## threat-intelligence 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [RavinduRathnayaka/LiveThreatMap-dashboard](https://github.com/RavinduRathnayaka/LiveThreatMap-dashboard) - GitHub Action that generates and commits a live SVG world map of cyber threats using Shodan data.
 - [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
@@ -8043,7 +8079,7 @@
 
 ## tui 
 
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [xyproto/vt100](https://github.com/xyproto/vt100) - :computer: VT100 Terminal Package
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -8113,7 +8149,7 @@
 
 ## typescript 
 
-- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electronjs version • Coming soon)
+- [osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy) - 🕸️ Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights 🌐 (Electron version • Coming soon)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -8236,6 +8272,10 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
+
+## video-editing 
+
+- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
 
 ## video-editor 
 
@@ -8511,6 +8551,7 @@
 
 ## webassembly 
 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
@@ -8709,7 +8750,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells

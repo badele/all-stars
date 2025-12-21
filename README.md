@@ -15,6 +15,7 @@
 - [agent](#agent)
 - [agentic-ai](#agentic-ai)
 - [agents](#agents)
+- [agile](#agile)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ai-art](#ai-art)
@@ -887,6 +888,10 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 
+## agile 
+
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+
 ## ai 
 
 - [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
@@ -1125,6 +1130,7 @@
 
 ## ascii-art 
 
+- [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [xero/text0wnz](https://github.com/xero/text0wnz) - 𝙔𝙤𝙪𝙧 𝙗𝙧𝙤𝙬𝙨𝙚𝙧 𝙞𝙨 𝙩𝙝𝙚 𝙘𝙖𝙣𝙫𝙖𝙨. Draw, edit, and collaborate on ANSI, ASCII, NFO, and XBIN art in a retro text art editor rebooted for the modern web. Offline-first or connect for real-time sessions. Craft
@@ -1569,6 +1575,7 @@
 
 ## calendar 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
 ## canvas 
@@ -3113,6 +3120,7 @@
 
 ## font 
 
+- [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -3677,6 +3685,7 @@
 
 ## hacktoberfest 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -5369,6 +5378,7 @@
 
 ## notion 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 
@@ -5644,6 +5654,8 @@
 
 ## others 
 
+- [N0NameN0/CODEF_Ansi_Logo_Maker](https://github.com/N0NameN0/CODEF_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
+- [jcs/ansiterm](https://github.com/jcs/ansiterm) - dos 437 fonts and configs for viewing ANSI art in xterm
 - [AltraMayor/f3](https://github.com/AltraMayor/f3) - F3 - Fight Flash Fraud
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
@@ -5917,7 +5929,6 @@
 - [lakshmanok/lakblogs](https://github.com/lakshmanok/lakblogs) - Code and notebooks associated with my blogposts
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-- [N0NameN0/CODEF_Ansi_Logo_Maker](https://github.com/N0NameN0/CODEF_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
 - [pialdama/Covid](https://github.com/pialdama/Covid) - 
 - [bluewaysw/pcgeos](https://github.com/bluewaysw/pcgeos) - #FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!
 - [briandorey/Home-Assistant-eink-remote-display](https://github.com/briandorey/Home-Assistant-eink-remote-display) - A remote display showing Home Assistant data  on a 2.9 inch e-ink epaper display
@@ -6293,6 +6304,7 @@
 
 ## php 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -6480,12 +6492,14 @@
 
 ## project-management 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [bardsoftware/ganttproject](https://github.com/bardsoftware/ganttproject) - Official GanttProject repository.
 
 ## projects 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - A realtime telemetry workbench for embedded systems.
 
 ## prometheus 
@@ -7547,6 +7561,7 @@
 
 ## sql 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [timestored/qstudio](https://github.com/timestored/qstudio) - qStudio - Free SQL Analysis Tool

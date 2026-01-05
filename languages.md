@@ -242,7 +242,7 @@
 - [indilib/indi](https://github.com/indilib/indi) - INDI Core Library Repository
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [windytan/redsea](https://github.com/windytan/redsea) - Command-line FM-RDS decoder with JSON output.
+- [windytan/redsea](https://github.com/windytan/redsea) - A command-line FM-RDS decoder with JSON output.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [biometrics/openbr](https://github.com/biometrics/openbr) - Open Source Biometrics, Face Recognition
@@ -325,7 +325,7 @@
 - [Zebbeni/ansizalizer](https://github.com/Zebbeni/ansizalizer) - A TUI to convert Images to ANSI strings using bubbletea
 - [mondoohq/cnspec](https://github.com/mondoohq/cnspec) - An open source, cloud-native security to protect everything from build to runtime
 - [dtouzeau/motd-skin](https://github.com/dtouzeau/motd-skin) - motd-skin - A customizable SSH login splash screen for Linux servers. Displays hostname, network, DNS, and VMware/Proxmox virtualization information with skinnable themes
-- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
@@ -617,6 +617,7 @@
 
 ## JavaScript 
 
+- [NuSkooler/enigma-bbs](https://github.com/NuSkooler/enigma-bbs) - ENiGMA½ BBS Software
 - [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
 - [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
 - [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into web documents.
@@ -1057,7 +1058,6 @@
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [HalilDeniz/BackDoorSim](https://github.com/HalilDeniz/BackDoorSim) - BackdoorSim: An Educational into Remote Administration Tools
 - [flozz/yoga-image-optimizer](https://github.com/flozz/yoga-image-optimizer) - A graphical tool to convert and optimize JPEG, PNG and WebP images (based on YOGA)
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 - [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai) - This script automates SQL injection testing using SQLMap with AI-powered decision making.
 - [cycurity/wister](https://github.com/cycurity/wister) - A wordlist generator tool, that allows you to supply a set of words, giving you the possibility to craft multiple variations from the given words, creating a unique and ideal wordlist to use regarding
@@ -1670,9 +1670,10 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [grafana/grafana-treemap-panel](https://github.com/grafana/grafana-treemap-panel) - A panel plugin for Grafana to visualize treemaps.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua

@@ -30,6 +30,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [android-app](#android-app)
+- [android-application](#android-application)
 - [android-library](#android-library)
 - [angular](#angular)
 - [animation](#animation)
@@ -776,6 +777,7 @@
 - [video-editor](#video-editor)
 - [video-generation](#video-generation)
 - [video-processing](#video-processing)
+- [video-streaming](#video-streaming)
 - [vim](#vim)
 - [vim-plugin](#vim-plugin)
 - [virtual-machine](#virtual-machine)
@@ -884,6 +886,7 @@
 
 ## agent 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
@@ -918,6 +921,7 @@
 
 ## ai 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
@@ -976,7 +980,7 @@
 
 ## algorithmic-trading 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 
 ## algorithmic-trading-engine 
 
@@ -1017,6 +1021,7 @@
 
 ## android 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
@@ -1037,7 +1042,12 @@
 
 ## android-app 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
+
+## android-application 
+
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 
 ## android-library 
 
@@ -1137,6 +1147,7 @@
 
 ## arm 
 
+- [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 
@@ -1370,7 +1381,7 @@
 
 ## backtesting 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 
 ## backup 
 
@@ -1381,6 +1392,7 @@
 
 ## bash 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -1527,9 +1539,9 @@
 
 ## bug-bounty 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [Vyntral/god-eye](https://github.com/Vyntral/god-eye) - AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Pentesting automation platform that combines hacking tools to complete assessments
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
@@ -1741,6 +1753,7 @@
 
 ## cli 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
@@ -1845,6 +1858,7 @@
 
 ## cloud 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [DoliCloud/SellYourSaas](https://github.com/DoliCloud/SellYourSaas) - Sell-Your-Saas is an Open Source solution to automate and sell any Web application as a SaaS service
@@ -2013,7 +2027,7 @@
 
 ## computer-vision 
 
-- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [roboflow/roboflow-python](https://github.com/roboflow/roboflow-python) - The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application.
 - [insight-platform/Savant](https://github.com/insight-platform/Savant) - Python Computer Vision & Video Analytics Framework With Batteries Included
@@ -2157,7 +2171,7 @@
 ## cryptocurrency 
 
 - [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥
@@ -2180,6 +2194,7 @@
 
 ## csv 
 
+- [kohii/smoothcsv3](https://github.com/kohii/smoothcsv3) - SmoothCSV is a powerful and intuitive tool for editing CSV files.
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
@@ -2254,7 +2269,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [noraj/rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) - An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [PAST2212/domainthreat](https://github.com/PAST2212/domainthreat) - Newly registered Domain Monitoring to detect phishing and brand impersonation with subdomain enumeration and source code scraping
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -2335,7 +2350,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
@@ -2356,7 +2371,7 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [tashapiro/TidyTuesday](https://github.com/tashapiro/TidyTuesday) - Data visualizations produced for  #TidyTuesdayChallenge, a challenge hosted by R for Data Science.
@@ -2422,7 +2437,7 @@
 
 - [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 
 ## ddos-attack-tools 
 
@@ -2573,7 +2588,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -2608,6 +2623,7 @@
 
 ## devsecops 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans Software Bill of Materials (SBOMs) for security vulnerabilities
@@ -2615,7 +2631,6 @@
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
 - [Largo-m/SecuSploitX](https://github.com/Largo-m/SecuSploitX) - Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
@@ -2929,6 +2944,7 @@
 
 ## emulation 
 
+- [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 
 ## emulator 
@@ -3093,7 +3109,7 @@
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [JerBouma/ThePassiveInvestor](https://github.com/JerBouma/ThePassiveInvestor) - Passive Investing for the Average Joe
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
@@ -3141,11 +3157,12 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror.
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [Peco602/findwall](https://github.com/Peco602/findwall) - Check if your provider is blocking you!
 
 ## firmware 
 
+- [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) - Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
 - [davidramiro/Marlin-Ai3M](https://github.com/davidramiro/Marlin-Ai3M) - 🖨 Marlin firmware optimized for the Anycubic i3 Mega 3D printer
 
@@ -3472,12 +3489,12 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -3568,7 +3585,7 @@
 - [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes cluster metrics
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
@@ -3763,6 +3780,7 @@
 
 ## hacktoberfest 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -3795,7 +3813,6 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
@@ -4120,6 +4137,7 @@
 
 ## infosec 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [Vyntral/god-eye](https://github.com/Vyntral/god-eye) - AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs
 - [halilkirazkaya/arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) - The classic launcher, evolved. Fast, Go-based command library equipped with 200+ cybersecurity cheat-sheets. Just install and start hacking.
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
@@ -4129,7 +4147,6 @@
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Pentesting automation platform that combines hacking tools to complete assessments
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [noraj/rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) - An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
@@ -4196,6 +4213,7 @@
 
 ## iot 
 
+- [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
@@ -4411,6 +4429,7 @@
 
 ## kotlin 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [bardsoftware/ganttproject](https://github.com/bardsoftware/ganttproject) - Official GanttProject repository.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
@@ -4541,6 +4560,7 @@
 
 ## linux 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [roosta/oozz](https://github.com/roosta/oozz) - ANSI art font with added oozz
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -4632,7 +4652,7 @@
 ## llama 
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## llm 
@@ -4661,7 +4681,7 @@
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 
@@ -4691,7 +4711,7 @@
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## local-first 
@@ -4761,7 +4781,7 @@
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -4771,7 +4791,7 @@
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
@@ -4785,6 +4805,7 @@
 
 ## macos 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -4821,7 +4842,7 @@
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
 - [owasp-dep-scan/blint](https://github.com/owasp-dep-scan/blint) - blint is a Binary Linter that checks the security properties and capabilities of your executables. It can also generate a Software Bill-of-Materials (SBOM) for supported binaries.
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 
@@ -5071,6 +5092,7 @@
 
 ## music 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [orhun/CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly 🎶
 - [mikepierce/internet-radio-streams](https://github.com/mikepierce/internet-radio-streams) - Curated List of Internet Radio Streams
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -5242,7 +5264,7 @@
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -5259,7 +5281,7 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [Largo-m/SecuSploitX](https://github.com/Largo-m/SecuSploitX) - Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 
@@ -5540,7 +5562,7 @@
 
 ## object-detection 
 
-- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [insight-platform/Savant](https://github.com/insight-platform/Savant) - Python Computer Vision & Video Analytics Framework With Batteries Included
@@ -5596,7 +5618,7 @@
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## open-data 
 
@@ -5773,6 +5795,9 @@
 
 ## others 
 
+- [solst-ice/itoa](https://github.com/solst-ice/itoa) - Converts an image to ASCII art
+- [synacktiv/twoface](https://github.com/synacktiv/twoface) - "Two-Face" Rust binary on Linux
+- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye) - An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated 
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
@@ -5839,7 +5864,7 @@
 - [doxx/doxx.net](https://github.com/doxx/doxx.net) - Advanced VPN, Parallel Internet, and De-Location Platform
 - [ponceto/another-world-interpreter](https://github.com/ponceto/another-world-interpreter) - Yet Another World Bytecode Interpreter [this repository is a mirror]
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
-- [roboflow/trackers](https://github.com/roboflow/trackers) - A unified library for object tracking featuring clean room re-implementations of leading multi-object tracking algorithms
+- [roboflow/trackers](https://github.com/roboflow/trackers) - Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already
 - [zombieCraig/ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator
 - [Tbruno25/can-explorer](https://github.com/Tbruno25/can-explorer) - Visualize CAN Bus messages in real time
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
@@ -6334,6 +6359,7 @@
 
 ## penetration-testing 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [halilkirazkaya/arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) - The classic launcher, evolved. Fast, Go-based command library equipped with 200+ cybersecurity cheat-sheets. Just install and start hacking.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
@@ -6341,7 +6367,6 @@
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [Largo-m/SecuSploitX](https://github.com/Largo-m/SecuSploitX) - Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
@@ -6368,6 +6393,7 @@
 
 ## pentesting 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [Vyntral/god-eye](https://github.com/Vyntral/god-eye) - AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -6378,7 +6404,6 @@
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Pentesting automation platform that combines hacking tools to complete assessments
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -6517,7 +6542,7 @@
 
 ## portfolio-optimization 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 
 ## portfolio-template 
 
@@ -6909,7 +6934,7 @@
 
 ## qa 
 
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome testing tools 🚀
 
 ## qt 
@@ -6929,7 +6954,7 @@
 
 ## quantitative-finance 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
@@ -7411,6 +7436,7 @@
 
 ## security 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [Vyntral/god-eye](https://github.com/Vyntral/god-eye) - AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs
@@ -7448,7 +7474,6 @@
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -7501,11 +7526,11 @@
 
 ## security-automation 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans Software Bill of Materials (SBOMs) for security vulnerabilities
 - [Largo-m/SecuSploitX](https://github.com/Largo-m/SecuSploitX) - Sploit -- All-in-one, AI-powered cybersecurity toolkit for web, network, and phishing tests.   Modular, cross-platform, Docker-ready, with GUI & CLI. Open source by AUX-441 Team.
 - [utmstack/UTMStack](https://github.com/utmstack/UTMStack) - Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation and threat intelligence.
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
@@ -7643,6 +7668,7 @@
 
 ## shell 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -7742,6 +7768,7 @@
 
 ## spotify 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [Jackysi/PawTunes](https://github.com/Jackysi/PawTunes) - Discover PawTunes, The Ultimate HTML5 Internet Radio Player with Purrfect Visuals, Customizable Templates, and Clean Code. Built for Pros, Loved by Cats!
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [AurelTyson/spotify-menubar](https://github.com/AurelTyson/spotify-menubar) - A macOS menu bar application with Spotify's current track informations
@@ -8122,7 +8149,7 @@
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome testing tools 🚀
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
@@ -8200,7 +8227,7 @@
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 
 ## tmux 
 
@@ -8250,7 +8277,7 @@
 
 ## trading 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [bennycode/trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [mondeja/pymarketcap](https://github.com/mondeja/pymarketcap) - Python3 API wrapper and web scraper for https://coinmarketcap.com
 
@@ -8267,7 +8294,7 @@
 ## trading-strategies 
 
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - VectorBT: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 
@@ -8516,6 +8543,10 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 
+## video-streaming 
+
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
+
 ## vim 
 
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) - A neovim plugin for viewing images.
@@ -8677,9 +8708,9 @@
 
 ## vulnerability 
 
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
@@ -8734,7 +8765,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -8869,6 +8900,7 @@
 
 ## windows 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
@@ -8958,6 +8990,7 @@
 
 ## youtube 
 
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
@@ -8980,6 +9013,7 @@
 
 ## zsh 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.

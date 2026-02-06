@@ -55,7 +55,6 @@
 - [Python](#python)
 - [QuickBASIC](#quickbasic)
 - [R](#r)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -163,6 +162,7 @@
 
 ## C++ 
 
+- [tildearrow/furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
 - [ayoubfaouzi/al-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -198,7 +198,7 @@
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
-- [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
+- [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [ponceto/rpn-calculator-with-jit](https://github.com/ponceto/rpn-calculator-with-jit) - An RPN calculator with a simple “Just In Time” (JIT) compiler [this repository is a mirror]
@@ -846,6 +846,7 @@
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
+- [cytopia/docker-mypy](https://github.com/cytopia/docker-mypy) - Alpine-based multistage-build version of Python mypy for reproducible usage in CI
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 
 ## Markdown 
@@ -1059,6 +1060,7 @@
 
 ## Python 
 
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [mriale/PyDPainter](https://github.com/mriale/PyDPainter) - A usable pixel art paint program written in Python
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
@@ -1440,10 +1442,6 @@
 - [hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components
 - [r-lib/hugodown](https://github.com/r-lib/hugodown) - Make websites with hugo and RMarkdown
 
-## Roff 
-
-- [cytopia/docker-mypy](https://github.com/cytopia/docker-mypy) - Alpine-based multistage-build version of Python mypy for reproducible usage in CI
-
 ## Ruby 
 
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
@@ -1461,6 +1459,7 @@
 
 ## Rust 
 
+- [AndreLeclercq/rustlings-fr](https://github.com/AndreLeclercq/rustlings-fr) - Version française du projet Rustlings. Les exercices ont été traduits pour faciliter l'apprentissage de Rust pour les francophones.
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust
 - [synacktiv/twoface](https://github.com/synacktiv/twoface) - "Two-Face" Rust binary on Linux
@@ -1473,7 +1472,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [roosta/oozz](https://github.com/roosta/oozz) - ANSI art font with added oozz
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [izya4ka/yadb](https://github.com/izya4ka/yadb) - Yet another directory buster
 - [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
@@ -1713,6 +1712,7 @@
 
 ## TypeScript 
 
+- [unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap) - Global threat map. Learn wars, conflicts, military bases and history of nations.
 - [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - NativeMind: Your fully private, open-source, on-device AI assistant
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [aleyan/ascii-side-of-the-moon](https://github.com/aleyan/ascii-side-of-the-moon) - A lightweight ts library for rendering the moon in glorious ascii characters

@@ -20,6 +20,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ai-art](#ai-art)
+- [ai-assistant](#ai-assistant)
 - [ai-tools](#ai-tools)
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
@@ -973,6 +974,10 @@
 
 - [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+## ai-assistant 
+
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
 
 ## ai-tools 
 

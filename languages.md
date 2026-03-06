@@ -174,7 +174,7 @@
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [ponceto/another-world-interpreter](https://github.com/ponceto/another-world-interpreter) - Yet Another World Bytecode Interpreter [this repository is a mirror]
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
@@ -319,6 +319,7 @@
 
 ## Go 
 
+- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
@@ -395,6 +396,7 @@
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
@@ -1262,7 +1264,7 @@
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 - [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
@@ -1501,7 +1503,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust
 - [synacktiv/twoface](https://github.com/synacktiv/twoface) - "Two-Face" Rust binary on Linux
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [mkrueger/retrofont](https://github.com/mkrueger/retrofont) - A library & command line tool to handle the draw fonts & figlet fonts.
 - [mkrueger/icy_board](https://github.com/mkrueger/icy_board) - A modern PCBoard clone.
@@ -1647,6 +1649,7 @@
 
 ## Shell 
 
+- [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [kohii/smoothcsv3](https://github.com/kohii/smoothcsv3) - SmoothCSV is a powerful and intuitive tool for editing CSV files.

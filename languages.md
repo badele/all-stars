@@ -145,7 +145,6 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
-- [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
 - [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -1410,6 +1409,7 @@
 - [kylejusticemagnuson/pyti](https://github.com/kylejusticemagnuson/pyti) - Python library of various financial technical indicators
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
 - [flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster) - Create a visually appealing poster from your GPX tracks
+- [vishnubob/python-midi](https://github.com/vishnubob/python-midi) - Python MIDI library
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie

@@ -1850,6 +1850,7 @@
 
 ## cli 
 
+- [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [noAbbreviation/benday](https://github.com/noAbbreviation/benday) - Workflow CLI for editing braille ASCII art
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
@@ -1877,7 +1878,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
-- [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
@@ -3346,6 +3346,7 @@
 
 ## fonts 
 
+- [lukasz-lobocki/termos](https://github.com/lukasz-lobocki/termos) - Screenshots a terminal output.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 
 ## forensics 
@@ -3803,7 +3804,7 @@
 
 ## gpu 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source runtime for math. Write MATLAB syntax, run on CPU + GPU automatically. Install via CLI, embed via NPM, or try instantly in the browser — no account needed.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
@@ -4129,6 +4130,7 @@
 
 ## homelab 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
 - [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
@@ -4198,6 +4200,7 @@
 
 ## icons 
 
+- [lukasz-lobocki/termos](https://github.com/lukasz-lobocki/termos) - Screenshots a terminal output.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Provides Nerd Font icons (glyphs) for use by neovim plugins
@@ -4500,7 +4503,7 @@
 
 ## jupyter 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source runtime for math. Write MATLAB syntax, run on CPU + GPU automatically. Install via CLI, embed via NPM, or try instantly in the browser — no account needed.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
@@ -5099,12 +5102,12 @@
 
 ## mathematics 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source runtime for math. Write MATLAB syntax, run on CPU + GPU automatically. Install via CLI, embed via NPM, or try instantly in the browser — no account needed.
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 
 ## matlab 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source runtime for math. Write MATLAB syntax, run on CPU + GPU automatically. Install via CLI, embed via NPM, or try instantly in the browser — no account needed.
 
 ## matplotlib 
 
@@ -5238,6 +5241,7 @@
 
 ## monitoring 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
@@ -6017,6 +6021,8 @@
 
 ## others 
 
+- [Hol1kgmg/braille-finder](https://github.com/Hol1kgmg/braille-finder) - Visual braille Unicode search tool with 256-character pattern matching
+- [Botspot/unicode-art](https://github.com/Botspot/unicode-art) - Easily make detailed terminal art with unicode characters in this simple viewer
 - [CALM-home/model-smallbenchmark](https://github.com/CALM-home/model-smallbenchmark) - 
 - [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
@@ -7524,7 +7530,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source runtime for math. Write MATLAB syntax, run on CPU + GPU automatically. Install via CLI, embed via NPM, or try instantly in the browser — no account needed.
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [AfaanBilal/NanoCore](https://github.com/AfaanBilal/NanoCore) - NanoCore 8-bit CPU emulator in Rust
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -7637,7 +7643,7 @@
 
 ## scientific-computing 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Blazing fast runtime for math workloads. Execute MATLAB/Octave code with cross-OS (Mac, Windows, Linux) and cross-GPU (NVIDIA CUDA, Apple Silicon, ARM) support.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source runtime for math. Write MATLAB syntax, run on CPU + GPU automatically. Install via CLI, embed via NPM, or try instantly in the browser — no account needed.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 
 ## scikit-learn 
@@ -7865,6 +7871,7 @@
 
 ## self-hosted 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Poznote is a personal note-taking and documentation platform.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
@@ -7958,9 +7965,9 @@
 
 ## shell 
 
+- [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
-- [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -8341,6 +8348,8 @@
 
 ## terminal 
 
+- [lukasz-lobocki/termos](https://github.com/lukasz-lobocki/termos) - Screenshots a terminal output.
+- [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [noAbbreviation/benday](https://github.com/noAbbreviation/benday) - Workflow CLI for editing braille ASCII art
 - [nidhoggfgg/rsille](https://github.com/nidhoggfgg/rsille) - The rsille is a Rust library for drawing graphics in the terminal
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
@@ -8364,7 +8373,6 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!

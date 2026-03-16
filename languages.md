@@ -88,6 +88,8 @@
 
 ## C 
 
+- [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
+- [21cncstudio/project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [english1234/Turaco-Sprite-Editor](https://github.com/english1234/Turaco-Sprite-Editor) - Turaco ported from DOS/Allegro to Windows/SDL2
@@ -129,7 +131,6 @@
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for the 64-bit processors.
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) - Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -336,7 +337,6 @@
 - [Vyntral/god-eye](https://github.com/Vyntral/god-eye) - AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs
 - [micr0-dev/wellness-ping](https://github.com/micr0-dev/wellness-ping) - A simple dead man's switch service. Get pinged regularly to confirm you're okay. If you don't respond, your emergency contacts get alerted.
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
@@ -393,7 +393,7 @@
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Utility program to perform multiple operations for a given subnet/CIDR ranges.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks,@Sporif]
+- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainers=@water-sucks,@Sporif]
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
@@ -663,6 +663,7 @@
 - [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core) - A web-based ASCII and Unicode diagram builder written in vanilla Javascript
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [scribeocr/scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [hectorm/chafa-wasm](https://github.com/hectorm/chafa-wasm) - Chafa WebAssembly module to convert images to text.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [NuSkooler/enigma-bbs](https://github.com/NuSkooler/enigma-bbs) - ENiGMA½ BBS Software
@@ -917,7 +918,6 @@
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [skiffos/docker-nixos](https://github.com/skiffos/docker-nixos) - Docker multi-stage build for nixos.
 - [vlktomas/nix-examples](https://github.com/vlktomas/nix-examples) - Showcase of Nix usage for various technologies
-- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [gaelreyrol/udev-nix](https://github.com/gaelreyrol/udev-nix) - A small utility library to create udev rules with Nix!
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) - A template for NUR repositories: [maintainer=@fgaz]
@@ -1091,6 +1091,8 @@
 
 ## Python 
 
+- [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
+- [n2tr0n/ansiclaw](https://github.com/n2tr0n/ansiclaw) - A Openclaw skill that allows  the AI to draw ANSI art using Clawbius
 - [fieserWolF/petpet](https://github.com/fieserWolF/petpet) - PetPet is a PETSCII editor for Commodore 64 computers. As it is written entirely in Python, it runs on any platform supported by Python (Windows, MacOS, Linux and others).
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [CALM-home/model-smallbenchmark](https://github.com/CALM-home/model-smallbenchmark) - 
@@ -1297,6 +1299,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
@@ -1771,6 +1774,7 @@
 
 ## TypeScript 
 
+- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [Hol1kgmg/braille-finder](https://github.com/Hol1kgmg/braille-finder) - Visual braille Unicode search tool with 256-character pattern matching
 - [lifo-sh/lifo](https://github.com/lifo-sh/lifo) - A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence.

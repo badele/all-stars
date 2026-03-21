@@ -3421,6 +3421,7 @@
 
 ## free 
 
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Poznote is a personal note-taking and documentation platform.
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -6102,6 +6103,9 @@
 
 ## others 
 
+- [renaudcepre/protest](https://github.com/renaudcepre/protest) - 
+- [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
+- [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [reverie/yourworldoftext](https://github.com/reverie/yourworldoftext) - Your World of Text is an infinite grid of text editable by any visitor.
 - [n2tr0n/ansiclaw](https://github.com/n2tr0n/ansiclaw) - A Openclaw skill that allows  the AI to draw ANSI art using Clawbius
 - [jaammees/lvllvl](https://github.com/jaammees/lvllvl) - 

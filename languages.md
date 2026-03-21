@@ -320,6 +320,7 @@
 
 ## Go 
 
+- [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [lukasz-lobocki/termos](https://github.com/lukasz-lobocki/termos) - Screenshots a terminal output.
@@ -1094,6 +1095,7 @@
 
 ## Python 
 
+- [renaudcepre/protest](https://github.com/renaudcepre/protest) - 
 - [opendatateam/udata](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to open data.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
@@ -1512,6 +1514,7 @@
 
 ## Rust 
 
+- [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner

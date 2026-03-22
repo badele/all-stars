@@ -1183,7 +1183,7 @@
 - [InseeFrLab/pynsee](https://github.com/InseeFrLab/pynsee) - pynsee package contains tools to easily search and download French data from INSEE and IGN APIs
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
@@ -1261,6 +1261,7 @@
 - [hectorm/chafa-wasm](https://github.com/hectorm/chafa-wasm) - Chafa WebAssembly module to convert images to text.
 - [Kirilllive/ASCII_Art_Paint](https://github.com/Kirilllive/ASCII_Art_Paint) - The editor for ASCII-graphics, combining a graphical editor and an image to text converter. Decorate your text and surprise your readers with an original social media post or blog post using ASCII gra
 - [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
+- [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into web documents.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [xero/text0wnz](https://github.com/xero/text0wnz) - 𝙔𝙤𝙪𝙧 𝙗𝙧𝙤𝙬𝙨𝙚𝙧 𝙞𝙨 𝙩𝙝𝙚 𝙘𝙖𝙣𝙫𝙖𝙨. Draw, edit, and collaborate on ANSI, ASCII, NFO, and XBIN art in a retro text art editor rebooted for the modern web. Offline-first or connect for real-time sessions. Craft
@@ -2688,6 +2689,7 @@
 
 ## developer-tools 
 
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
@@ -2759,6 +2761,7 @@
 
 ## devops-tools 
 
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
@@ -2862,6 +2865,7 @@
 
 ## docker 
 
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
@@ -2944,7 +2948,7 @@
 
 ## docs 
 
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 ## documentation 
 
@@ -4952,6 +4956,7 @@
 
 ## local-first 
 
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
@@ -5976,7 +5981,7 @@
 ## openapi 
 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 ## opencv 
 
@@ -7387,6 +7392,7 @@
 
 ## react 
 
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
@@ -7557,7 +7563,7 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
@@ -7626,6 +7632,7 @@
 
 ## rust 
 
+- [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [uggla/rock_run](https://github.com/uggla/rock_run) - A 2D old-school platformer
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [HackingLZ/gibson](https://github.com/HackingLZ/gibson) - Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN loo
@@ -8419,6 +8426,7 @@
 
 ## tailwindcss 
 
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -8782,6 +8790,7 @@
 
 ## tui 
 
+- [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [nidhoggfgg/rsille](https://github.com/nidhoggfgg/rsille) - The rsille is a Rust library for drawing graphics in the terminal
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
@@ -8857,6 +8866,7 @@
 
 ## typescript 
 
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
 - [b1rdmania/motif](https://github.com/b1rdmania/motif) - Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
@@ -9121,6 +9131,7 @@
 
 ## vite 
 
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [b1rdmania/motif](https://github.com/b1rdmania/motif) - Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -9166,7 +9177,7 @@
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks

@@ -697,6 +697,7 @@
 - [security-automation](#security-automation)
 - [security-scanner](#security-scanner)
 - [security-tools](#security-tools)
+- [selenium](#selenium)
 - [self-hosted](#self-hosted)
 - [self-hosting](#self-hosting)
 - [selfhosted](#selfhosted)
@@ -1026,6 +1027,7 @@
 
 ## ai-agents 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap) - Global threat map. Learn wars, conflicts, military bases and history of nations.
@@ -1637,6 +1639,7 @@
 
 ## browser-automation 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
@@ -1843,6 +1846,7 @@
 
 ## chromium 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
@@ -2035,6 +2039,7 @@
 
 ## cloudflare 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [onedr0p/k3s-gitops-arm](https://github.com/onedr0p/k3s-gitops-arm) - k3s cluster backed by Flux (GitOps) up and running on a cluster of RPi4
 
 ## cms 
@@ -3075,7 +3080,7 @@
 
 ## electron 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
@@ -3156,7 +3161,7 @@
 
 ## engineering 
 
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
@@ -3435,7 +3440,7 @@
 
 ## free 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Poznote is a personal note-taking and documentation platform.
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -3745,6 +3750,7 @@
 
 ## golang 
 
+- [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [noAbbreviation/benday](https://github.com/noAbbreviation/benday) - Workflow CLI for editing braille ASCII art
@@ -4806,7 +4812,7 @@
 
 ## linux 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - An advanced, ultra-lightweight firewall orchestrator for Linux. SysWarden integrates Data-Shield IPv4 blocklists, Geo-Blocking, Spamhaus ASN, Fail2ban, and a WireGuard VPN to proactively block 99% of 
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
@@ -5072,7 +5078,7 @@
 
 ## macos 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -5946,7 +5952,7 @@
 ## open-source 
 
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT.
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [DoliCloud/SellYourSaas](https://github.com/DoliCloud/SellYourSaas) - Sell-Your-Saas is an Open Source solution to automate and sell any Web application as a SaaS service. Solution supports the deployment/undeployment of any application, customer dashboard, automatic in
@@ -6129,6 +6135,8 @@
 
 ## others 
 
+- [jbarbier/claude-code-cost-estimate](https://github.com/jbarbier/claude-code-cost-estimate) - Claude Code skill that estimates the full development cost of any codebase
+- [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [0xSojalSec/LLMs-local](https://github.com/0xSojalSec/LLMs-local) - list of awesome platforms, tools, and resources   run for LLMs locally
 - [xigh/herbert-rs](https://github.com/xigh/herbert-rs) - Local LLM inference engine written from scratch in Rust — hand-written AVX-512 assembly kernels, Metal & Vulkan compute shaders. Supports Qwen3, Mistral3, ... Q4/INT8/BF16 quantization.
 - [fand/ratride](https://github.com/fand/ratride) - A tiny CLI presentation tool
@@ -6883,6 +6891,7 @@
 
 ## playwright 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -7107,6 +7116,7 @@
 
 ## puppeteer 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 
@@ -7123,6 +7133,7 @@
 
 ## python 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 - [opendatateam/udata](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to open data.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
@@ -7807,7 +7818,7 @@
 
 ## screen-recorder 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 
 ## script 
 
@@ -8015,6 +8026,10 @@
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
+
+## selenium 
+
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 
 ## self-hosted 
 
@@ -8404,6 +8419,7 @@
 
 ## svg 
 
+- [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
@@ -9334,6 +9350,7 @@
 
 ## web-scraping 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -9394,6 +9411,7 @@
 
 ## webscraping 
 
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
@@ -9456,7 +9474,7 @@
 
 ## windows 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [HackingLZ/gibson](https://github.com/HackingLZ/gibson) - Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN loo
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting

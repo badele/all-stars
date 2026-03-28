@@ -581,6 +581,7 @@
 
 ## HTML 
 
+- [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [atiilla/GeoIntel](https://github.com/atiilla/GeoIntel) - GeoIntel using Google's Gemini API to uncover the location where photos were taken through AI-powered geo-location analysis.
 - [Kirilllive/ASCII_Art_Paint](https://github.com/Kirilllive/ASCII_Art_Paint) - The editor for ASCII-graphics, combining a graphical editor and an image to text converter. Decorate your text and surprise your readers with an original social media post or blog post using ASCII gra
 - [N0NameN0/CODEF_Ansi_Logo_Maker](https://github.com/N0NameN0/CODEF_Ansi_Logo_Maker) - A tiny web tool to use TDF (TheDraw font files) to create logo.
@@ -659,6 +660,8 @@
 
 ## JavaScript 
 
+- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+- [Zigazou/miedit](https://github.com/Zigazou/miedit) - Minitel page editor
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
@@ -1100,6 +1103,7 @@
 
 ## Python 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
@@ -1523,6 +1527,7 @@
 
 ## Rust 
 
+- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [junkdog/exabind](https://github.com/junkdog/exabind) - animated TUI for viewing KDE shortcuts
 - [junkdog/beamterm](https://github.com/junkdog/beamterm) - A sub-millisecond terminal text rendering system for WebGL2 and OpenGL 3.3
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
@@ -1690,7 +1695,7 @@
 
 ## Shell 
 
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - An advanced, ultra-lightweight firewall orchestrator for Linux. SysWarden integrates Data-Shield IPv4 blocklists, Geo-Blocking, Spamhaus ASN, Fail2ban, and a WireGuard VPN to proactively block 99% of 
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - An advanced, ultra-lightweight firewall orchestrator for Linux. SysWarden integrates Data-Shield IPv4 blocklists, Geo-Blocking, Spamhaus ASN, Fail2ban, and a WireGuard VPN to proactively block 98.2% o
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [Botspot/unicode-art](https://github.com/Botspot/unicode-art) - Easily make detailed terminal art with unicode characters in this simple viewer
@@ -1798,6 +1803,7 @@
 
 ## TypeScript 
 
+- [p697/clawket](https://github.com/p697/clawket) - Mobile Client for OpenClaw
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.

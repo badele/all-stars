@@ -325,7 +325,7 @@
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [lukasz-lobocki/termos](https://github.com/lukasz-lobocki/termos) - Screenshots a terminal output.
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -1103,6 +1103,7 @@
 
 ## Python 
 
+- [lucagoc/pypixelcolor](https://github.com/lucagoc/pypixelcolor) - A Python library to control iPixel Color devices.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀

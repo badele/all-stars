@@ -4239,7 +4239,7 @@
 
 ## homelab 
 
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
 - [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
@@ -5381,7 +5381,7 @@
 ## monitoring 
 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
@@ -7355,6 +7355,7 @@
 
 ## python-library 
 
+- [lucagoc/pypixelcolor](https://github.com/lucagoc/pypixelcolor) - A Python library to control iPixel Color devices.
 - [gBloxy/Image-Processing](https://github.com/gBloxy/Image-Processing) - An opengl image processing python library that work with any types of textures
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
@@ -8107,7 +8108,7 @@
 ## self-hosted 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Poznote is a personal note-taking and documentation platform.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️

@@ -80,7 +80,7 @@
 
 ## Awk 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## C 
@@ -1709,7 +1709,7 @@
 
 ## Shell 
 
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - An advanced, ultra-lightweight firewall orchestrator for Linux. SysWarden integrates Data-Shield IPv4 blocklists, Geo-Blocking, Spamhaus ASN, Fail2ban, and a WireGuard VPN to proactively block 98.2% o
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - An advanced, ultra-lightweight firewall orchestrator for Linux. SysWarden integrates Data-Shield IPv4 blocklists, Geo-Blocking, Spamhaus ASN, Fail2ban, and a WireGuard VPN to proactively block 97% of 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [Botspot/unicode-art](https://github.com/Botspot/unicode-art) - Easily make detailed terminal art with unicode characters in this simple viewer

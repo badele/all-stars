@@ -41,6 +41,7 @@
 - [anime](#anime)
 - [anomaly-detection](#anomaly-detection)
 - [ansible](#ansible)
+- [anthropic](#anthropic)
 - [apache](#apache)
 - [api](#api)
 - [api-gateway](#api-gateway)
@@ -1022,6 +1023,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
@@ -1196,6 +1198,19 @@
 - [onedr0p/home-operations](https://github.com/onedr0p/home-operations) - Highly opinionated Ansible playbooks, Ansible roles, and other things that are used to maintain my home-cluster
 - [onedr0p/k3s-gitops-arm](https://github.com/onedr0p/k3s-gitops-arm) - k3s cluster backed by Flux (GitOps) up and running on a cluster of RPi4
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+
+## anthropic 
+
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## apache 
 
@@ -5304,6 +5319,7 @@
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -5315,6 +5331,7 @@
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -6250,6 +6267,7 @@
 
 ## others 
 
+- [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [jdegenstein/filewatcher123d](https://github.com/jdegenstein/filewatcher123d) - A file watcher oriented towards use with build123d and ocp_vscode
 - [bernhard-42/three-cad-viewer](https://github.com/bernhard-42/three-cad-viewer) - A CAD viewer component based on three.js

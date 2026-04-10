@@ -1066,7 +1066,6 @@
 - [dbarzin/deming](https://github.com/dbarzin/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
-- [Jackysi/PawTunes](https://github.com/Jackysi/PawTunes) - Discover PawTunes, The Ultimate HTML5 Internet Radio Player with Purrfect Visuals, Customizable Templates, and Clean Code. Built for Pros, Loved by Cats!
 - [DoliCloud/SellYourSaas](https://github.com/DoliCloud/SellYourSaas) - Sell-Your-Saas is an Open Source solution to automate and sell any Web application as a SaaS service. Solution supports the deployment/undeployment of any application, customer dashboard, automatic in
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -1706,6 +1705,7 @@
 
 ## SCSS 
 
+- [Jackysi/PawTunes](https://github.com/Jackysi/PawTunes) - Discover PawTunes, The Ultimate HTML5 Internet Radio Player with Purrfect Visuals, Customizable Templates, and Clean Code. Built for Pros, Loved by Cats!
 - [dreamRs/weather](https://github.com/dreamRs/weather) - Weather icons in ggplot2, shiny and rmarkdown
 - [devopsbookmarks/devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) - Website of devopsbookmarks.com
 
@@ -1715,7 +1715,7 @@
 
 ## Shell 
 
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - An advanced, ultra-lightweight firewall orchestrator for Linux. SysWarden integrates Data-Shield IPv4 blocklists, Geo-Blocking, Spamhaus ASN, Fail2ban, and a WireGuard VPN to proactively block 97% of 
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - An ultra-lightweight DevSecOps firewall orchestrator for Linux. SysWarden proactively drops 97% of malicious internet traffic by fusing Data-Shield IPv4 blocklists, GeoIP, Spamhaus ASN, Cybercrime Hos
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [Botspot/unicode-art](https://github.com/Botspot/unicode-art) - Easily make detailed terminal art with unicode characters in this simple viewer

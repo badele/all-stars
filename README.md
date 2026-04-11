@@ -412,6 +412,7 @@
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jellyfin](#jellyfin)
 - [jobs](#jobs)
 - [js](#js)
 - [json](#json)
@@ -999,6 +1000,7 @@
 
 ## ai 
 
+- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
@@ -3674,7 +3676,7 @@
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -4659,6 +4661,10 @@
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 
+## jellyfin 
+
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+
 ## jobs 
 
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -5010,6 +5016,7 @@
 
 ## llm 
 
+- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [xigh/herbert-rs](https://github.com/xigh/herbert-rs) - Local LLM inference engine written from scratch in Rust — hand-written AVX-512 assembly kernels, Metal & Vulkan compute shaders. Supports Qwen3, Mistral3, ... Q4/INT8/BF16 quantization.
@@ -5316,6 +5323,7 @@
 
 ## mcp 
 
+- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
@@ -7278,6 +7286,7 @@
 
 ## python 
 
+- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
@@ -7908,7 +7917,7 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.

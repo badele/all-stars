@@ -90,7 +90,7 @@
 - [SimHacker/micropolis](https://github.com/SimHacker/micropolis) - Automatically exported from code.google.com/p/micropolis
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [21cncstudio/project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [english1234/Turaco-Sprite-Editor](https://github.com/english1234/Turaco-Sprite-Editor) - Turaco ported from DOS/Allegro to Windows/SDL2
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
@@ -328,6 +328,7 @@
 
 ## Go 
 
+- [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [conejoninja/arcade](https://github.com/conejoninja/arcade) - Gopher Arcade
 - [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
@@ -1309,7 +1310,7 @@
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
@@ -1714,7 +1715,7 @@
 
 ## Shell 
 
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧An ultra-lightweight firewall orchestrator for Linux. SysWarden proactively drops 97% of malicious internet traffic by fusing Data-Shield IPv4 blocklists, GeoIP, Spamhaus ASN, CINS Army, Blocklist.de
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧 SysWarden is an ultra-lightweight Host-based Security Orchestrator for Linux.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [Botspot/unicode-art](https://github.com/Botspot/unicode-art) - Easily make detailed terminal art with unicode characters in this simple viewer

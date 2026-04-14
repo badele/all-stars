@@ -42,6 +42,7 @@
 - [anomaly-detection](#anomaly-detection)
 - [ansible](#ansible)
 - [anthropic](#anthropic)
+- [antigravity](#antigravity)
 - [apache](#apache)
 - [api](#api)
 - [api-gateway](#api-gateway)
@@ -571,6 +572,7 @@
 - [osint-tool](#osint-tool)
 - [osint-tools](#osint-tools)
 - [others](#others)
+- [owasp](#owasp)
 - [p2p](#p2p)
 - [paas](#paas)
 - [package-manager](#package-manager)
@@ -973,7 +975,6 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 
 ## agentic-workflow 
 
@@ -1087,7 +1088,7 @@
 
 ## algorithmic-trading 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 
 ## algorithmic-trading-engine 
 
@@ -1215,6 +1216,10 @@
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
+
+## antigravity 
+
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 
 ## apache 
 
@@ -1529,7 +1534,7 @@
 
 ## backtesting 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 
 ## backup 
 
@@ -1911,6 +1916,7 @@
 
 ## claude 
 
+- [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -1921,6 +1927,7 @@
 
 ## claude-code 
 
+- [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
@@ -1939,6 +1946,7 @@
 
 ## cli 
 
+- [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [derekwisong/datui](https://github.com/derekwisong/datui) - Data Exploration in the Terminal
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -2368,7 +2376,7 @@
 ## cryptocurrency 
 
 - [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥
@@ -2554,7 +2562,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
@@ -2576,7 +2584,7 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [tashapiro/TidyTuesday](https://github.com/tashapiro/TidyTuesday) - Data visualizations produced for  #TidyTuesdayChallenge, a challenge hosted by R for Data Science.
@@ -3369,7 +3377,7 @@
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [JerBouma/ThePassiveInvestor](https://github.com/JerBouma/ThePassiveInvestor) - Passive Investing for the Average Joe
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
@@ -3412,7 +3420,7 @@
 
 ## firewall 
 
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧An ultra-lightweight firewall orchestrator for Linux. SysWarden proactively drops 97% of malicious internet traffic by fusing Data-Shield IPv4 blocklists, GeoIP, Spamhaus ASN, CINS Army, Blocklist.de
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧 SysWarden is an ultra-lightweight Host-based Security Orchestrator for Linux.
 - [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
@@ -3686,6 +3694,7 @@
 
 ## github 
 
+- [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [RavinduRathnayaka/LiveThreatMap-dashboard](https://github.com/RavinduRathnayaka/LiveThreatMap-dashboard) - GitHub Action that generates and commits a live SVG world map of cyber threats using Shodan data.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
@@ -3751,6 +3760,7 @@
 
 ## go 
 
+- [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
@@ -4321,6 +4331,7 @@
 
 ## html 
 
+- [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
@@ -4915,7 +4926,7 @@
 ## linux 
 
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧An ultra-lightweight firewall orchestrator for Linux. SysWarden proactively drops 97% of malicious internet traffic by fusing Data-Shield IPv4 blocklists, GeoIP, Spamhaus ASN, CINS Army, Blocklist.de
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧 SysWarden is an ultra-lightweight Host-based Security Orchestrator for Linux.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
 - [lifo-sh/lifo](https://github.com/lifo-sh/lifo) - A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence.
@@ -5162,7 +5173,7 @@
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
@@ -5252,6 +5263,7 @@
 
 ## markdown 
 
+- [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
@@ -6276,7 +6288,6 @@
 
 ## others 
 
-- [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
 - [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) - Open Source components of Little Snitch for Linux
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
@@ -6310,7 +6321,6 @@
 - [CALM-home/model-smallbenchmark](https://github.com/CALM-home/model-smallbenchmark) - 
 - [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [VicKayro/claude-security-audit](https://github.com/VicKayro/claude-security-audit) - Skill Claude Code pour audit de sécurité complet (OWASP Top 10, CWE/CVE, headers, auth, paywall, infra)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
@@ -6804,6 +6814,13 @@
 - [domogik/domogik](https://github.com/domogik/domogik) - Domogik Free Home Automation software
 - [samuel/python-munin](https://github.com/samuel/python-munin) - Python framework for building Munin plugins (also includes some plugins prebuilt).
 
+## owasp 
+
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+- [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+- [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+
 ## p2p 
 
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust
@@ -7080,7 +7097,7 @@
 
 ## portfolio-optimization 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 
 ## portfolio-template 
 
@@ -7512,7 +7529,7 @@
 
 ## quantitative-finance 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
@@ -7815,6 +7832,7 @@
 
 ## rss 
 
+- [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -7824,6 +7842,7 @@
 
 ## rss-reader 
 
+- [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 ## ruby 
@@ -8166,7 +8185,7 @@
 
 ## security-tools 
 
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧An ultra-lightweight firewall orchestrator for Linux. SysWarden proactively drops 97% of malicious internet traffic by fusing Data-Shield IPv4 blocklists, GeoIP, Spamhaus ASN, CINS Army, Blocklist.de
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧 SysWarden is an ultra-lightweight Host-based Security Orchestrator for Linux.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
@@ -8915,7 +8934,7 @@
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 
 ## tmux 
 
@@ -8966,7 +8985,7 @@
 
 ## trading 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [bennycode/trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [mondeja/pymarketcap](https://github.com/mondeja/pymarketcap) - Python3 API wrapper and web scraper for https://coinmarketcap.com
 
@@ -8983,7 +9002,7 @@
 ## trading-strategies 
 
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 
@@ -9010,6 +9029,7 @@
 
 ## tts 
 
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
@@ -9698,7 +9718,7 @@
 
 ## wireguard 
 
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧An ultra-lightweight firewall orchestrator for Linux. SysWarden proactively drops 97% of malicious internet traffic by fusing Data-Shield IPv4 blocklists, GeoIP, Spamhaus ASN, CINS Army, Blocklist.de
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧 SysWarden is an ultra-lightweight Host-based Security Orchestrator for Linux.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server

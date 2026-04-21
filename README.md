@@ -635,6 +635,7 @@
 - [prompt-engineering](#prompt-engineering)
 - [prompts](#prompts)
 - [protobuf](#protobuf)
+- [proxmox](#proxmox)
 - [proxy](#proxy)
 - [puppeteer](#puppeteer)
 - [pwa](#pwa)
@@ -7290,6 +7291,10 @@
 ## protobuf 
 
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
+
+## proxmox 
+
+- [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 
 ## proxy 
 

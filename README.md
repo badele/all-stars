@@ -492,6 +492,7 @@
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [midi](#midi)
+- [mikrotik](#mikrotik)
 - [mindmap](#mindmap)
 - [ml](#ml)
 - [mlops](#mlops)
@@ -742,6 +743,7 @@
 - [sports](#sports)
 - [spotify](#spotify)
 - [spreadsheet](#spreadsheet)
+- [spyware](#spyware)
 - [sql](#sql)
 - [sql-injection](#sql-injection)
 - [sql-server](#sql-server)
@@ -1092,7 +1094,7 @@
 
 ## algorithmic-trading 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 
 ## algorithmic-trading-engine 
 
@@ -1542,7 +1544,7 @@
 
 ## backtesting 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 
 ## backup 
 
@@ -2357,7 +2359,7 @@
 
 ## crm 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## cross-platform 
@@ -2384,7 +2386,7 @@
 ## cryptocurrency 
 
 - [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥
@@ -2570,7 +2572,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
@@ -2592,7 +2594,7 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [tashapiro/TidyTuesday](https://github.com/tashapiro/TidyTuesday) - Data visualizations produced for  #TidyTuesdayChallenge, a challenge hosted by R for Data Science.
@@ -3385,7 +3387,7 @@
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [JerBouma/ThePassiveInvestor](https://github.com/JerBouma/ThePassiveInvestor) - Passive Investing for the Average Joe
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
@@ -3939,7 +3941,7 @@
 
 ## good-first-issue 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -4022,7 +4024,7 @@
 
 ## graphql 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [Irev-Dev/cadhub](https://github.com/Irev-Dev/cadhub) - We're out to raise awareness and put CodeCAD on the map. The success of CadHub can be measured by the amount it promotes the use of CodeCAD within the mechanical/manufacturing industry and the strengt
@@ -4102,7 +4104,7 @@
 ## hacktoberfest 
 
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
@@ -4628,7 +4630,7 @@
 ## javascript 
 
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core) - A web-based ASCII and Unicode diagram builder written in vanilla Javascript
@@ -5182,7 +5184,7 @@
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
@@ -5302,7 +5304,7 @@
 
 ## marketing 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 
 ## mastodon 
 
@@ -5420,6 +5422,11 @@
 - [albertmeronyo/awesome-midi-sources](https://github.com/albertmeronyo/awesome-midi-sources) - A curated list of sites with MIDI files on the Web
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 
+## mikrotik 
+
+- [JayBeeDe/remplacement-livebox-fibre-par-mikrotik](https://github.com/JayBeeDe/remplacement-livebox-fibre-par-mikrotik) - Configuration routeur Mikrotik et module optique pour remplacer la Livebox Orange/Sosh fibre
+- [Lukas0025/maltrail-mikrotik-docker](https://github.com/Lukas0025/maltrail-mikrotik-docker) - Maltrail IDS with support for mikrotik packet sniffer stream in docker
+
 ## mindmap 
 
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
@@ -5509,7 +5516,7 @@
 
 ## monorepo 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 
 ## movies 
@@ -5687,7 +5694,7 @@
 
 ## nestjs 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## netbox-plugin 
@@ -6108,7 +6115,7 @@
 ## open-source 
 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT.
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
@@ -6460,7 +6467,6 @@
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [microsoft/Magma](https://github.com/microsoft/Magma) - [CVPR 2025] Magma: A Foundation Model for Multimodal AI Agents
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
-- [JayBeeDe/remplacement-livebox-fibre-par-mikrotik](https://github.com/JayBeeDe/remplacement-livebox-fibre-par-mikrotik) - Configuration routeur Mikrotik et module optique pour remplacer la Livebox Orange/Sosh fibre
 - [licensee/licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [beaugunderson/v6decode.com](https://github.com/beaugunderson/v6decode.com) - 6⃣ the v6decode.com website (for looking up information about IPv6 addresses)
 - [LeandroBarone/python-ascii_magic](https://github.com/LeandroBarone/python-ascii_magic) - Converts pictures into ASCII art
@@ -7112,7 +7118,7 @@
 
 ## portfolio-optimization 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 
 ## portfolio-template 
 
@@ -7138,7 +7144,7 @@
 
 ## postgresql 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -7549,7 +7555,7 @@
 
 ## quantitative-finance 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
@@ -7625,7 +7631,7 @@
 ## react 
 
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
@@ -7667,7 +7673,7 @@
 
 ## reactjs 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
@@ -8075,7 +8081,7 @@
 ## search 
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [jeff-hykin/nix_version_search_cli](https://github.com/jeff-hykin/nix_version_search_cli) - Nix Version Search CLI - user friendly way to find any version
@@ -8277,6 +8283,7 @@
 - [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -8465,6 +8472,10 @@
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+
+## spyware 
+
+- [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators of Compromise from Amnesty International's cyber investigations
 
 ## sql 
 
@@ -8967,7 +8978,7 @@
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 
 ## tmux 
 
@@ -9018,7 +9029,7 @@
 
 ## trading 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [bennycode/trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [mondeja/pymarketcap](https://github.com/mondeja/pymarketcap) - Python3 API wrapper and web scraper for https://coinmarketcap.com
 
@@ -9035,7 +9046,7 @@
 ## trading-strategies 
 
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 
@@ -9086,7 +9097,7 @@
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [xyproto/vt100](https://github.com/xyproto/vt100) - :computer: VT100 Terminal Package
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
 - [laktak/rsyncy](https://github.com/laktak/rsyncy) - A status/progress bar for rsync
@@ -9150,7 +9161,7 @@
 
 ## typescript 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
 - [b1rdmania/motif](https://github.com/b1rdmania/motif) - Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version.
@@ -9545,7 +9556,7 @@
 
 ## web 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍

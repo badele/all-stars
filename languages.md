@@ -47,6 +47,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [POV-Ray SDL](#pov-ray-sdl)
 - [Perl](#perl)
 - [PostScript](#postscript)
@@ -1081,6 +1082,10 @@
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
 - [Runalyze/Runalyze](https://github.com/Runalyze/Runalyze) - Create your free account at runalyze.com
 
+## PLpgSQL 
+
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
+
 ## POV-Ray SDL 
 
 - [bullet-physics-playground/bpp](https://github.com/bullet-physics-playground/bpp) - Physics simulation experiments
@@ -1089,7 +1094,6 @@
 
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [edolstra/nix-serve](https://github.com/edolstra/nix-serve) - A standalone Nix binary cache server
 - [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers

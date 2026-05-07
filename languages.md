@@ -683,6 +683,7 @@
 
 ## JavaScript 
 
+- [eefano/strudel-songs-collection](https://github.com/eefano/strudel-songs-collection) - Songs created with Strudel, the live coding music tool
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [Zigazou/miedit](https://github.com/Zigazou/miedit) - Minitel page editor
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT.
@@ -838,7 +839,7 @@
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) - A neovim plugin for viewing images.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
-- [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
+- [chaitanyabsprip/present.nvim](https://github.com/chaitanyabsprip/present.nvim) - Presentation plugin for neovim written in lua
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
@@ -994,6 +995,8 @@
 
 ## Others 
 
+- [terryds/learning-music-production-with-strudel](https://github.com/terryds/learning-music-production-with-strudel) - Learning how to make music (music production) in the browser (with Strudel) for total beginners
+- [terryds/awesome-strudel](https://github.com/terryds/awesome-strudel) - A curated collection of awesome Strudel resources including tracks (popular song covers and remixes), tutorials, and repositories
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - [0xSojalSec/LLMs-local](https://github.com/0xSojalSec/LLMs-local) - list of awesome platforms, tools, and resources   run for LLMs locally
 - [VicKayro/claude-security-audit](https://github.com/VicKayro/claude-security-audit) - Skill Claude Code pour audit de sécurité complet (OWASP Top 10, CWE/CVE, headers, auth, paywall, infra)
@@ -1129,6 +1132,7 @@
 
 ## Python 
 
+- [Emanuel-de-Jong/MIDI-To-Strudel](https://github.com/Emanuel-de-Jong/MIDI-To-Strudel) - Convert Midi files to Strudel code.
 - [rodo/batosurlo](https://github.com/rodo/batosurlo) - Show your tracks on the sea
 - [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -1802,7 +1806,7 @@
 - [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [kartoza/docker-qgis-desktop](https://github.com/kartoza/docker-qgis-desktop) - A docker project that will run your QGIS desktop app inside a docker container
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
@@ -1846,6 +1850,7 @@
 
 ## TypeScript 
 
+- [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [vincelwt/gloomberb](https://github.com/vincelwt/gloomberb) - Finance terminal, in your terminal.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.

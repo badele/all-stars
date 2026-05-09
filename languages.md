@@ -554,6 +554,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -1081,6 +1082,7 @@
 
 ## PHP 
 
+- [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [dbarzin/deming](https://github.com/dbarzin/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
@@ -1433,7 +1435,6 @@
 - [simsax/Voice_cloner](https://github.com/simsax/Voice_cloner) - A guide to clone anyone's voice and use it as a text-to-speech with android
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [Eoin-McMahon/raycast](https://github.com/Eoin-McMahon/raycast) - 💡 Raycasting demo written in python
@@ -1851,8 +1852,8 @@
 
 ## TypeScript 
 
-- [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [vincelwt/gloomberb](https://github.com/vincelwt/gloomberb) - Finance terminal, in your terminal.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [bernhard-42/three-cad-viewer](https://github.com/bernhard-42/three-cad-viewer) - A CAD viewer component based on three.js

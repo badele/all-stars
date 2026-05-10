@@ -87,6 +87,7 @@
 
 ## C 
 
+- [alphafox02/meshtastic-sniffer](https://github.com/alphafox02/meshtastic-sniffer) - Wideband passive Meshtastic LoRa receiver with multi-station fusion and offline PSK recovery
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [SimHacker/micropolis](https://github.com/SimHacker/micropolis) - Automatically exported from code.google.com/p/micropolis
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.

@@ -6378,6 +6378,7 @@
 
 ## others 
 
+- [alphafox02/meshtastic-sniffer](https://github.com/alphafox02/meshtastic-sniffer) - Wideband passive Meshtastic LoRa receiver with multi-station fusion and offline PSK recovery
 - [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [terryds/awesome-strudel](https://github.com/terryds/awesome-strudel) - A curated collection of awesome Strudel resources including tracks (popular song covers and remixes), tutorials, and repositories
 - [eefano/strudel-songs-collection](https://github.com/eefano/strudel-songs-collection) - Songs created with Strudel, the live coding music tool

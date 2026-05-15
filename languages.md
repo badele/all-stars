@@ -685,6 +685,7 @@
 
 ## JavaScript 
 
+- [rmdes/indiekit-deploy](https://github.com/rmdes/indiekit-deploy) - Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy static site)
 - [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck) - Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative aud
 - [eefano/strudel-songs-collection](https://github.com/eefano/strudel-songs-collection) - Songs created with Strudel, the live coding music tool
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -764,6 +765,7 @@
 - [yoannmoinet/isitbig.org](https://github.com/yoannmoinet/isitbig.org) - Helps you find if a brand is from a big group.
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [geodienst/lighthousemap](https://github.com/geodienst/lighthousemap) - OpenStreetMap's Blinking Beacons
+- [gkaramanis/tidytuesday](https://github.com/gkaramanis/tidytuesday) - Code and plots for submissions to the #tidytuesday challenge
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 - [gethugothemes/parsa-hugo](https://github.com/gethugothemes/parsa-hugo) - Parsa is a personal blog theme powered by Hugo. It also can be used for portfolio website.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
@@ -1006,6 +1008,7 @@
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [varnish/orca](https://github.com/varnish/orca) - Varnish Orca is a Virtual Registry Manger: a fast pull-through cache for artifact registries
 - [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
+- [kohii/smoothcsv3](https://github.com/kohii/smoothcsv3) - SmoothCSV is a powerful and intuitive tool for editing CSV files.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 - [CyberFlooD/SwitchToOpen](https://github.com/CyberFlooD/SwitchToOpen) - SwitchToOpen - The open source shift
@@ -1535,7 +1538,6 @@
 - [tashapiro/TidyTuesday](https://github.com/tashapiro/TidyTuesday) - Data visualizations produced for  #TidyTuesdayChallenge, a challenge hosted by R for Data Science.
 - [cnicault/tidytuesday](https://github.com/cnicault/tidytuesday) - My contribution to the #TidyTuesday challenge, with the visualizations and code
 - [z3tt/TidyTuesday](https://github.com/z3tt/TidyTuesday) - My contributions to the #TidyTuesday challenge, a weekly data visualization challenge. All plots are 💯 created in R with ggplot2.
-- [gkaramanis/tidytuesday](https://github.com/gkaramanis/tidytuesday) - Code and plots for submissions to the #tidytuesday challenge
 - [LKremer/ggpointdensity](https://github.com/LKremer/ggpointdensity) - :chart_with_upwards_trend: :bar_chart: Introduces geom_pointdensity(): A Cross Between a Scatter Plot and a 2D Density Plot.
 - [marcosci/layer](https://github.com/marcosci/layer) - Create stacked tilted maps
 - [riatelab/cartography](https://github.com/riatelab/cartography) - Thematic Cartography for R
@@ -1578,6 +1580,7 @@
 
 ## Rust 
 
+- [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and MacOs
 - [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) - Open Source components of Little Snitch for Linux
 - [derekwisong/datui](https://github.com/derekwisong/datui) - Data Exploration in the Terminal
 - [penso/arbor](https://github.com/penso/arbor) - Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
@@ -1648,7 +1651,7 @@
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [insight-platform/Similari](https://github.com/insight-platform/Similari) - A framework for building high-performance real-time multiple object trackers
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2.0 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -1756,7 +1759,6 @@
 - [Botspot/unicode-art](https://github.com/Botspot/unicode-art) - Easily make detailed terminal art with unicode characters in this simple viewer
 - [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) - smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
-- [kohii/smoothcsv3](https://github.com/kohii/smoothcsv3) - SmoothCSV is a powerful and intuitive tool for editing CSV files.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [jcs/ansiterm](https://github.com/jcs/ansiterm) - dos 437 fonts and configs for viewing ANSI art in xterm
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -1887,7 +1889,6 @@
 - [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - NativeMind: Your fully private, open-source, on-device AI assistant
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [aleyan/ascii-side-of-the-moon](https://github.com/aleyan/ascii-side-of-the-moon) - A lightweight ts library for rendering the moon in glorious ascii characters
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [dom111/image-to-ansi](https://github.com/dom111/image-to-ansi) - Convert an image to ANSI colour codes using JavaScript.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.

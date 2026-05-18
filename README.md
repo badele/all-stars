@@ -259,6 +259,7 @@
 - [elixir](#elixir)
 - [elm](#elm)
 - [emacs](#emacs)
+- [emacs-lisp](#emacs-lisp)
 - [email](#email)
 - [embedded](#embedded)
 - [emoji](#emoji)
@@ -440,6 +441,7 @@
 - [kali-tools](#kali-tools)
 - [keras](#keras)
 - [kernel](#kernel)
+- [keyboard](#keyboard)
 - [knowledge-base](#knowledge-base)
 - [knowledge-graph](#knowledge-graph)
 - [knowledge-management](#knowledge-management)
@@ -3258,6 +3260,11 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 
+## emacs-lisp 
+
+- [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+
 ## email 
 
 - [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
@@ -4874,6 +4881,10 @@
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer a
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
+
+## keyboard 
+
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 
 ## knowledge-base 
 

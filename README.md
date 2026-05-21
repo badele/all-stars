@@ -584,6 +584,7 @@
 - [orchestration](#orchestration)
 - [osint](#osint)
 - [osint-python](#osint-python)
+- [osint-resources](#osint-resources)
 - [osint-tool](#osint-tool)
 - [osint-tools](#osint-tools)
 - [others](#others)
@@ -1008,6 +1009,7 @@
 
 ## agents 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
@@ -1088,6 +1090,7 @@
 
 ## ai-agents 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
@@ -1416,7 +1419,7 @@
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -1840,6 +1843,7 @@
 
 ## cad 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
@@ -4832,7 +4836,7 @@
 
 ## jwt 
 
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 
 ## k8s 
 
@@ -6372,6 +6376,7 @@
 
 ## osint 
 
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [HackingLZ/gibson](https://github.com/HackingLZ/gibson) - Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN loo
@@ -6414,8 +6419,15 @@
 - [eremit4/favihunter](https://github.com/eremit4/favihunter) - Discover and monitor internet assets using favicon hashes across search engines.
 - [C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) - Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
 
+## osint-resources 
+
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
+- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
+- [blark/aiodnsbrute](https://github.com/blark/aiodnsbrute) - Python 3.5+ DNS asynchronous brute force utility
+
 ## osint-tool 
 
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap) - Global threat map. Learn wars, conflicts, military bases and history of nations.
@@ -7995,6 +8007,7 @@
 
 ## robotics 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 
 ## rpc 
@@ -8066,7 +8079,7 @@
 - [insight-platform/Similari](https://github.com/insight-platform/Similari) - A framework for building high-performance real-time multiple object trackers
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -8208,6 +8221,7 @@
 
 ## sdr 
 
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 - [sonictruth/tetra-kit-player](https://github.com/sonictruth/tetra-kit-player) - TKP is web application that streams events and files produced by tetra kit.
 - [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) - 
@@ -8480,7 +8494,7 @@
 - [sblendorio/petscii-bbs](https://github.com/sblendorio/petscii-bbs) - A Java framework for building highly customizable PETSCII-enabled BBS, accessible from Commodore 64/128
 - [xero/text0wnz](https://github.com/xero/text0wnz) - 𝙔𝙤𝙪𝙧 𝙗𝙧𝙤𝙬𝙨𝙚𝙧 𝙞𝙨 𝙩𝙝𝙚 𝙘𝙖𝙣𝙫𝙖𝙨. Draw, edit, and collaborate on ANSI, ASCII, NFO, and XBIN art in a retro text art editor rebooted for the modern web. Offline-first or connect for real-time sessions. Craft
 - [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
@@ -9721,6 +9735,7 @@
 
 ## wasm 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [junkdog/beamterm](https://github.com/junkdog/beamterm) - A sub-millisecond terminal text rendering system for WebGL2 and OpenGL 3.3
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [ratatui/tachyonfx](https://github.com/ratatui/tachyonfx) - Effects and animation library for Ratatui applications
@@ -9817,7 +9832,7 @@
 ## webauthn 
 
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 
 ## webextension 

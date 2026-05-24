@@ -5964,6 +5964,7 @@
 
 ## nix 
 
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
 - [vinszent/cq-flake](https://github.com/vinszent/cq-flake) - CadQuery and CQ-editor flake, closely follows master
 - [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
@@ -5976,7 +5977,6 @@
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
-- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [katexochen/govulncheck-nixpkgs](https://github.com/katexochen/govulncheck-nixpkgs) - Scanning nixpkgs for vulnerabilities in Go packages
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
@@ -6022,6 +6022,7 @@
 
 ## nixos 
 
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [vinszent/cq-flake](https://github.com/vinszent/cq-flake) - CadQuery and CQ-editor flake, closely follows master
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
@@ -6033,7 +6034,6 @@
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainers=@water-sucks,@Sporif]
 - [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@zowoq]
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
-- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [katexochen/govulncheck-nixpkgs](https://github.com/katexochen/govulncheck-nixpkgs) - Scanning nixpkgs for vulnerabilities in Go packages
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
@@ -6472,6 +6472,7 @@
 
 ## others 
 
+- [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) - System Information and Benchmark for Linux Systems
 - [christiansacks/moebius](https://github.com/christiansacks/moebius) - Modern ANSI & ASCII Art Editor
 - [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck) - Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative aud
@@ -6796,7 +6797,7 @@
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [washingtonpost/aws-tagger](https://github.com/washingtonpost/aws-tagger) - AWS bulk tagging tool
 - [zx2c4/password-store](https://github.com/zx2c4/password-store) - Read-only mirror of https://git.zx2c4.com/password-store - https://www.passwordstore.org/ . Pull requests and issues on GitHub cannot be accepted and will be automatically closed. The proper way to su
-- [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Mic92]
+- [nix-community/nur-combined](https://github.com/nix-community/nur-combined) - A repository of NUR that combines all repositories [maintainer=@Pandapip1]
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [tinted-theming/base16-schemes](https://github.com/tinted-theming/base16-schemes) - All the color schemes for use in base16 packages
 - [bliseng/aws-tag-a-day](https://github.com/bliseng/aws-tag-a-day) - A tool for simplifying swarming of fixing tags

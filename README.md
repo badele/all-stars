@@ -402,6 +402,7 @@
 - [image-restoration](#image-restoration)
 - [incident-response](#incident-response)
 - [indieweb](#indieweb)
+- [inference](#inference)
 - [information-gathering](#information-gathering)
 - [information-retrieval](#information-retrieval)
 - [information-security](#information-security)
@@ -488,7 +489,6 @@
 - [markdown](#markdown)
 - [marketing](#marketing)
 - [mastodon](#mastodon)
-- [material](#material)
 - [material-design](#material-design)
 - [math](#math)
 - [mathematics](#mathematics)
@@ -4587,6 +4587,11 @@
 
 - [rmdes/indiekit-deploy](https://github.com/rmdes/indiekit-deploy) - Docker Compose + Ansible deployment for Indiekit (IndieWeb server + Eleventy static site)
 
+## inference 
+
+- [xigh/herbert-rs](https://github.com/xigh/herbert-rs) - Local LLM inference engine written from scratch in Rust — hand-written AVX-512 assembly kernels, Metal & Vulkan compute shaders. Supports Qwen3, Mistral3, ... Q4/INT8/BF16 quantization.
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
+
 ## information-gathering 
 
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
@@ -5446,11 +5451,6 @@
 ## mastodon 
 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-
-## material 
-
-- [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
-- [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 
 ## material-design 
 

@@ -333,6 +333,7 @@
 
 ## Go 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [c0m4r/kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [chrishrb/go-grip](https://github.com/chrishrb/go-grip) - Preview Markdown files locally before committing them.
@@ -350,7 +351,6 @@
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [lukasz-lobocki/termos](https://github.com/lukasz-lobocki/termos) - Screenshots a terminal output.
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -1869,6 +1869,7 @@
 
 ## TypeScript 
 
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.
 - [fredericalix/myccmetrics](https://github.com/fredericalix/myccmetrics) - Real-time monitoring dashboard for Clever Cloud applications. View CPU, Memory, Network, and Disk metrics with interactive charts.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal

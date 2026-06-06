@@ -598,6 +598,7 @@
 - [paas](#paas)
 - [package-manager](#package-manager)
 - [pandas](#pandas)
+- [paper](#paper)
 - [parser](#parser)
 - [parsing](#parsing)
 - [password](#password)
@@ -7100,6 +7101,10 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
+
+## paper 
+
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 
 ## parser 
 

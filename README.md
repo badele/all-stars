@@ -487,6 +487,7 @@
 - [malware-analysis](#malware-analysis)
 - [malware-development](#malware-development)
 - [malware-research](#malware-research)
+- [management](#management)
 - [maps](#maps)
 - [markdown](#markdown)
 - [marketing](#marketing)
@@ -5440,6 +5441,10 @@
 ## malware-research 
 
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
+
+## management 
+
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
 ## maps 
 

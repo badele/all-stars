@@ -94,7 +94,6 @@
 - [SimHacker/micropolis](https://github.com/SimHacker/micropolis) - Automatically exported from code.google.com/p/micropolis
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [21cncstudio/project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [english1234/Turaco-Sprite-Editor](https://github.com/english1234/Turaco-Sprite-Editor) - Turaco ported from DOS/Allegro to Windows/SDL2
 - [AltraMayor/f3](https://github.com/AltraMayor/f3) - F3 - Fight Flash Fraud
@@ -171,6 +170,7 @@
 - [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
 - [Avinava/glimmer](https://github.com/Avinava/glimmer) - A pixel-art always-on desk widget for GeekMagic SmallTV-Ultra. Custom firmware that rotates through glanceable channels (Claude/Codex usage, clock, weather, push cards).
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [peterkvt80/wxted](https://github.com/peterkvt80/wxted) - wxTED - Teletext editor for Windows based on wx widgets
 - [peterkvt80/vbit2](https://github.com/peterkvt80/vbit2) - Teletext streaming. Generates a T42 teletext stream from teletext pages. This can be used with inserter hardware or a Raspberry Pi to generate a video signal that teletext TVs can decode and display. 
@@ -272,6 +272,7 @@
 - [louisbarclay/datacenter.fm](https://github.com/louisbarclay/datacenter.fm) - 
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [solst-ice/itoa](https://github.com/solst-ice/itoa) - Converts an image to ASCII art
+- [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome software testing tools, from unit and load to accessibility, Web3, and contract testing 🚀
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [broncowdd/SnippetVamp](https://github.com/broncowdd/SnippetVamp) - Store, share & manage your snippets easily
@@ -282,6 +283,7 @@
 
 ## Clojure 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
@@ -356,7 +358,7 @@
 - [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
-- [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
+- [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your CI/CD pipelines and repos
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [lukasz-lobocki/termos](https://github.com/lukasz-lobocki/termos) - Screenshots a terminal output.
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
@@ -755,7 +757,6 @@
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code.
 - [noraj/rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) - An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
-- [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome testing tools 🚀
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
@@ -1157,6 +1158,9 @@
 
 ## Python 
 
+- [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
+- [RFnexus/reticulated](https://github.com/RFnexus/reticulated) - Reticulum Network Stack Simulator
+- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 - [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs) - Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required.
 - [brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio) - Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot.

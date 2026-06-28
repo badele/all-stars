@@ -445,7 +445,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs
 - [joakim-ribier/pong](https://github.com/joakim-ribier/pong) - The Pong game in Go with ebitengine 2D game engine.
 - [StamusNetworks/stamusctl](https://github.com/StamusNetworks/stamusctl) - Command line tool designed to set up, start and maintain Clear NDR installation.

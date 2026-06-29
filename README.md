@@ -759,6 +759,7 @@
 - [simulation](#simulation)
 - [simulator](#simulator)
 - [sketch](#sketch)
+- [skill](#skill)
 - [skills](#skills)
 - [snippets](#snippets)
 - [social-media](#social-media)
@@ -8785,6 +8786,11 @@
 ## sketch 
 
 - [AMoreaux/Sketch-Icons](https://github.com/AMoreaux/Sketch-Icons) - 🚀 Generate a dynamic icon library
+
+## skill 
+
+- [camilleroux/veille-techno](https://github.com/camilleroux/veille-techno) - Skill Claude Code de veille tech francophone. Agrège les flux RSS (Journal du Hacker, Human Coders News…) et produit un récap trié par jour. Zéro dépendance.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 
 ## skills 
 

@@ -72,6 +72,7 @@
 - [awesome-lists](#awesome-lists)
 - [aws](#aws)
 - [azure](#azure)
+- [azure-devops](#azure-devops)
 - [backdoor](#backdoor)
 - [backend](#backend)
 - [background-removal](#background-removal)
@@ -129,6 +130,7 @@
 - [ci](#ci)
 - [cicd](#cicd)
 - [claude](#claude)
+- [claude-ai](#claude-ai)
 - [claude-code](#claude-code)
 - [claude-skills](#claude-skills)
 - [cli](#cli)
@@ -1151,7 +1153,7 @@
 
 ## aigc 
 
-- [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 
 ## algorithm 
 
@@ -1599,6 +1601,10 @@
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 
+## azure-devops 
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+
 ## backdoor 
 
 - [HalilDeniz/BackDoorSim](https://github.com/HalilDeniz/BackDoorSim) - BackdoorSim: An Educational into Remote Administration Tools
@@ -2025,6 +2031,11 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
+## claude-ai 
+
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
+
 ## claude-code 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -2263,7 +2274,7 @@
 
 ## comfyui 
 
-- [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 
 ## command-line 
 
@@ -4198,7 +4209,6 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [fr-ser/grafana-sqlite-datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana Plugin to enable SQLite as a Datasource
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [onedr0p/home-operations](https://github.com/onedr0p/home-operations) - Highly opinionated Ansible playbooks, Ansible roles, and other things that are used to maintain my home-cluster
@@ -4655,7 +4665,7 @@
 
 ## image-generation 
 
-- [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -5300,6 +5310,7 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
+- [ErdemOzgen/RedAiRange](https://github.com/ErdemOzgen/RedAiRange) - A professional AI security range for red teaming, vulnerability research, defensive validation, and hands-on AI/ML security training.
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -6748,7 +6759,6 @@
 - [huseyinstif/Nuclei-AI-Prompts](https://github.com/huseyinstif/Nuclei-AI-Prompts) - 
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
 - [ty-porter/RGBMatrixEmulator](https://github.com/ty-porter/RGBMatrixEmulator) - A desktop interface to emulate Raspberry Pi-powered LED matrices driven by rpi-rgb-led-matrix
-- [ErdemOzgen/RedAiRange](https://github.com/ErdemOzgen/RedAiRange) - AI Red Teaming Range
 - [Thopterulu/nixos-config](https://github.com/Thopterulu/nixos-config) - I use NixOS btw
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -6837,6 +6847,7 @@
 - [Kiteretsu77/APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - API datasource for grafana. Visualize data from JSON / CSV / TSV / XML / GraphQL endpoints
 - [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine.
 - [RevoltSecurities/ShodanX](https://github.com/RevoltSecurities/ShodanX) - ShodanX is a tool to gather information of targets using shodan dorks⚡.
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) - 
@@ -9549,7 +9560,7 @@
 
 ## tts 
 
-- [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -9808,7 +9819,7 @@
 
 ## video-generation 
 
-- [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 
 ## video-processing 

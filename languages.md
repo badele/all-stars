@@ -1289,7 +1289,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [roboflow/trackers](https://github.com/roboflow/trackers) - Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already
 - [Tbruno25/can-explorer](https://github.com/Tbruno25/can-explorer) - Visualize CAN Bus messages in real time
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [pablosnt/rekono](https://github.com/pablosnt/rekono) - Pentesting automation platform that combines hacking tools to complete assessments
@@ -1668,7 +1668,7 @@
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [izya4ka/yadb](https://github.com/izya4ka/yadb) - Yet another directory buster
 - [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions
-- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
+- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [AfaanBilal/NanoCore](https://github.com/AfaanBilal/NanoCore) - NanoCore 8-bit CPU emulator in Rust
 - [mkrueger/icy_tools](https://github.com/mkrueger/icy_tools) - A collection of ansi/bbs related applications.

@@ -155,6 +155,7 @@
 - [compiler](#compiler)
 - [components](#components)
 - [computer-science](#computer-science)
+- [computer-use](#computer-use)
 - [computer-vision](#computer-vision)
 - [config](#config)
 - [configuration-management](#configuration-management)
@@ -2371,6 +2372,10 @@
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+
+## computer-use 
+
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 
 ## computer-vision 
 

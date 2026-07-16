@@ -449,7 +449,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [srl-labs/containerlab](https://github.com/srl-labs/containerlab) - container-based networking labs
 - [joakim-ribier/pong](https://github.com/joakim-ribier/pong) - The Pong game in Go with ebitengine 2D game engine.
 - [StamusNetworks/stamusctl](https://github.com/StamusNetworks/stamusctl) - Command line tool designed to set up, start and maintain Clear NDR installation.
@@ -1272,7 +1272,7 @@
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [HalilDeniz/BackDoorSim](https://github.com/HalilDeniz/BackDoorSim) - BackdoorSim: An Educational into Remote Administration Tools
 - [flozz/yoga-image-optimizer](https://github.com/flozz/yoga-image-optimizer) - A graphical tool to convert and optimize JPEG, PNG and WebP images (based on YOGA)
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
 - [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai) - This script automates SQL injection testing using SQLMap with AI-powered decision making.
 - [cycurity/wister](https://github.com/cycurity/wister) - A wordlist generator tool, that allows you to supply a set of words, giving you the possibility to craft multiple variations from the given words, creating a unique and ideal wordlist to use regarding

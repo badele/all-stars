@@ -14,6 +14,7 @@
 - [CartoCSS](#cartocss)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -293,6 +294,10 @@
 
 - [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 
+## Crystal 
+
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+
 ## Dart 
 
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
@@ -465,7 +470,7 @@
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) - Incus provider for Terraform/OpenTofu
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [joakim-ribier/mockapic](https://github.com/joakim-ribier/mockapic) - The easiest way to test your web services securely and privately using a Docker container.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [lxc/distrobuilder](https://github.com/lxc/distrobuilder) - System container image builder for LXC and Incus
@@ -1173,6 +1178,8 @@
 
 ## Python 
 
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola
+- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.

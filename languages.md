@@ -348,6 +348,7 @@
 
 ## Go 
 
+- [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
@@ -1248,7 +1249,7 @@
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your estate
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files

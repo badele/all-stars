@@ -67,6 +67,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -732,7 +733,7 @@
 - [jaammees/lvllvl](https://github.com/jaammees/lvllvl) - 
 - [rawles/edit.tf](https://github.com/rawles/edit.tf) - An in-browser editor for teletext frames.
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required.
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Poznote is a note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
 - [hlotvonen/moebiusXBIN](https://github.com/hlotvonen/moebiusXBIN) - Modern ASCII & text-mode art editor
 - [MaitreJV/pseudoshield](https://github.com/MaitreJV/pseudoshield) - Extension Chrome de pseudonymisation RGPD pour IA (ChatGPT, Claude, DeepSeek). 100% local, zero telemetrie.
 - [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core) - A web-based ASCII and Unicode diagram builder written in vanilla Javascript
@@ -1919,6 +1920,10 @@
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## Tree-sitter Query 
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -2006,7 +2011,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A browser-based 3D CAD application for online model design and editing
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A 3D CAD running entirely in the browser
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit) - 🤖 Beautifully designed chatbot components based on shadcn/ui
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.

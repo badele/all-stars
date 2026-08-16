@@ -375,6 +375,7 @@
 - [wader/ansisvg](https://github.com/wader/ansisvg) - Convert ANSI to SVG
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Plumber detects CI/CD security issues in your GitHub workflows and gives you a score
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - Active Defense and HIDS/HIPS/WAAP Out-of-Band Orchestration for Critical Linux Infrastructure
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [lukasz-lobocki/termos](https://github.com/lukasz-lobocki/termos) - Screenshots a terminal output.
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
@@ -1179,7 +1180,7 @@
 ## Python 
 
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola
-- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices
+- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter  and CLI GitOps Configurations for Mikrotik RouterOS devices
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
@@ -1223,7 +1224,6 @@
 - [jbarbier/claude-code-cost-estimate](https://github.com/jbarbier/claude-code-cost-estimate) - Claude Code skill that estimates the full development cost of any codebase
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [renaudcepre/apte](https://github.com/renaudcepre/apte) - 
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - Active Defense and HIDS/HIPS/WAAP Out-of-Band Orchestration for Critical Linux Infrastructure
 - [opendatateam/udata](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to open data.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
@@ -1930,6 +1930,7 @@
 
 ## TypeScript 
 
+- [syncular/syncular](https://github.com/syncular/syncular) - Offline-first SQL sync with Typescript and Rust cores
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using libsql w/vectors
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.

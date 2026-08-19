@@ -2360,7 +2360,7 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
@@ -2393,7 +2393,7 @@
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
@@ -4292,7 +4292,7 @@
 ## gpu 
 
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source math and physics calculation engine for modeling, simulating, and analyzing complex systems with automatic GPU acceleration, designed to be backwards-compatible with MATLAB syntax.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
@@ -4530,7 +4530,6 @@
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -5068,7 +5067,7 @@
 ## jupyter 
 
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source math and physics calculation engine for modeling, simulating, and analyzing complex systems with automatic GPU acceleration, designed to be backwards-compatible with MATLAB syntax.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
@@ -5358,7 +5357,6 @@
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -5705,12 +5703,12 @@
 
 ## mathematics 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source math and physics calculation engine for modeling, simulating, and analyzing complex systems with automatic GPU acceleration, designed to be backwards-compatible with MATLAB syntax.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 
 ## matlab 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source math and physics calculation engine for modeling, simulating, and analyzing complex systems with automatic GPU acceleration, designed to be backwards-compatible with MATLAB syntax.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
 
 ## matplotlib 
 
@@ -8471,7 +8469,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source math and physics calculation engine for modeling, simulating, and analyzing complex systems with automatic GPU acceleration, designed to be backwards-compatible with MATLAB syntax.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [AfaanBilal/NanoCore](https://github.com/AfaanBilal/NanoCore) - NanoCore 8-bit CPU emulator in Rust
@@ -8540,7 +8538,7 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -8593,7 +8591,7 @@
 
 ## scientific-computing 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open-source math and physics calculation engine for modeling, simulating, and analyzing complex systems with automatic GPU acceleration, designed to be backwards-compatible with MATLAB syntax.
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 
 ## scikit-learn 

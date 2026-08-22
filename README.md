@@ -1463,6 +1463,7 @@
 
 ## astronomy 
 
+- [furan917/go-solar-system](https://github.com/furan917/go-solar-system) - Explore the Solar System, Alpha Centauri, TRAPPIST-1 and more from your terminal. Real astronomical data, animated orbits, and multi-star systems. A Go/tcell TUI.
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
 - [ethankruse/kepler_orrery](https://github.com/ethankruse/kepler_orrery) - Make a Kepler orrery gif or movie of all the Kepler multi-planet systems
 
@@ -3211,7 +3212,7 @@
 - [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure
@@ -3296,7 +3297,7 @@
 
 ## documentation 
 
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
@@ -3827,7 +3828,7 @@
 ## free 
 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -4170,6 +4171,7 @@
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
+- [furan917/go-solar-system](https://github.com/furan917/go-solar-system) - Explore the Solar System, Alpha Centauri, TRAPPIST-1 and more from your terminal. Real astronomical data, animated orbits, and multi-star systems. A Go/tcell TUI.
 - [c0m4r/kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -6379,7 +6381,7 @@
 
 ## note-taking 
 
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
@@ -6399,7 +6401,7 @@
 
 ## notes 
 
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -6783,7 +6785,6 @@
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [krvkir/org-mindmap](https://github.com/krvkir/org-mindmap) - Editable mindmaps for org-mode.
 - [RFnexus/reticulated](https://github.com/RFnexus/reticulated) - Reticulum Network Stack Simulator
-- [furan917/go-solar-system](https://github.com/furan917/go-solar-system) - 
 - [jasonfen/terminal-space-program](https://github.com/jasonfen/terminal-space-program) - Terminal-native orbital-mechanics rocket simulator. KSP-in-your-terminal, distributed as a single static Go binary.
 - [bvweerd/geekmagic-tv-esp8266](https://github.com/bvweerd/geekmagic-tv-esp8266) - 
 - [GeekMagicClock/smalltv-pro](https://github.com/GeekMagicClock/smalltv-pro) - PRO version of GeekMagic smalltv
@@ -8864,7 +8865,7 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -9053,6 +9054,7 @@
 
 ## space 
 
+- [furan917/go-solar-system](https://github.com/furan917/go-solar-system) - Explore the Solar System, Alpha Centauri, TRAPPIST-1 and more from your terminal. Real astronomical data, animated orbits, and multi-star systems. A Go/tcell TUI.
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
@@ -9408,6 +9410,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
+- [furan917/go-solar-system](https://github.com/furan917/go-solar-system) - Explore the Solar System, Alpha Centauri, TRAPPIST-1 and more from your terminal. Real astronomical data, animated orbits, and multi-star systems. A Go/tcell TUI.
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
@@ -9798,6 +9801,7 @@
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [yeet-src/httpinspect](https://github.com/yeet-src/httpinspect) - top, but for the HTTP endpoints on your host — a live dashboard of the most active plaintext HTTP endpoints, right in the terminal.
+- [furan917/go-solar-system](https://github.com/furan917/go-solar-system) - Explore the Solar System, Alpha Centauri, TRAPPIST-1 and more from your terminal. Real astronomical data, animated orbits, and multi-star systems. A Go/tcell TUI.
 - [r14dd/patent](https://github.com/r14dd/patent) - A prior-art search for your code ideas — has this dev tool already been shipped?
 - [c0m4r/kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux® server monitoring tool
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
@@ -10159,6 +10163,7 @@
 - [Mahlet-Inc/hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
+- [furan917/go-solar-system](https://github.com/furan917/go-solar-system) - Explore the Solar System, Alpha Centauri, TRAPPIST-1 and more from your terminal. Real astronomical data, animated orbits, and multi-star systems. A Go/tcell TUI.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -10397,7 +10402,7 @@
 ## webapp 
 
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
@@ -10506,7 +10511,7 @@
 
 ## wiki 
 
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Your note-taking and documentation platform.
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r

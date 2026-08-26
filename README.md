@@ -401,6 +401,7 @@
 - [homebrew](#homebrew)
 - [homelab](#homelab)
 - [homepage](#homepage)
+- [honeypot](#honeypot)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -506,6 +507,7 @@
 - [management](#management)
 - [maps](#maps)
 - [markdown](#markdown)
+- [markdown-editor](#markdown-editor)
 - [marketing](#marketing)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -582,7 +584,6 @@
 - [nvim-cmp](#nvim-cmp)
 - [oauth2](#oauth2)
 - [object-detection](#object-detection)
-- [object-tracking](#object-tracking)
 - [objective-c](#objective-c)
 - [observability](#observability)
 - [obsidian](#obsidian)
@@ -2616,7 +2617,6 @@
 
 - [kohii/smoothcsv3](https://github.com/kohii/smoothcsv3) - SmoothCSV is a powerful and intuitive tool for editing CSV files.
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -3553,7 +3553,6 @@
 
 - [21cncstudio/project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [esphome/esphome-core](https://github.com/esphome/esphome-core) - 🚨 No longer used 🚨 - The C++ framework behind ESPHome
 - [mysensors/MySensors](https://github.com/mysensors/MySensors) - MySensors library and examples
@@ -4675,6 +4674,13 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
+## honeypot 
+
+- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
+- [referefref/honeydet](https://github.com/referefref/honeydet) - Signature based honeypot detector tool written in Golang
+- [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
+- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
+
 ## html 
 
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
@@ -5698,6 +5704,10 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 
+## markdown-editor 
+
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
+
 ## marketing 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
@@ -5945,6 +5955,7 @@
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [mcer12/Temper-ESP8266](https://github.com/mcer12/Temper-ESP8266) - Temper is a compact temperature sensor based on ESP8266 and SHT30 with large 13x7 pixel led display.
 - [danielwelch/hassio-zigbee2mqtt](https://github.com/danielwelch/hassio-zigbee2mqtt) - Hass.io add-on for zigbee2mqtt
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
@@ -6484,13 +6495,6 @@
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
 
-## object-tracking 
-
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
-- [insight-platform/Similari](https://github.com/insight-platform/Similari) - A framework for building high-performance real-time multiple object trackers
-- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
-- [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
-
 ## objective-c 
 
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -6802,7 +6806,7 @@
 - [Avinava/glimmer](https://github.com/Avinava/glimmer) - A pixel-art always-on desk widget for GeekMagic SmallTV-Ultra. Custom firmware that rotates through glanceable channels (Claude/Codex usage, clock, weather, push cards).
 - [borko17/fastfetch-config](https://github.com/borko17/fastfetch-config) - 
 - [monocurl/monocurl](https://github.com/monocurl/monocurl) - A programming language used to make math-based videos and slideshows
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encry
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
 - [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) - System Information and Benchmark for Linux Systems
 - [christiansacks/moebius](https://github.com/christiansacks/moebius) - Modern ANSI & ASCII Art Editor

@@ -179,6 +179,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [css-framework](#css-framework)
+- [css3](#css3)
 - [csv](#csv)
 - [ctf](#ctf)
 - [ctf-challenges](#ctf-challenges)
@@ -2605,6 +2606,7 @@
 
 ## css 
 
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -2613,6 +2615,10 @@
 ## css-framework 
 
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+
+## css3 
+
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 
 ## csv 
 
@@ -6845,7 +6851,6 @@
 - [Adversis/tailsnitch](https://github.com/Adversis/tailsnitch) - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations.
 - [0xSojalSec/LLMs-local](https://github.com/0xSojalSec/LLMs-local) - list of awesome platforms, tools, and resources   run for LLMs locally
 - [fand/ratride](https://github.com/fand/ratride) - A tiny CLI presentation tool
-- [renaudcepre/apte](https://github.com/renaudcepre/apte) - 
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [reverie/yourworldoftext](https://github.com/reverie/yourworldoftext) - Your World of Text is an infinite grid of text editable by any visitor.
 - [n2tr0n/ansiclaw](https://github.com/n2tr0n/ansiclaw) - A Openclaw skill that allows  the AI to draw ANSI art using Clawbius
@@ -7894,6 +7899,7 @@
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [renaudcepre/apte](https://github.com/renaudcepre/apte) - Async-first Python testing framework with explicit dependency injection and native LLM evals. Tests and evals run as coroutines on one event loop.
 - [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) - Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding
 - [opendatateam/udata](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to open data.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
@@ -9348,6 +9354,7 @@
 
 ## syntax-highlighting 
 
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 - [dpezto/gnuplot.vim](https://github.com/dpezto/gnuplot.vim) - gnuplot syntax highlighting for vim
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -9579,6 +9586,7 @@
 ## testing 
 
 - [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
+- [renaudcepre/apte](https://github.com/renaudcepre/apte) - Async-first Python testing framework with explicit dependency injection and native LLM evals. Tests and evals run as coroutines on one event loop.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.

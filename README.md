@@ -1113,6 +1113,7 @@
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
@@ -1710,7 +1711,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -4476,7 +4477,6 @@
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -5388,7 +5388,7 @@
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer a
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -5464,6 +5464,7 @@
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [privacyshield-ai/privacy-firewall](https://github.com/privacyshield-ai/privacy-firewall) - A local AI-powered DLP solution
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [ErdemOzgen/RedAiRange](https://github.com/ErdemOzgen/RedAiRange) - A professional AI security range for red teaming, vulnerability research, defensive validation, and hands-on AI/ML security training.
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -5821,6 +5822,7 @@
 ## metrics 
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
@@ -9024,7 +9026,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -9506,7 +9508,7 @@
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer

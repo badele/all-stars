@@ -706,7 +706,6 @@
 
 ## Java 
 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android on screen keyboard for multiple languages and NO internet access
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
@@ -1232,7 +1231,6 @@
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [jdegenstein/filewatcher123d](https://github.com/jdegenstein/filewatcher123d) - A file watcher oriented towards use with build123d and ocp_vscode
-- [bernhard-42/vscode-ocp-cad-viewer](https://github.com/bernhard-42/vscode-ocp-cad-viewer) - A viewer for OCP based Code-CAD (CadQuery, build123d) integrated into VS Code
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [CadQuery/CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT
 - [tsali/retro-tv](https://github.com/tsali/retro-tv) - Retro TV broadcast system for Raspberry Pi
@@ -1965,6 +1963,7 @@
 - [syncular/syncular](https://github.com/syncular/syncular) - Offline-first SQL sync with Typescript and Rust cores
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using libsql w/vectors
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [hhourani27/asciip](https://github.com/hhourani27/asciip) - An online ASCII diagram editor
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
@@ -1980,6 +1979,7 @@
 - [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [bernhard-42/three-cad-viewer](https://github.com/bernhard-42/three-cad-viewer) - A CAD viewer component based on three.js
+- [bernhard-42/vscode-ocp-cad-viewer](https://github.com/bernhard-42/vscode-ocp-cad-viewer) - A viewer for OCP based Code-CAD (CadQuery, build123d) integrated into VS Code
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [p697/clawket](https://github.com/p697/clawket) - Mobile Client for OpenClaw, Hermes, and More
@@ -2087,7 +2087,7 @@
 - [technote-space/toc-generator](https://github.com/technote-space/toc-generator) - GitHub Actions to generate TOC (Table of Contents)
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - High-performance technical analysis indicators and backtesting framework in TypeScript. Zero dependencies. ✨ See how! 👀
 - [dylandoamaral/uptime-card](https://github.com/dylandoamaral/uptime-card) - Minimalistic uptime card for Home Assistant Lovelace UI
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and m
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [bennycode/trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈

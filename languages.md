@@ -96,7 +96,7 @@
 ## C 
 
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
-- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
+- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 display that shows you your Claude Code usage
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) - System Information and Benchmark for Linux Systems
 - [alphafox02/meshtastic-sniffer](https://github.com/alphafox02/meshtastic-sniffer) - Wideband passive Meshtastic LoRa receiver with multi-station fusion and offline PSK recovery
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -359,9 +359,10 @@
 
 ## Go 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [wrr/drop](https://github.com/wrr/drop) - Linux sandboxing that doesn't get in your way
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP, GraphQL and gRPC. Plain .http files you can diff and version, with workflows, mocks, profiling, tracing, OpenAPI import, SSH tunnels, Kubernetes port-forwards, WebSocket,
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP, GraphQL, gRPC, WebSocket and SSE. Plain .http files you can diff and version, with scripted tests, workflows, mocks, recorder, and a CLI runner for CI.
 - [NVIDIA/Personal-AI-Router](https://github.com/NVIDIA/Personal-AI-Router) - Router that virtually distributes inference across connected devices in the home.
 - [chrisgreg/boop](https://github.com/chrisgreg/boop) - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
 - [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
@@ -635,6 +636,7 @@
 
 ## Groovy 
 
+- [klohner/klohner.github.io](https://github.com/klohner/klohner.github.io) - 
 - [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) - A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin
 
 ## HCL 
@@ -676,7 +678,6 @@
 - [warrigal24/igors-quest](https://github.com/warrigal24/igors-quest) - Text adventure written using Adventuron
 - [warrigal24/charlie-the-chimp](https://github.com/warrigal24/charlie-the-chimp) - Text adventure written using Adventuron
 - [warrigal24/santas-trainee-elf](https://github.com/warrigal24/santas-trainee-elf) - Text adventure written using Adventuron
-- [klohner/klohner.github.io](https://github.com/klohner/klohner.github.io) - 
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [pialdama/Covid](https://github.com/pialdama/Covid) - 
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
@@ -737,7 +738,6 @@
 
 ## JavaScript 
 
-- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5
 - [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response.
@@ -1206,10 +1206,13 @@
 
 ## Python 
 
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+- [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo) - Traza como a mano: modelador 3D libre para arquitectura, ingeniería y diseño 3D. Linux, Windows y macOS. BIM e IFC con IngePresupuestos. Abre archivos .skp.
 - [yellowcooln/meshcore-mqtt-live-map](https://github.com/yellowcooln/meshcore-mqtt-live-map) - Live Map of Meshcore MQTT feed
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
+- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5
 - [andrewdcampbell/movie-barcodes](https://github.com/andrewdcampbell/movie-barcodes) - Simple and efficient movie barcode implementation in OpenCV.
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, qua
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
@@ -1248,7 +1251,6 @@
 - [RansomLook/RansomLook](https://github.com/RansomLook/RansomLook) - Yet another Ransomware gang tracker
 - [Emanuel-de-Jong/MIDI-To-Strudel](https://github.com/Emanuel-de-Jong/MIDI-To-Strudel) - Convert Midi files to Strudel code.
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -1275,7 +1277,7 @@
 - [CALM-home/model-smallbenchmark](https://github.com/CALM-home/model-smallbenchmark) - 
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity

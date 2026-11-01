@@ -58,6 +58,7 @@
 - [PowerShell](#powershell)
 - [Processing](#processing)
 - [Python](#python)
+- [QML](#qml)
 - [QuickBASIC](#quickbasic)
 - [R](#r)
 - [Ruby](#ruby)
@@ -225,7 +226,7 @@
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
@@ -359,6 +360,7 @@
 
 ## Go 
 
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [wrr/drop](https://github.com/wrr/drop) - Linux sandboxing that doesn't get in your way
@@ -366,6 +368,7 @@
 - [NVIDIA/Personal-AI-Router](https://github.com/NVIDIA/Personal-AI-Router) - Router that virtually distributes inference across connected devices in the home.
 - [chrisgreg/boop](https://github.com/chrisgreg/boop) - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
 - [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
@@ -493,7 +496,7 @@
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [lxc/distrobuilder](https://github.com/lxc/distrobuilder) - System container image builder for LXC and Incus
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
@@ -636,7 +639,6 @@
 
 ## Groovy 
 
-- [klohner/klohner.github.io](https://github.com/klohner/klohner.github.io) - 
 - [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) - A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin
 
 ## HCL 
@@ -654,7 +656,7 @@
 - [terryds/bestvaluemodel](https://github.com/terryds/bestvaluemodel) - Which LLM is worth it: Artificial Analysis Intelligence Index vs API price, refreshed daily
 - [REDMAMBA63/qui-possede-site](https://github.com/REDMAMBA63/qui-possede-site) - 
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [atiilla/GeoIntel](https://github.com/atiilla/GeoIntel) - GeoIntel using Google's Gemini API to uncover the location where photos were taken through AI-powered geo-location analysis.
@@ -678,6 +680,7 @@
 - [warrigal24/igors-quest](https://github.com/warrigal24/igors-quest) - Text adventure written using Adventuron
 - [warrigal24/charlie-the-chimp](https://github.com/warrigal24/charlie-the-chimp) - Text adventure written using Adventuron
 - [warrigal24/santas-trainee-elf](https://github.com/warrigal24/santas-trainee-elf) - Text adventure written using Adventuron
+- [klohner/klohner.github.io](https://github.com/klohner/klohner.github.io) - 
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [pialdama/Covid](https://github.com/pialdama/Covid) - 
 - [leeolney3/TidyTuesday](https://github.com/leeolney3/TidyTuesday) - #TidyTuesday submissions
@@ -738,6 +741,9 @@
 
 ## JavaScript 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [ehsanenaloo/AI-Bulk-Chat-Manager](https://github.com/ehsanenaloo/AI-Bulk-Chat-Manager) - Free, open-source browser extension to bulk-select, delete, archive and export your chats on ChatGPT, Claude, Gemini and Grok. Chrome, Edge, Firefox. Runs locally, no tracking, 11 languages.
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response.
@@ -757,6 +763,7 @@
 - [jaammees/lvllvl](https://github.com/jaammees/lvllvl) - 
 - [rawles/edit.tf](https://github.com/rawles/edit.tf) - An in-browser editor for teletext frames.
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Powerful note-taking without the hassle.
 - [hlotvonen/moebiusXBIN](https://github.com/hlotvonen/moebiusXBIN) - Modern ASCII & text-mode art editor
 - [MaitreJV/pseudoshield](https://github.com/MaitreJV/pseudoshield) - Extension Chrome de pseudonymisation RGPD pour IA (ChatGPT, Claude, DeepSeek). 100% local, zero telemetrie.
@@ -893,7 +900,7 @@
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
-- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
+- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android and iOS
 
 ## Lua 
 
@@ -1016,7 +1023,6 @@
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
 - [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [skiffos/docker-nixos](https://github.com/skiffos/docker-nixos) - Docker multi-stage build for nixos.
 - [vlktomas/nix-examples](https://github.com/vlktomas/nix-examples) - Showcase of Nix usage for various technologies
@@ -1154,6 +1160,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [sourcentis/deming](https://github.com/sourcentis/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
@@ -1163,7 +1170,6 @@
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [Covivo/mobicoop](https://github.com/Covivo/mobicoop) - Mirror from https://gitlab.com/mobicoop/mobicoop
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [mcguirepr89/BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 4B, 3B+, and 0W2 built on the TFLite version of BirdNET.
 - [ciccionamente/WeExpire](https://github.com/ciccionamente/WeExpire) - WeExpire is the first opensource tool for creating emergency notes that can be read by your trusted contacts only after your death or if you are seriously injured.
@@ -1206,9 +1212,12 @@
 
 ## Python 
 
+- [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
+- [aixisstudio/Snitch](https://github.com/aixisstudio/Snitch) - Real-time network monitor + outbound firewall — see & block every connection. Privacy-first, local-first, Rust fleet agent, SIEM exports, 8 languages. / Moniteur réseau temps réel + pare-feu sortant, 
+- [karim852/KUMO-Domain-Recon-Tool](https://github.com/karim852/KUMO-Domain-Recon-Tool) - Kumo 蜘蛛 is a domain OSINT & security reconnaissance framework. Drop a domain,  get everything back in real time across 29 parallel modules: DNS, open ports, leaked credentials, infostealer infections,
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo) - Traza como a mano: modelador 3D libre para arquitectura, ingeniería y diseño 3D. Linux, Windows y macOS. BIM e IFC con IngePresupuestos. Abre archivos .skp.
 - [yellowcooln/meshcore-mqtt-live-map](https://github.com/yellowcooln/meshcore-mqtt-live-map) - Live Map of Meshcore MQTT feed
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
@@ -1245,12 +1254,13 @@
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Give your agent CAD superpowers.
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [RansomLook/RansomLook](https://github.com/RansomLook/RansomLook) - Yet another Ransomware gang tracker
 - [Emanuel-de-Jong/MIDI-To-Strudel](https://github.com/Emanuel-de-Jong/MIDI-To-Strudel) - Convert Midi files to Strudel code.
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -1275,9 +1285,8 @@
 - [fieserWolF/petpet](https://github.com/fieserWolF/petpet) - PetPet is a PETSCII editor for Commodore 64 computers. As it is written entirely in Python, it runs on any platform supported by Python (Windows, MacOS, Linux and others).
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [CALM-home/model-smallbenchmark](https://github.com/CALM-home/model-smallbenchmark) - 
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
@@ -1295,7 +1304,7 @@
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted control plane for TLS certificates, ready for 47-day certificates: issue, renew, discover, inventory and deploy them, and serve ACME for internal names and IPv4 addresses
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
@@ -1327,7 +1336,7 @@
 - [ty-porter/RGBMatrixEmulator](https://github.com/ty-porter/RGBMatrixEmulator) - A desktop interface to emulate Raspberry Pi-powered LED matrices driven by rpi-rgb-led-matrix
 - [gickowtf/pixoo-homeassistant](https://github.com/gickowtf/pixoo-homeassistant) - Home Assistant Integration for Divoom Pixoo 64
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [HalilDeniz/BackDoorSim](https://github.com/HalilDeniz/BackDoorSim) - BackdoorSim: An Educational into Remote Administration Tools
@@ -1416,7 +1425,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [PromtEngineer/localGPT-Vision](https://github.com/PromtEngineer/localGPT-Vision) - Chat with your documents using Vision Language Models. This repo implements an End to End RAG pipeline with both local and proprietary VLMs
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pbeyssac/lidarpaint](https://github.com/pbeyssac/lidarpaint) - Add color to IGN LIDAR .laz files from corresponding aerial photography
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
@@ -1445,7 +1454,7 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The research engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
@@ -1625,6 +1634,10 @@
 - [samuel/python-munin](https://github.com/samuel/python-munin) - Python framework for building Munin plugins (also includes some plugins prebuilt).
 - [fabtools/fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files
 
+## QML 
+
+- [F4JTV/Exam1-Desktop](https://github.com/F4JTV/Exam1-Desktop) - Examens blancs du certificat d'opérateur du service amateur (radioamateur, ANFR), développés en C++17, Qt 6 et QML pour Windows/Linux/MacOS/Android
+
 ## QuickBASIC 
 
 - [grymmjack/QB64_GJ_LIB](https://github.com/grymmjack/QB64_GJ_LIB) - GRYMMJACK'S QB64 LIBRARY
@@ -1679,6 +1692,7 @@
 
 ## Rust 
 
+- [jorgeandrecastro/github-workflow](https://github.com/jorgeandrecastro/github-workflow) - 
 - [anomalyco/opentunnel](https://github.com/anomalyco/opentunnel) - 
 - [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
@@ -1767,7 +1781,7 @@
 - [desbma/shh](https://github.com/desbma/shh) - Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [todoesverso/logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -1789,7 +1803,7 @@
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
+- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast, Neuro-symbolic Data-Wrangling toolkit
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -1813,6 +1827,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -1855,6 +1870,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1918,7 +1934,7 @@
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [ncruces/go-coverage-report](https://github.com/ncruces/go-coverage-report) - GitHub Action to add a coverage badge to your Go repo
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
 - [Misterio77/minicava](https://github.com/Misterio77/minicava) - A miniature cava sound visualizer, designed for running in status bars
@@ -1993,6 +2009,8 @@
 
 ## TypeScript 
 
+- [ABSllk/Hexestra](https://github.com/ABSllk/Hexestra) - An AI-native penetration testing workbench where you and AI agents work together to accelerate your pentest workflow.
+- [gram-lang/gram](https://github.com/gram-lang/gram) - [MIRROR] Official mirror of the Gram markup language. Main repo & contributions: https://git.gram-lang.org/gram-lang/gram
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 - [midas-research/audino](https://github.com/midas-research/audino) - Open source audio annotation tool for humans
@@ -2009,7 +2027,6 @@
 - [syncular/syncular](https://github.com/syncular/syncular) - Offline-first SQL sync with Typescript and Rust cores
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using libsql w/vectors
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [hhourani27/asciip](https://github.com/hhourani27/asciip) - An online ASCII diagram editor
@@ -2045,13 +2062,14 @@
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap) - Global threat map. Learn wars, conflicts, military bases and history of nations.
 - [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - NativeMind: Your fully private, open-source, on-device AI assistant
+- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [aleyan/ascii-side-of-the-moon](https://github.com/aleyan/ascii-side-of-the-moon) - A lightweight ts library for rendering the moon in glorious ascii characters
 - [dom111/image-to-ansi](https://github.com/dom111/image-to-ansi) - Convert an image to ANSI colour codes using JavaScript.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [Ademking/FlashFuzz](https://github.com/Ademking/FlashFuzz) - Quickly fuzz URLs and scan for secrets directly in your browser tabs
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -2217,7 +2235,6 @@
 ## Vue 
 
 - [alexharris/ditherit-v3](https://github.com/alexharris/ditherit-v3) - 
-- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [sharevb/it-tools](https://github.com/sharevb/it-tools) - My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.

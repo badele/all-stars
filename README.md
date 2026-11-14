@@ -12,6 +12,7 @@
 - [accounting](#accounting)
 - [actions](#actions)
 - [activitypub](#activitypub)
+- [adb](#adb)
 - [adblock](#adblock)
 - [agent](#agent)
 - [agent-harness](#agent-harness)
@@ -159,6 +160,7 @@
 - [cncf](#cncf)
 - [code](#code)
 - [code-quality](#code-quality)
+- [code-review](#code-review)
 - [codex](#codex)
 - [coding](#coding)
 - [coding-agents](#coding-agents)
@@ -1073,6 +1075,10 @@
 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
+## adb 
+
+- [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+
 ## adblock 
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
@@ -1133,6 +1139,7 @@
 
 ## agents 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
@@ -2266,6 +2273,7 @@
 
 ## claude-code 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [Leonxlnx/cinetic](https://github.com/Leonxlnx/cinetic) - Cinematic launch films and motion design from code, directed by your coding agent.
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -2503,12 +2511,17 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
-- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
+- [pyrefly-org/pyrefly](https://github.com/pyrefly-org/pyrefly) - A fast type checker and language server for Python
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 
+## code-review 
+
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+
 ## codex 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
@@ -4610,7 +4623,7 @@
 ## gpu 
 
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - A high-performance engine for engineering math, physics simulation, and MCAD and ECAD as code. RunMat checks types, sizes and units before anything runs, executes on CPU and GPU, and runs existing MAT
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
@@ -5081,7 +5094,7 @@
 
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
-- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
+- [pyrefly-org/pyrefly](https://github.com/pyrefly-org/pyrefly) - A fast type checker and language server for Python
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 
@@ -6091,12 +6104,12 @@
 
 ## mathematics 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - A high-performance engine for engineering math, physics simulation, and MCAD and ECAD as code. RunMat checks types, sizes and units before anything runs, executes on CPU and GPU, and runs existing MAT
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 
 ## matlab 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - A high-performance engine for engineering math, physics simulation, and MCAD and ECAD as code. RunMat checks types, sizes and units before anything runs, executes on CPU and GPU, and runs existing MAT
 
 ## matplotlib 
 
@@ -6941,6 +6954,7 @@
 
 ## obsidian 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## obsidian-md 
@@ -7053,6 +7067,7 @@
 
 ## opencode 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and m
 
@@ -8407,7 +8422,7 @@
 - [vstconsulting/polemarch](https://github.com/vstconsulting/polemarch) - Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
-- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
+- [pyrefly-org/pyrefly](https://github.com/pyrefly-org/pyrefly) - A fast type checker and language server for Python
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [TheAuditorTool/Auditor](https://github.com/TheAuditorTool/Auditor) - Release channel for TheAuditor — see blog.theauditortool.com
@@ -9044,7 +9059,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [octopii-rs/octopii](https://github.com/octopii-rs/octopii) - 🦑 Distributed Systems Kernel written in rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - A high-performance engine for engineering math, physics simulation, and MCAD and ECAD as code. RunMat checks types, sizes and units before anything runs, executes on CPU and GPU, and runs existing MAT
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [hako/oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [AfaanBilal/NanoCore](https://github.com/AfaanBilal/NanoCore) - NanoCore 8-bit CPU emulator in Rust
@@ -9055,7 +9070,7 @@
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [todoesverso/logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
-- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
+- [pyrefly-org/pyrefly](https://github.com/pyrefly-org/pyrefly) - A fast type checker and language server for Python
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -9182,7 +9197,7 @@
 
 ## scientific-computing 
 
-- [runmat-org/runmat](https://github.com/runmat-org/runmat) - Open source math and physics engine that executes MATLAB-syntax code. Features a modern compiler, automatic GPU acceleration for large calculations, and support for math on geometry / FEA calculations
+- [runmat-org/runmat](https://github.com/runmat-org/runmat) - A high-performance engine for engineering math, physics simulation, and MCAD and ECAD as code. RunMat checks types, sizes and units before anything runs, executes on CPU and GPU, and runs existing MAT
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 
 ## scikit-learn 
@@ -9617,6 +9632,7 @@
 
 ## skills 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 
 ## slack 
@@ -10891,7 +10907,7 @@
 
 ## vscode-extension 
 
-- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
+- [pyrefly-org/pyrefly](https://github.com/pyrefly-org/pyrefly) - A fast type checker and language server for Python
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
